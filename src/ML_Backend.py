@@ -132,7 +132,7 @@ class ML_Backend():
         for i in self.DF.columns:
             print("This is the column -> " + str(i), "Amount of nulls/nas -> " + str(len(self.DF[i][self.DF[i].isnull()])))
 
-    def data_Encoding(self, columnwise=False):
+    def data_Encoding(self, columnwise=False, training=True):
         """Encode the non-numeric columns
 
         Keyword arguements:
@@ -148,11 +148,24 @@ class ML_Backend():
                 else:
                     self.DF = pd.concat([self.DF.drop(i, axis=1), pd.get_dummies(self.DF[i], prefix=i)], axis=1)
         else:
-            for i in self.DF.columns:
-                if is_numeric_dtype(self.DF[i]):
-                    pass
-                else:
-                    self.DF[i] = self.DF[i].astype("category").cat.codes
+            if training:
+                self.categories = pd.DataFrame()
+                for i in self.DF.columns:
+                    if is_numeric_dtype(self.DF[i]):
+                        pass
+                    else:
+                        self.categories[i] = self.DF[i].astype("category")
+                        self.categories[i + "Code"] = self.categories[i].cat.codes
+                        self.DF[i] = self.DF[i].astype("category").cat.codes
+                self.categories.to_csv(f"models/{self.dataSetName}/categories.csv")
+            else:   
+                for i in self.DF.columns:
+                    if is_numeric_dtype(self.DF[i]):
+                        pass
+                    else:
+                        self.categories = pd.read_csv(f"models/{self.dataSetName}/categories.csv")
+                        self.DF[i] = self.DF[i].apply(lambda cat: self.categories[self.categories[i] == cat][i + "Code"].values[0] if (self.categories[self.categories[i] == cat][i].count() > 0) else self.categories[i].max() + 1)
+        
 
 
     def data_Correlation(self, histogram=False, target = "INCOME_CLASSIFIER"):
@@ -352,7 +365,7 @@ class ML_Backend():
             self.check_Data()
             self.DF = self.DF.drop(dropColumns, axis=1)
             self.data_Cleaning()
-            self.data_Encoding(columnwise)
+            self.data_Encoding(columnwise, self.training)
             self.data_Correlation(histogram=histogram, target=target)
             if autoFS:
                 self.feature_Selection(target=target)
