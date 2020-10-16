@@ -37,9 +37,9 @@ class ML_Backend():
         "RandomForestClassifier": {"n_estimators": [50, 100, 200], "criterion": ['gini', "entropy"], "bootstrap": [True, False]},
         "DecisionTreeClassifier": {"criterion": ['gini', "entropy"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
         "XGBClassifier": {'nthread': [4], "objective": ["binary:logistic"], "learning_rate": [0.05], "max_depth": [6, 12], "min_child_weight": [11], "n_estimators": [1000, 2000, 4000]},
-        "RandomForestRegressor": {"n_estimators": [50, 100, 200], "criterion": ['mae', "mse"], "bootstrap": [True, False]},
-        "DecisionTreeRegressor": {"criterion": ['mae', "mse"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
-        "XGBRegressor": {'nthread': [4],  "learning_rate": [0.05], "max_depth": [6, 12], "min_child_weight": [11], "n_estimators": [1000, 2000, 4000]}
+        "RandomForestRegressor": {"n_estimators": [50, 100, 200, 500], "criterion": ['mae', "mse"], "bootstrap": [True, False]},
+        "DecisionTreeRegressor": {"criterion": ['mae', "mse", "friedman_mse"], "splitter": ["best", "random"], "max_depth": [100, 200, 500, 1000]},
+        "XGBRegressor": {'nthread': [4],  "learning_rate": [0.05, 0.1], "max_depth": [6, 12], "min_child_weight": [1, 3], "n_estimators": [1000, 2000, 4000]}
     }):
         """Initialise ML_Backend
 

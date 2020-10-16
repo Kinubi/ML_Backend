@@ -22,25 +22,22 @@ dfperday["Extracted Price"] = dfperday["Extracted Price"] .str.replace("\s", "")
 df["Extracted Price"] = df["Extracted Price"].str.replace("\s", "").astype(int)
 df = pd.concat([df, dfperday])
 
-df["Extracted area from description"] = df["property_description"].str.extract("Floor Size:\s(.*)\smB2")
+df["Extracted area from description"] = df["property_description"].str.extract("Size:\s(.*)\smB2")
 df["Extracted area from area"] = df["area"].str.extract("(\d*)\smB2")
 df["Extracted area from description"] = df["Extracted area from description"].str.replace("\s", "0").replace(np.nan, 0)
 df["Extracted area from area"] = df["Extracted area from area"].str.replace("\s", "0").replace(np.nan, 0)
 
-dfd = df[(df["Extracted area from description"].astype(float) > 0) & (df["Extracted area from area"].astype(float) == 0)]
-dfa = df[(df["Extracted area from description"].astype(float) == 0) & (df["Extracted area from area"].astype(float) > 0)]
-dfrest1 = df[~((df["Extracted area from description"].astype(float) == 0) & (df["Extracted area from area"].astype(float) > 0))]
-dfrest2 = df[~((df["Extracted area from description"].astype(float) > 0) & (df["Extracted area from area"].astype(float) == 0))]
-dfd["Extracted area"] = dfd['Extracted area from description']
-dfa["Extracted area"] = dfa['Extracted area from area']
-dfrest = pd.concat([dfrest1, dfrest2], ignore_index=True)
-dfrest = dfrest.drop_duplicates(subset=["property_description"])
-dfrest["Extracted area"] = np.nan
-df = pd.concat([dfd, dfa, dfrest1, dfrest2], ignore_index=True)
-df = df.drop_duplicates(subset=["property_description", "id"])
 
+dfa = df[(df["Extracted area from description"].astype(float) >= df["Extracted area from area"].astype(float))]
+dfb = df[(df["Extracted area from description"].astype(float) < df["Extracted area from area"].astype(float))]
 
-#df["Extracted area"] = (df["Extracted area from description"].astype(float) + df["Extracted area from area"].astype(float))
+dfa["Extracted area"] = dfa["Extracted area from description"].astype(float)
+dfb["Extracted area"] = dfa["Extracted area from area"].astype(float)
+
+df= pd.concat([dfa, dfb, df])
+
+df = df.drop_duplicates(subset=["property_description", "id"],keep='first')
+
 
 df["Extracted bedrooms from Bedrooms_1"] = df[(df["listing_agency"] == " Bathrooms") | (df["listing_agency"] == " Beds")]["Bedrooms_1"]
 df["Extracted bedrooms from Bedrooms_1"] = df["Extracted bedrooms from Bedrooms_1"].replace(np.nan, "0").str.replace("\s", "")
@@ -49,18 +46,39 @@ dfsplit = df[df["Extracted bedrooms from Bedrooms_1"].str.contains("\|")]
 
 dfsplit["Extracted bedrooms from Bedrooms_1"] = dfsplit["Extracted bedrooms from Bedrooms_1"].str.split("|").str[0].astype(float)
 df =  df[~df["Extracted bedrooms from Bedrooms_1"].str.contains(r"\|")]
+df = pd.concat([dfsplit, df])
 
-df["Extracted bedrooms from Bedrooms_2"] = df[~pd.to_numeric(df["Bedrooms_2"], errors="coerce").isnull()]["Bedrooms_2"]
 
-df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_1"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_1"] = 0
-df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_2"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_2"] = 0
-dfbd1 = df[(df["Extracted bedrooms from Bedrooms_1"].astype(float) > 0) & (df["Extracted bedrooms from Bedrooms_2"].astype(float) == 0)]
-dfbd2 = df[(df["Extracted bedrooms from Bedrooms_2"].astype(float) > 0) & (df["Extracted bedrooms from Bedrooms_1"].astype(float) == 0)]
-dfrest = df[(df["Extracted bedrooms from Bedrooms_2"].astype(float) == 0) & (df["Extracted bedrooms from Bedrooms_1"].astype(float) == 0)]
-dfbd1["Extracted Bedrooms"] = dfbd1['Extracted bedrooms from Bedrooms_1']
-dfbd2["Extracted Bedrooms"] = dfbd1['Extracted bedrooms from Bedrooms_2']
-dfrest["Extracted Bedrooms"] = np.nan
-df = pd.concat([dfbd1, dfbd2, dfrest])
+df["Extracted Bedrooms"] = df[df["Bedrooms_1"]=="Beds"]["Bedrooms_2"]
+
+
+
+# df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_1"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_1"] = 0
+# df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_2"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_2"] = 0
+
+# dfa = df[(df["Extracted bedrooms from Bedrooms_1"].astype(float) >= df["Extracted bedrooms from Bedrooms_2"].astype(float))]
+# dfb = df[(df["Extracted bedrooms from Bedrooms_1"].astype(float) < df["Extracted bedrooms from Bedrooms_2"].astype(float))]
+
+# dfa["Extracted Bedrooms"] = dfa["Extracted bedrooms from Bedrooms_1"].astype(float)
+# dfb["Extracted Bedrooms"] = dfa["Extracted bedrooms from Bedrooms_2"].astype(float)
+# df= pd.concat([dfa, dfb, df])
+
+# df = df.drop_duplicates(subset=["property_description", "id"],keep='first')
+#df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_1"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_1"] = 0
+#df.loc[pd.to_numeric(df["Extracted bedrooms from Bedrooms_2"], errors="coerce").isnull(), "Extracted bedrooms from Bedrooms_2"] = 0
+# print(df[df["Extracted bedrooms from Bedrooms_2"].astype(float)>0])
+# dfbd1 = df[(df["Extracted bedrooms from Bedrooms_1"].astype(float) > 0)]
+# dfbd2 = df[(df["Extracted bedrooms from Bedrooms_2"].astype(float) > 0)]
+
+# dfrest = df[(df["Extracted bedrooms from Bedrooms_2"].astype(float) == 0) & (df["Extracted bedrooms from Bedrooms_1"].astype(float) == 0)]
+# dfbd1["Extracted Bedrooms"] = dfbd1['Extracted bedrooms from Bedrooms_1'].copy()
+# print(dfbd1[dfbd1["Extracted Bedrooms"].astype(float)> 0])
+# dfbd2["Extracted Bedrooms"] = dfbd1['Extracted bedrooms from Bedrooms_2'].copy()
+# print(dfbd2[dfbd2["Extracted Bedrooms"].astype(float)> 0])
+
+# dfrest["Extracted Bedrooms"] = np.nan
+# df = pd.concat([dfbd1, dfbd2, dfrest], ignore_index=True)
+print(df[df["Extracted Bedrooms"].astype(float) > 0])
 
 
 df["Extracted Bathrooms"] = df[df["listing_agency"] != " Bathrooms"]["bathrooms"]
