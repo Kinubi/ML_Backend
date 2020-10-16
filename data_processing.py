@@ -104,6 +104,19 @@ df["Extracted Area_JHB"] = df["area_jhb"].str.extract(r"in\s(.*)\s\-")
 df["Extracted Area_JHB"] = df["Extracted Area_JHB"].replace(np.nan, "None")
 
 
-df = df[["id", "Extracted Price", "Extracted Bedrooms", "Extracted area", "Extracted Bathrooms", "Extracted Area_JHB"]]
+
+df["Extracted listing agency"] = df[(df["listing_agency"]!= " Beds") | (df["listing_agency"]!= " Bathrooms")]["listing_agency"]
+df["Extracted listing agency"] = df["Extracted listing agency"].replace(np.nan, "None").str.replace("Bathrooms", "None")
+
+
+df["Extracted Type"] = df[(df["listing_agency"]!= " Beds") | (df["listing_agency"]!= " Bathrooms")]["area_jhb"].str.extract("Bedroom\s(.*?)\s")
+df["Extracted Type"] = df["Extracted Type"].replace(np.nan, "None")
+
+df["Extracted Available Month"] = df["occupation_date"].str.extract(r"Available:\s\d{1,2}\s(.*?)\s\d{4}")
+df["Extracted Available Month"] = df["Extracted Available Month"].replace(np.nan, "None")
+
+
+
+df = df[["id", "Extracted Price", "Extracted Bedrooms", "Extracted area", "Extracted Bathrooms", "Extracted Area_JHB", "Extracted listing agency", "Extracted Type", "Extracted Available Month"]]
 print(df)
 df.to_csv("data/cleaned_train.csv", index=False)

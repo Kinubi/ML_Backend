@@ -37,7 +37,7 @@ class ML_Backend():
         "RandomForestClassifier": {"n_estimators": [50, 100, 200], "criterion": ['gini', "entropy"], "bootstrap": [True, False]},
         "DecisionTreeClassifier": {"criterion": ['gini', "entropy"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
         "XGBClassifier": {'nthread': [4], "objective": ["binary:logistic"], "learning_rate": [0.05], "max_depth": [6, 12], "min_child_weight": [11], "n_estimators": [1000, 2000, 4000]},
-        "RandomForestRegressor": {"n_estimators": [50, 100, 200, 500], "criterion": ['mae', "mse"], "bootstrap": [True, False]},
+        "RandomForestRegressor": {"n_estimators": [50, 100, 200], "criterion": ['mae', "mse"], "bootstrap": [True, False]},
         "DecisionTreeRegressor": {"criterion": ['mae', "mse", "friedman_mse"], "splitter": ["best", "random"], "max_depth": [100, 200, 500, 1000]},
         "XGBRegressor": {'nthread': [4],  "learning_rate": [0.05, 0.1], "max_depth": [6, 12], "min_child_weight": [1, 3], "n_estimators": [1000, 2000, 4000]}
     }):
@@ -254,7 +254,7 @@ class ML_Backend():
         self.models = []
         for i in self.model_Types:
             print(f"Training {i} model")
-            self.model_Dictionary[i] = GridSearchCV(self.model_Dictionary[i], self.gridParameters[i], n_jobs=-1, cv=3, scoring=["f1", "recall", "precision"] if self.type == "classification" else ["neg_mean_squared_error", "neg_mean_absolute_error"], refit="f1" if self.type == "classification" else "neg_mean_squared_error").fit(self.train_X, self.train_y)
+            self.model_Dictionary[i] = GridSearchCV(self.model_Dictionary[i], self.gridParameters[i], n_jobs=-1, cv=3, scoring=["f1", "recall", "precision"] if self.type == "classification" else ["neg_mean_squared_error", "neg_mean_absolute_error"], refit="f1" if self.type == "classification" else "neg_mean_absolute_error").fit(self.train_X, self.train_y)
             print(f"{i} model has been fit")
             try:
                 os.makedirs(f"Data/{self.dataSetName}")
@@ -298,6 +298,19 @@ class ML_Backend():
             else:
                 print(f"The validation Mean Absolute Error score is: {mean_absolute_error(self.test_y, self.val_predictions[i])}")
 
+
+    def predict(self):
+        """Validate trained models
+
+        If classification f1 scores for training and validation set is printed, along with ROC and confusion matrix
+        If regression mean_absolute_error is score for training and validation is printed
+        """
+        print("Testing models")
+        self.val_predictions = {}
+        self.features = self.DF.copy()
+        for i in self.model_Types:
+            self.val_predictions[i] = self.model_Dictionary[i].predict(self.features)
+            self.DF[i] = self.val_predictions[i]
         
 
     def load_Model(self):
@@ -321,7 +334,7 @@ class ML_Backend():
         target -- target column to be used in data_Correlation, feature_Selection, data_Prep functions
         dropColumns -- Columns to be dropped before and data manipulation occurs, list of strings (default ["SN_ID"])
         """
-        if self.training:
+        if self.training == True:
             self.load_DataSet()
             self.check_Data()
             self.DF = self.DF.drop(dropColumns, axis=1)
@@ -334,15 +347,37 @@ class ML_Backend():
             self.data_Prep(target=target, shuffleData=False)
             self.train_Model()
             self.validate()
-        else:
+        elif self.training == False:
             self.load_DataSet()
             self.check_Data()
             self.DF = self.DF.drop(dropColumns, axis=1)
             self.data_Cleaning()
             self.data_Encoding(columnwise)
             self.data_Correlation(histogram=histogram, target=target)
-            self.feature_Selection(target=target)
+            if autoFS:
+                self.feature_Selection(target=target)
             self.normalise_Data
             self.data_Prep(target=target, shuffleData=False)
             self.load_Model()
             self.validate()
+        elif self.training=="predict":
+            self.load_DataSet()
+            self.check_Data()
+            self.droppedColumns = self.DF[dropColumns]
+            self.DF = self.DF.drop(dropColumns, axis=1)
+            self.data_Cleaning()
+            self.data_Encoding(columnwise)
+            if autoFS:
+                self.feature_Selection(target=target)
+            self.normalise_Data
+            if target in self.DF.columns:
+                self.target = self.DF[target]
+                self.DF = self.DF.drop(target, axis=1)
+            self.load_Model()
+            self.predict()
+            try:
+                self.target
+                self.DF = pd.concat([self.DF, self.target, self.droppedColumns], axis=1)
+            except:
+                pass
+            self.DF.to_csv("data/predict_result.csv")
