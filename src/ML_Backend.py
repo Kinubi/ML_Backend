@@ -37,8 +37,8 @@ class ML_Backend():
         "RandomForestClassifier": {"n_estimators": [50, 100, 200], "criterion": ['gini', "entropy"], "bootstrap": [True, False]},
         "DecisionTreeClassifier": {"criterion": ['gini', "entropy"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
         "XGBClassifier": {'nthread': [4], "objective": ["binary:logistic"], "learning_rate": [0.05], "max_depth": [6, 12], "min_child_weight": [11], "n_estimators": [1000, 2000, 4000]},
-        "RandomForestRegressor": {"n_estimators": [50, 100, 200], "criterion": ['gini', "entropy"], "bootstrap": [True, False]},
-        "DecisionTreeRegressor": {"criterion": ['gini', "entropy"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
+        "RandomForestRegressor": {"n_estimators": [50, 100, 200], "criterion": ['mae', "mse"], "bootstrap": [True, False]},
+        "DecisionTreeRegressor": {"criterion": ['mae', "mse"], "splitter": ["best", "random"], "max_depth": [100, 200, 500]},
         "XGBRegressor": {'nthread': [4],  "learning_rate": [0.05], "max_depth": [6, 12], "min_child_weight": [11], "n_estimators": [1000, 2000, 4000]}
     }):
         """Initialise ML_Backend
@@ -57,6 +57,10 @@ class ML_Backend():
         self.model_Types = model_Types
         self.modelPaths = {}
         self.dataSetName = dataSetName
+        try:
+            os.mkdir(f"models/{self.dataSetName}")
+        except:
+            pass
         for i in self.model_Types:
             self.modelPaths[i] = f"models/{self.dataSetName}/{i}model.joblib"
         self.model_Dictionary = {"LogisticRegression": LogisticRegression(max_iter=500, n_jobs=-1), "RandomForestClassifier": RandomForestClassifier(n_jobs=-1), "XGBClassifier": XGBClassifier(), "DecisionTreeRegressor": DecisionTreeRegressor(), "RandomForestRegressor": RandomForestRegressor(n_jobs=-1), "XGBRegressor": XGBRegressor(), "DecisionTreeClassifier": DecisionTreeClassifier()}
@@ -211,6 +215,7 @@ class ML_Backend():
         self.data = transformer.fit_transform(X, y)
         columns_retained = self.DF.iloc[:, 1:].columns[transformer.get_support()].values
         self.DF = self.DF[columns_retained]
+        self.DF[target] = y
         
         print(f"The following columns are left:\n{self.DF.drop(columns=[target]).columns}")
 
@@ -307,7 +312,7 @@ class ML_Backend():
                 self.model_Types.pop(i)
 
 
-    def execute_Model(self, columnwise=False, histogram=True, target="INCOME_CLASSIFIER", dropColumns=["SN_ID"]):
+    def execute_Model(self, columnwise=False, histogram=True, target="INCOME_CLASSIFIER", dropColumns=["SN_ID"], autoFS=True):
         """Execute either the training or testing of models in one function call
 
         Keyword arguments:
@@ -323,7 +328,8 @@ class ML_Backend():
             self.data_Cleaning()
             self.data_Encoding(columnwise)
             self.data_Correlation(histogram=histogram, target=target)
-            self.feature_Selection(target=target)
+            if autoFS:
+                self.feature_Selection(target=target)
             self.normalise_Data
             self.data_Prep(target=target, shuffleData=False)
             self.train_Model()

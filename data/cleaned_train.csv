@@ -1,0 +1,1360 @@
+id,Extracted Price,Extracted Bedrooms,Extracted area,Extracted Bathrooms,Extracted Area_JHB
+20193238,4995,,45,,South Hills
+20193247,7995,,92,,South Hills
+20190961,8300,,70,,Glenvista
+20191243,6000,,46,,Naturena
+20191438,8300,,70,,Glenvista
+20191498,6500,,80,,"Bassonia - Johannesburg; RE/MAX, Superior"
+20193348,4000,,604,1.0,Berea
+20193359,3630,,496,1.0,Hillbrow
+20193362,6000,,60,1.0,Observatory
+20193389,4307,,495,1.0,Johannesburg Central
+20193391,3000,,744,1.0,Berea
+20193396,8500,,056,1.0,Auckland Park
+20190458,12500,,557,2.0,Sandringham
+20190466,20000,,031,2.0,Melrose North
+20190474,4000,,400,1.0,Lombardy East
+20190475,7300,,440,2.0,Oakdene
+20190477,12500,,410,2.0,Craighall Park
+20190521,7000,,290,1.0,Mulbarton
+20190560,6000,,702,1.0,Towerby
+20190564,7500,,870,1.0,Bassonia
+20190577,6600,,706,1.0,Winchester Hills
+20190587,9000,,834,2.0,Winchester Hills
+20190588,14000,,355,2.0,Suideroord
+20190614,6200,,588,1.0,Winchester Hills
+20190633,6500,,494,1.0,Westdene
+20190635,11000,,300,3.0,Mulbarton
+20190661,4200,,32,1.0,Johannesburg Central
+20190691,7400,,354,2.0,The Hill
+20190699,7600,,934,1.0,Bassonia
+20190714,5850,,51,1.0,Bassonia
+20190742,9000,,125,2.0,Gleneagles
+20190760,5500,,980,1.0,Johannesburg Central
+20190773,11000,,398,2.0,Bassonia
+20190783,5100,,368,1.0,Ridgeway
+20190793,6200,,297,1.0,Winchester Hills
+20190824,21500,,160,2.5,Craighall
+20190835,7700,,456,2.0,Linmeyer
+20190853,8200,,231,1.0,Glenvista
+20190859,19500,,665,3.0,Glenhazel
+20190875,26000,,97,1.5,Melrose Arch
+20190886,6000,,361,1.0,Mulbarton
+20190909,7500,,521,1.5,Glenvista
+20190910,7500,,293,2.0,Glenvista
+20190974,8800,,72,2.0,Glenvista
+20191032,11000,,180,1.0,Killarney
+20191033,17000,,159,2.0,Killarney
+20191064,17000,,121,2.0,Dunkeld West
+20191072,8500,,870,2.0,Bassonia
+20191078,12500,,160,2.0,Bruma
+20191086,10500,,692,2.0,Winchester Hills
+20191088,15875,,110,1.0,Riviera
+20191099,12500,,002,3.5,Bassonia
+20191101,5800,,599,1.0,Aeroton
+20191106,6500,,53,1.0,Ormonde
+20191114,6100,,55,1.0,Emmarentia
+20191143,10500,,114,2.0,Houghton Estate
+20191183,4500,,700,1.0,Berea
+20191184,40000,,600,4.0,Melrose North
+20191271,20000,,210,1.0,Melrose
+20191273,6500,,073,1.0,New Doornfontein
+20191350,10700,,617,2.0,Bassonia
+20191357,11000,,80,1.0,Melrose North
+20191365,14500,,76,2.0,Rosebank
+20191382,75000,,395,4.5,Houghton Estate
+20191443,18500,,120,2.0,Waverley
+20191463,6900,,053,1.0,Glenvista
+20191491,5850,,51,1.0,Mayfield Park
+20191533,5500,,68,1.0,Winchester Hills
+20191557,21990,,231,3.0,Glenvista
+20191645,55000,,283,4.0,Houghton Estate
+20191646,15000,,53,1.0,Melrose
+20191654,17500,,145,2.0,Savoy Estate
+20191674,9000,,916,2.0,Glenvista
+20191684,8000,,125,2.0,Gleneagles
+20191774,16000,,150,2.0,Birdhaven
+20191790,17000,,60,1.0,Rosebank
+20191812,16000,,160,1.5,Dunkeld West
+20191830,19000,,5,2.0,Rosebank
+20191970,5700,,368,1.0,Ridgeway
+20191975,15000,,100,1.0,Waverley
+20191992,16000,,240,2.0,Killarney
+20192157,4730,,587,1.0,Yeoville
+20192198,9000,,180,2.0,Glenvista
+20193121,5500,,,1.0,Emmarentia
+20193122,5000,,,1.0,Johannesburg Central
+20193124,7000,,,1.0,Marshalltown
+20193125,1950,,,1.0,Maboneng
+20193127,7500,,,1.0,Melville
+20193128,22000,,,2.0,Dunkeld West
+20193129,2350,,,1.0,Westdene
+20193131,1600,,,1.0,Marshalltown
+20193132,3200,,,1.0,Johannesburg Central
+20193134,16500,,,2.0,Melrose
+20193140,8500,,,1.0,Auckland Park
+20193142,22500,,,2.0,Rosebank
+20193153,18000,,,2.0,Oaklands
+20193154,6500,,,1.0,Sydenham
+20193156,40000,,,2.0,Forest Town
+20193157,26000,,,2.0,Rosebank
+20193158,6500,,,1.0,Auckland Park
+20193160,2900,,,1.0,Johannesburg Central
+20193162,13000,,,1.0,Parkwood
+20193163,4799,,,1.0,Johannesburg Central
+20193164,23000,,,2.5,Dunkeld
+20193166,6000,,,1.0,Auckland Park
+20193167,4850,,,1.0,Johannesburg Central
+20193168,5100,,,1.0,Lorentzville
+20193169,5200,,,1.0,Auckland Park
+20193170,55000,,,3.0,Dunkeld West
+20193171,9300,,,2.0,Auckland Park
+20193172,17000,,,1.0,Rosebank
+20193176,6500,,,1.0,Auckland Park
+20193178,4050,,,1.0,Johannesburg Central
+20193181,20000,,,2.0,Dunkeld West
+20193186,7455,,,1.0,Ormonde
+20193188,6000,,,1.0,Montgomery Park
+20193191,6292,,,1.0,Haddon
+20193197,22000,,,2.0,Rosebank
+20193198,15500,,,2.0,Rosebank
+20193200,4650,,,1.0,Bellevue East
+20193207,30000,,,2.0,Dunkeld
+20193208,5500,,,1.0,Johannesburg Central
+20193210,18000,,,1.0,Houghton Estate
+20193213,3800,,,1.0,Bellevue East
+20193215,15000,,,1.0,Houghton Estate
+20193218,2500,,,1.0,Yeoville
+20193223,5695,,,1.0,Doornfontein
+20193224,2500,,,1.0,Johannesburg Central
+20193225,11000,,,1.0,Rosebank
+20193228,3000,,,1.0,Berea
+20193234,6500,,,1.0,Auckland Park
+20193235,7500,,,1.0,Vrededorp
+20193242,4600,,,1.0,Jeppestown
+20193246,6000,,,1.0,Meredale
+20193248,2995,,,1.0,Turf Club
+20193252,16500,,,2.0,Dunkeld
+20193253,5500,,,1.0,Johannesburg Central
+20193257,22500,,,4.0,Houghton Estate
+20193262,14500,,,1.0,Melrose
+20193264,3000,,,1.0,Hillbrow
+20193267,14000,,,2.0,Craighall
+20193270,9200,,,2.0,Oakdene
+20193271,14000,,,2.0,Johannesburg Central
+20193273,5400,,,1.0,Bramley
+20193274,3080,,,1.0,Johannesburg Central
+20193275,4150,,,1.0,Johannesburg Central
+20193276,3650,,,1.0,Johannesburg Central
+20193280,16500,,,1.0,Rosebank
+20193283,5500,,,1.0,Auckland Park
+20193284,5500,,,1.0,Auckland Park
+20193288,4452,,,1.0,Johannesburg Central
+20193292,17000,,,2.0,Parkwood
+20193293,28000,,,2.0,Dunkeld
+20193296,20000,,,1.0,Dunkeld
+20193297,4200,,,1.0,Yeoville
+20193299,27000,,,3.0,Melrose
+20193300,16000,,,2.0,Rosebank
+20193307,8500,,,1.0,Craighall Park
+20193317,30000,,,2.0,Rosebank
+20193318,6000,,,1.0,Westdene
+20193322,8750,,,1.0,Sandringham
+20193324,22500,,,2.0,Melrose
+20193328,6000,,,1.0,Montgomery Park
+20193330,6500,,,1.0,Montgomery Park
+20193331,9000,,,1.0,Montgomery Park
+20193332,8000,,,1.0,Montgomery Park
+20193334,16500,,,2.0,Parkwood
+20193335,5500,,,1.0,Auckland Park
+20193340,11000,,,2.0,Johannesburg Central
+20193342,7000,,,1.0,Savoy Estate
+20193343,4000,,,1.0,Berea
+20193349,5500,,,1.0,Towerby
+20193350,4900,,,1.0,Craighall
+20193352,4290,,,1.0,Berea
+20193353,5600,,,1.0,Joubert Park
+20193354,5000,,,1.0,Johannesburg Central
+20193360,4180,,,1.0,Yeoville
+20193363,6270,,,1.0,Bellevue
+20193369,2900,,,1.0,Hillbrow
+20193370,5250,,,1.0,Yeoville
+20193371,5350,,,1.0,Lorentzville
+20193373,4600,,,1.0,Maboneng
+20193376,4200,,,1.0,Jeppestown
+20193377,3400,,,1.0,Berea
+20193378,3200,,,0.5,Bellevue
+20193381,1500,,,1.0,Yeoville
+20193382,5390,,,1.0,Rossmore
+20193384,3245,,,1.0,Berea
+20193386,2500,,,1.0,Hillbrow
+20193387,6120,,,1.0,Bellevue East
+20193392,5500,,,1.0,Berea
+20193393,7000,,,2.0,Hillbrow
+20193395,4300,,,1.0,Yeoville
+20193403,4730,,,1.0,Yeoville
+20193406,3000,,,1.0,Joubert Park
+20193407,4400,,,1.0,Berea
+20190421,5500,,,1.0,Kibler Park
+20190422,6300,,,1.0,Ridgeway
+20190423,18000,,,2.5,Riviera
+20190424,25000,,,2.5,Dunkeld
+20190425,17000,,,2.0,Melrose
+20190426,7000,,,2.0,Ormonde
+20190428,11000,,,2.0,Oakdene
+20190434,17000,,,2.0,Killarney
+20190435,5500,,,1.0,Meredale
+20190437,8500,,,1.5,Waverley
+20190460,10000,,,2.0,Linksfield Ridge
+20190462,6000,,,1.0,City & Suburban
+20190463,6500,,,1.0,Mulbarton
+20190471,10000,,,2.0,Glenvista
+20190472,7500,,,2.0,Mondeor
+20190476,30000,,,2.0,Melrose Arch
+20190478,7950,,,1.0,Parkwood
+20190479,8500,,,1.5,Parktown
+20190480,30000,,,2.0,Melrose Arch
+20190483,6100,,,1.0,Johannesburg Central
+20190484,6250,,,1.0,Mulbarton
+20190485,23000,,,2.5,Melrose
+20190487,19200,,,2.0,Parkview
+20190489,10000,,,1.0,Linksfield
+20190490,15000,,,2.0,Saxonwold
+20190495,29000,,,2.5,Melrose Estate
+20190497,12000,,,1.0,Craighall Park
+20190498,9500,,,1.0,Parktown North
+20190499,7000,,,1.0,Lyndhurst
+20190500,28000,,,2.0,Rosebank
+20190501,6500,,,1.0,Marshalltown
+20190503,14500,,,1.0,Dunkeld West
+20190505,19000,,,2.0,Dunkeld West
+20190506,28000,,,2.0,Dunkeld
+20190507,11000,,,1.0,Killarney
+20190509,12000,,,2.0,Suideroord
+20190511,16000,,,2.5,Riviera
+20190512,16500,,,2.0,Maboneng
+20190514,5500,,,1.0,Kibler Park
+20190515,9000,,,2.0,Glenvista
+20190516,5500,,,1.0,Observatory
+20190517,20000,,,2.0,Dunkeld
+20190518,3850,,,1.0,Albertville
+20190519,10200,,,2.0,Oakdene
+20190520,40000,,,3.5,Melrose North
+20190522,17000,,,2.0,Melrose
+20190523,12000,,,2.0,Parkview
+20190524,5500,,,1.0,Meredale
+20190525,28000,,,2.5,Dunkeld
+20190526,18000,,,2.0,Melrose
+20190527,6350,,,1.0,Kibler Park
+20190528,45000,,,2.5,Houghton Estate
+20190529,7550,,,1.0,Suideroord
+20190530,6550,,,1.0,Kibler Park
+20190531,4400,,,1.0,Lorentzville
+20190533,6100,,,1.0,Mayfield Park
+20190534,17000,,,2.0,Rosebank
+20190535,4200,,,1.0,City & Suburban
+20190537,5950,,,1.0,Alan Manor
+20190538,9000,,,1.0,Houghton Estate
+20190541,11500,,,1.0,Houghton Estate
+20190543,8300,,,,Glenvista
+20190545,8500,,,1.0,Melrose
+20190546,5500,,,1.0,Ridgeway
+20190547,5500,,,1.0,Kibler Park
+20190548,6100,,,1.0,Kibler Park
+20190549,5850,,,1.0,Kibler Park
+20190550,7500,,,2.0,Mulbarton
+20190552,8500,,,1.0,Parktown North
+20190555,5500,,,1.0,Johannesburg Central
+20190556,15500,,,2.5,Oaklands
+20190559,4100,,,1.0,Berea
+20190562,6350,,,1.0,Bassonia
+20190565,3900,,,1.0,Johannesburg Central
+20190568,11000,,,1.0,Saxonwold
+20190569,16000,,,1.0,Killarney
+20190570,11500,,,1.0,Houghton Estate
+20190571,6350,,,1.0,Kibler Park
+20190572,11500,,,2.0,Killarney
+20190573,10500,,,2.0,Melrose
+20190581,5400,,,1.0,Hillbrow
+20190584,7500,,,1.0,Parktown
+20190586,5850,,,1.0,South Hills
+20190589,5500,,,1.0,Joubert Park
+20190591,5160,,,1.0,Berea
+20190593,8800,,,1.5,Craighall Park
+20190594,20000,,,2.0,Melrose
+20190595,5500,,,1.0,Kibler Park
+20190596,7200,,,1.0,Auckland Park
+20190597,7500,,,2.0,Oakdene
+20190598,3795,,,1.0,Johannesburg Central
+20190600,7500,,,2.5,Mondeor
+20190601,6000,,,1.0,Braamfontein
+20190602,8200,,,2.0,Oakdene
+20190603,8500,,,2.0,Glenvista
+20190604,12500,,,2.0,Craighall Park
+20190605,24000,,,2.0,Rosebank
+20190606,6100,,,1.0,Oakdene
+20190608,15000,,,1.0,Melrose
+20190612,11800,,,1.0,Parktown North
+20190618,12500,,,1.0,Rosebank
+20190621,13999,,,2.0,Melrose North
+20190623,6000,,,1.0,Winchester Hills
+20190624,20000,,,2.5,Milpark
+20190625,5500,,,1.0,Meredale
+20190626,5850,,,1.0,Meredale
+20190629,5900,,,1.0,Craighall
+20190630,4400,,,1.0,Berea
+20190634,5850,,,1.0,Ormonde View
+20190637,10500,,,2.0,Craighall Park
+20190639,3850,,,1.0,Forest Hill
+20190640,9500,,,3.0,Fordsburg
+20190648,15000,,,2.0,Saxonwold
+20190649,6700,,,1.0,Parktown
+20190650,17000,,,2.0,Riviera
+20190657,6350,,,1.0,Kibler Heights
+20190658,10000,,,2.0,Killarney
+20190662,12500,,,2.0,Craighall Park
+20190663,4995,,,1.0,Regents Park
+20190664,5500,,,1.0,Meredale
+20190665,11000,,,1.0,Emmarentia
+20190666,20000,,,2.0,Melrose
+20190669,9000,,,2.0,Houghton Estate
+20190670,22000,,,1.0,Melrose Arch
+20190671,7500,,,1.0,Auckland Park
+20190672,5500,,,1.0,Naturena
+20190675,20000,,,2.0,Parkwood
+20190679,4650,,,1.0,Melville
+20190682,17000,,,2.0,Victoria
+20190683,5000,,,1.0,Maboneng
+20190684,19000,,,1.0,Melrose Arch
+20190686,6100,,,1.0,Kibler Park
+20190687,5850,,,1.0,Kibler Park
+20190689,10200,,,2.0,Oakdene
+20190692,11000,,,1.0,Craighall
+20190696,28000,,,2.5,Oaklands
+20190697,6450,,,1.0,Suideroord
+20190698,20000,,,2.0,Rosebank
+20190703,9000,,,2.0,Aeroton
+20190704,19200,,,2.0,Parkview
+20190705,11000,,,1.0,Bassonia
+20190706,5500,,,1.0,Meredale
+20190707,9500,,,1.0,Greenside East
+20190708,5800,,,1.0,Meredale
+20190709,5990,,,1.0,Alan Manor
+20190710,12000,,,1.0,Parkview
+20190711,15000,,,2.0,Killarney
+20190712,5850,,,1.0,Meredale
+20190713,5850,,,1.0,Kibler Park
+20190715,11999,,,2.0,Birdhaven
+20190717,5850,,,1.0,Kibler Park
+20190719,8600,,,1.0,Killarney
+20190725,9500,,,2.0,Glenvista
+20190729,7800,,,1.0,Sandringham
+20190731,12500,,,1.0,Melrose North
+20190736,7500,,,2.0,Liefde En Vrede
+20190739,13000,,,2.0,Bassonia
+20190741,13999,,,2.0,Killarney
+20190744,6500,,,1.0,Mondeor
+20190750,6100,,,1.0,Bassonia
+20190751,6350,,,1.0,Ormonde
+20190752,5850,,,1.0,Ormonde
+20190764,38000,,,2.0,Melrose Arch
+20190766,8000,,,1.0,Craighall
+20190774,17000,,,2.0,Dunkeld West
+20190775,10500,,,2.0,Craighall Park
+20190777,11500,,,1.0,Killarney
+20190779,29000,,,2.5,Rosebank
+20190780,9800,,,1.0,Montgomery Park
+20190781,5500,,,1.0,Meredale
+20190782,10000,,,1.5,Craighall Park
+20190784,5600,,,1.0,Kensington
+20190790,6999,,,1.0,Norwood
+20190795,13000,,,2.0,Waverley
+20190800,5850,,,1.0,Glenvista
+20190801,6100,,,1.0,Kibler Park
+20190802,6210,,,1.0,Bellevue
+20190803,15000,,,2.0,Oaklands
+20190804,24000,,,2.0,Melrose
+20190805,6000,,,1.0,Sandringham
+20190806,7000,,,1.0,Glensan
+20190808,6100,,,1.0,Kibler Park
+20190821,4100,,,1.0,Hillbrow
+20190823,13000,,,3.0,Suideroord
+20190825,15000,,,2.0,Melrose North
+20190827,20000,,,2.0,Parkview
+20190829,14500,,,2.0,Melrose
+20190830,25000,,,2.5,Bruma
+20190833,9250,,,1.0,Killarney
+20190838,3600,,,1.0,Winchester Hills
+20190839,13500,,,2.0,Killarney
+20190843,19000,,,2.0,Eltonhill
+20190847,5800,,,1.0,Winchester Hills
+20190848,6000,,,1.0,Winchester Hills
+20190850,10000,,,1.0,Houghton Estate
+20190862,6100,,,1.0,Ridgeway
+20190864,8500,,,1.0,Bruma
+20190867,45000,,,4.0,Houghton Estate
+20190868,25000,,,3.0,Oaklands
+20190871,15000,,,2.0,Melrose Estate
+20190872,5500,,,1.0,Eikenhof
+20190873,5850,,,1.0,Kibler Park
+20190877,17000,,,2.0,Killarney
+20190881,13500,,,1.5,Parkwood
+20190883,16000,,,2.5,Braamfontein Werf
+20190884,5950,,,1.0,Norwood
+20190887,9350,,,1.0,Greenside
+20190892,25000,,,2.0,Craighall
+20190893,5950,,,1.0,Melville
+20190895,7500,,,2.0,Mondeor
+20190896,5500,,,1.0,Kibler Heights
+20190897,5500,,,1.0,Jeppestown
+20190899,9000,,,1.0,Craighall
+20190902,5500,,,1.0,Winchester Hills
+20190905,23000,,,2.0,Melrose
+20190906,4400,,,1.0,Berea
+20190911,12000,,,1.0,Melrose
+20190912,11500,,,1.0,Melrose
+20190914,28000,,,2.5,Dunkeld
+20190916,6556,,,1.0,Johannesburg Central
+20190918,16000,,,1.5,Melrose North
+20190921,10000,,,1.0,Houghton Estate
+20190922,7500,,,2.0,Winchester Hills
+20190923,12500,,,1.0,Houghton Estate
+20190925,12000,,,1.0,Craighall Park
+20190926,8800,,,1.0,Rosebank
+20190927,11500,,,1.0,Rosebank
+20190929,19500,,,2.0,Killarney
+20190930,7800,,,1.0,Mulbarton
+20190931,6500,,,1.0,Winchester Hills
+20190933,7000,,,1.0,Melville
+20190934,8000,,,1.0,Melville
+20190935,14000,,,1.0,Parkwood
+20190939,7000,,,1.0,Winchester Hills
+20190941,4500,,,1.0,Wolhuter
+20190944,7000,,,1.0,Craighall
+20190945,22000,,,1.0,Melrose Arch
+20190946,5058,,,1.0,Berea
+20190947,6000,,,2.0,Naturena
+20190948,4995,,,1.0,South Hills
+20190951,12500,,,1.0,Rosebank
+20190952,12500,,,1.0,Rosebank
+20190953,8500,,,1.0,Rosebank
+20190956,10000,,,2.0,Emmarentia
+20190958,10200,,,2.0,Oakdene
+20190964,12000,,,1.0,Maboneng
+20190968,10000,,,3.0,Emmarentia
+20190970,34000,,,2.5,Melrose
+20190972,15000,,,2.0,Riviera
+20190975,14500,,,2.0,Rosebank
+20190977,10800,,,1.0,Houghton Estate
+20190978,10000,,,2.0,Parktown
+20190979,17500,,,2.0,Parkwood
+20190982,11750,,,1.0,Melrose
+20190984,8500,,,1.0,Saxonwold
+20190987,45000,,,2.0,Houghton Estate
+20190988,23000,,,2.0,Craighall
+20190989,25000,,,3.0,Saxonwold
+20190990,7500,,,1.0,Norwood
+20190991,12000,,,1.0,Killarney
+20190994,28000,,,2.0,Rosebank
+20190996,4052,,,1.0,Berea
+20190997,26000,,,1.5,Melrose
+20191005,14000,,,1.0,Melrose
+20191014,9000,,,1.0,Houghton Estate
+20191015,7500,,,2.0,Albertskroon
+20191016,7500,,,1.0,Killarney
+20191018,11500,,,2.0,Emmarentia
+20191019,10500,,,2.0,Gresswold
+20191021,14000,,,3.0,Killarney
+20191026,27000,,,2.5,Houghton Estate
+20191030,6100,,,1.0,Oakdene
+20191031,5850,,,1.0,Rosettenville
+20191037,10800,,,2.0,Oakdene
+20191040,12000,,,2.0,Eltonhill
+20191041,12500,,,1.0,Melrose North
+20191044,40000,,,4.0,Melrose
+20191047,10800,,,2.0,Oakdene
+20191050,6100,,,1.0,Oakdene
+20191051,6100,,,1.0,Oakdene
+20191052,11000,,,2.0,Parktown
+20191053,9900,,,2.0,Marshalltown
+20191055,15000,,,2.0,Houghton Estate
+20191056,10900,,,2.0,Houghton Estate
+20191060,11000,,,1.0,Melrose
+20191061,5700,,,1.0,Linmeyer
+20191062,9000,,,1.0,Saxonwold
+20191063,3900,,,1.0,Johannesburg Central
+20191065,9000,,,1.0,Houghton Estate
+20191066,26000,,,1.0,Melrose Arch
+20191067,12000,,,2.0,Melrose
+20191068,7000,,,1.0,Rembrandt Park
+20191071,6060,,,1.0,Joubert Park
+20191073,5700,,,1.0,Linmeyer
+20191074,8950,,,1.0,Craighall Park
+20191077,7500,,,1.0,Rosebank
+20191081,5500,,,1.0,Meredale
+20191082,40000,,,4.0,Melrose
+20191083,9000,,,1.0,Rosebank
+20191089,14000,,,1.0,Houghton Estate
+20191092,3840,,,1.0,Kenilworth
+20191096,7500,,,1.0,Houghton Estate
+20191098,5247,,,1.0,Turffontein
+20191100,8000,,,1.0,Linmeyer
+20191102,32000,,,2.0,Melrose Estate
+20191103,25000,,,2.0,Saxonwold
+20191108,5500,,,1.0,Meredale
+20191109,4400,,,1.0,West Turffontein
+20191110,50000,,,3.5,Houghton Estate
+20191112,5800,,,1.0,Westdene
+20191120,3740,,,1.0,Berea
+20191121,5000,,,1.0,Maboneng
+20191124,4345,,,1.0,Joubert Park
+20191125,5900,,,1.0,Winchester Hills
+20191128,20000,,,2.5,Parkview
+20191129,3800,,,1.0,Newtown
+20191130,5500,,,1.0,Parktown North
+20191132,14000,,,1.0,Parkwood
+20191133,4671,,,1.0,Hillbrow
+20191134,4876,,,1.0,Richmond
+20191135,4490,,,1.0,Rosettenville
+20191136,11000,,,2.0,Craighall Park
+20191141,6100,,,1.0,Oakdene
+20191144,15500,,,1.0,Killarney
+20191145,4800,,,1.0,Linmeyer
+20191149,3980,,,1.0,Forest Hill
+20191156,14000,,,3.0,Riviera
+20191160,10000,,,1.0,Melrose
+20191163,4500,,,1.0,Braamfontein
+20191164,4950,,,1.0,Jeppestown
+20191166,16000,,,2.0,Waverley
+20191175,16000,,,2.0,Birdhaven
+20191179,11500,,,1.0,Melrose
+20191180,3800,,,1.0,Johannesburg Central
+20191181,45000,,,2.0,Melrose Arch
+20191185,10535,,,1.0,Melrose Arch
+20191187,13000,,,2.0,Glenvista
+20191188,4900,,,2.0,Eastcliff
+20191189,65000,,,4.5,Houghton Estate
+20191190,25000,,,2.0,Dunkeld
+20191192,6900,,,1.0,Glenvista
+20191194,10000,,,2.0,Forest Town
+20191196,8000,,,2.0,Oakdene
+20191201,5600,,,1.0,Winchester Hills
+20191202,4000,,,1.0,Yeoville
+20191203,6100,,,1.0,Johannesburg Central
+20191205,5000,,,1.0,Yeoville
+20191206,17000,,,2.0,Dunkeld
+20191207,7500,,,1.0,Parkhurst
+20191208,4510,,,1.0,Bellevue East
+20191209,4800,,,1.0,Marshalltown
+20191211,16500,,,2.0,Melrose Arch
+20191212,10500,,,2.0,Winchester Hills
+20191214,5000,,,1.0,Ridgeway
+20191216,15000,,,2.0,Glenhazel
+20191220,18000,,,2.0,Melrose
+20191222,9000,,,2.5,Kew
+20191223,11500,,,1.0,Rosebank
+20191227,4620,,,1.0,City & Suburban
+20191231,14700,,,2.0,Westcliff
+20191232,7000,,,1.0,Craighall Park
+20191236,5300,,,1.0,Meredale
+20191237,20000,,,2.0,Killarney
+20191238,6000,,,1.0,Braamfontein Werf
+20191239,9000,,,2.0,Gresswold
+20191240,6350,,,1.0,New Doornfontein
+20191242,9800,,,1.0,Craighall
+20191246,5400,,,1.0,Johannesburg Central
+20191247,18000,,,2.0,Rosebank
+20191248,6402,,,1.0,Berea
+20191250,4600,,,1.0,Jeppestown
+20191255,7500,,,2.0,Glenanda
+20191256,12500,,,2.0,Killarney
+20191263,4000,,,1.0,Joubert Park
+20191264,6900,,,1.0,Malvern
+20191266,9750,,,2.0,Gresswold
+20191269,8500,,,1.0,Parktown North
+20191270,2400,,,1.0,Berea
+20191272,19800,,,2.0,Rosebank
+20191274,14500,,,2.0,Saxonwold
+20191275,10000,,,1.0,Killarney
+20191276,8000,,,1.0,Bruma
+20191277,11500,,,2.0,Greenside
+20191278,6999,,,1.0,Glenvista
+20191279,7500,,,1.0,Auckland Park
+20191282,60000,,,3.5,Houghton Estate
+20191283,6650,,,1.0,Glenvista
+20191284,18000,,,2.0,Melrose
+20191285,6100,,,1.0,South Hills
+20191286,16000,,,2.0,Linksfield
+20191289,12000,,,2.0,Parkwood
+20191290,3960,,,1.0,Kenilworth
+20191293,14000,,,2.0,Killarney
+20191294,5000,,,1.0,Mondeor
+20191295,16000,,,2.0,Killarney
+20191296,6100,,,1.0,Kibler Park
+20191304,5300,,,1.0,Rosettenville
+20191305,7000,,,1.0,Sydenham
+20191310,8000,,,1.0,Roodepoort
+20191315,7000,,,2.0,Yeoville
+20191316,17000,,,1.0,Rosebank
+20191317,10500,,,1.0,Riviera
+20191318,8500,,,1.0,Waverley
+20191330,4675,,,1.0,Yeoville
+20191337,4641,,,1.0,Hillbrow
+20191338,6000,,,1.0,Kensington
+20191339,7500,,,1.0,Newtown
+20191340,19000,,,2.0,Eltonhill
+20191341,5000,,,1.0,Highlands North
+20191342,9000,,,1.0,Craighall Park
+20191343,12500,,,2.0,Glenhazel
+20191345,5000,,,1.0,Maboneng
+20191346,5300,,,1.0,Meredale
+20191347,11000,,,1.0,Houghton Estate
+20191349,2995,,,1.0,Johannesburg Central
+20191351,4000,,,1.0,Malvern
+20191355,8800,,,2.0,Glenvista
+20191356,16500,,,1.0,Rosebank
+20191360,7200,,,1.0,Melville
+20191362,4000,,,1.0,Maboneng
+20191363,3000,,,1.0,Marshalltown
+20191364,5500,,,1.0,Meredale
+20191369,11000,,,2.0,Melrose North
+20191372,15000,,,1.0,Melrose North
+20191373,6000,,,1.0,Sandringham
+20191380,13000,,,3.0,Winchester Hills
+20191381,6250,,,1.0,Craighall
+20191383,20000,,,2.0,Eltonhill
+20191386,7680,,,1.0,Berea
+20191390,5500,,,1.0,Mondeor
+20191391,12800,,,2.0,Sandringham
+20191392,6100,,,1.0,Alan Manor
+20191393,11800,,,1.0,Melrose
+20191394,4598,,,1.0,Bellevue East
+20191396,15000,,,1.0,Houghton Estate
+20191397,6500,,,1.0,Mondeor
+20191401,22000,,,2.0,Rosebank
+20191403,3500,,,1.0,Johannesburg Central
+20191404,6200,,,1.0,Winchester Hills
+20191406,5500,,,1.0,Bramley
+20191410,14000,,,2.0,Rosebank
+20191411,5500,,,1.0,Alan Manor
+20191412,6500,,,1.0,Houghton Estate
+20191417,9000,,,2.0,Alan Manor
+20191418,15000,,,1.0,Killarney
+20191419,8000,,,1.0,Newtown
+20191421,15000,,,2.0,Rosebank
+20191422,17000,,,2.0,Melrose
+20191425,7000,,,1.0,Glenhazel
+20191426,5500,,,1.0,Ridgeway
+20191433,25000,,,2.0,Dunkeld West
+20191436,4500,,,1.0,Robertsham
+20191441,20000,,,3.0,Oaklands
+20191442,6500,,,2.0,Linmeyer
+20191445,50000,,,3.5,Houghton Estate
+20191448,10500,,,2.0,Houghton Estate
+20191450,25000,,,2.0,Eltonhill
+20191451,7300,,,2.0,Winchester Hills
+20191452,6500,,,1.0,Sydenham
+20191453,5250,,,1.0,Linksfield
+20191454,7400,,,2.0,Oakdene
+20191457,3259,,,1.0,Berea
+20191458,3259,,,1.0,Berea
+20191459,3088,,,1.0,Berea
+20191462,20000,,,2.5,Oaklands
+20191464,55000,,,4.0,Houghton Estate
+20191465,7000,,,2.0,Rembrandt Park
+20191467,4200,,,1.0,Doornfontein
+20191468,50000,,,4.0,Rosebank
+20191469,8600,,,1.0,Oakdene
+20191472,16500,,,2.0,Houghton Estate
+20191474,6080,,,1.0,Bellevue
+20191476,20000,,,2.0,Rosebank
+20191480,6000,,,1.0,Norwood
+20191482,8500,,,1.0,Waverley
+20191485,4200,,,1.0,Albertville
+20191487,11000,,,1.0,Houghton Estate
+20191488,50000,,,4.0,Rosebank
+20191489,13500,,,2.0,Parkwood
+20191494,6500,,,1.0,Rembrandt Park
+20191500,4500,,,1.0,Mondeor
+20191501,20000,,,2.0,Riviera
+20191502,11000,,,1.0,Melrose
+20191503,7000,,,1.0,Craighall
+20191510,7000,,,3.0,Fordsburg
+20191511,6400,,,1.0,Oakdene
+20191513,28000,,,2.5,Dunkeld West
+20191514,4950,,,1.0,Johannesburg Central
+20191515,24000,,,2.0,Waverley
+20191518,13000,,,2.0,Melrose
+20191519,8500,,,1.0,Berea
+20191520,13000,,,2.0,Melrose
+20191521,39500,,,2.0,Houghton Estate
+20191525,9000,,,2.0,Winchester Hills
+20191527,3995,,,1.0,Jeppestown
+20191529,7700,,,1.0,Maboneng
+20191534,19000,,,2.0,Parktown North
+20191535,2000,,,1.0,Turffontein
+20191536,6100,,,1.0,Alveda
+20191539,10000,,,1.0,Saxonwold
+20191542,4664,,,1.0,Bellevue
+20191544,14000,,,2.0,Craighall
+20191545,3750,,,1.0,Braamfontein
+20191556,4200,,,1.0,Maboneng
+20191558,5500,,,1.0,Bramley
+20191561,16000,,,2.0,Killarney
+20191562,12450,,,2.0,Craighall
+20191563,5850,,,1.0,Meredale
+20191564,18000,,,1.0,Houghton Estate
+20191565,4750,,,1.0,Emmarentia
+20191566,2399,,,1.0,North Doornfontein
+20191569,4300,,,1.0,Newtown
+20191572,7000,,,1.0,Sandringham
+20191573,6300,,,1.0,Houghton Estate
+20191575,6000,,,1.0,Doornfontein
+20191576,6350,,,1.0,Kibler Park
+20191577,24000,,,2.5,Waverley
+20191580,2995,,,0.5,Jeppestown
+20191581,22000,,,1.0,Melrose Arch
+20191583,3500,,,1.0,Rosettenville
+20191584,12500,,,2.0,Killarney
+20191585,12500,,,2.0,Craighall Park
+20191588,10000,,,2.0,Parktown North
+20191589,6500,,,1.0,Gresswold
+20191592,10800,,,2.0,Oakdene
+20191593,55000,,,4.5,Houghton Estate
+20191596,6000,,,1.0,Sandringham
+20191598,20000,,,2.0,Rosebank
+20191600,14000,,,2.0,Sandringham
+20191601,3225,,,1.0,Johannesburg Central
+20191602,2887,,,1.0,Johannesburg Central
+20191604,5000,,,1.0,Braamfontein
+20191609,7500,,,1.0,Melrose
+20191611,5300,,,1.0,Auckland Park
+20191613,6500,,,1.0,Montgomery Park
+20191616,5450,,,1.0,Winchester Hills
+20191617,15000,,,2.0,Parktown North
+20191622,9000,,,1.0,Rosebank
+20191623,5500,,,2.0,Lenasia South
+20191624,15000,,,2.0,Rosebank
+20191625,17500,,,2.0,Parkwood
+20191626,19800,,,2.0,Rosebank
+20191627,6500,,,1.0,Norwood
+20191628,5500,,,1.0,Meredale
+20191629,11500,,,1.0,Braamfontein
+20191631,5500,,,1.0,Meredale
+20191632,60000,,,4.5,Houghton Estate
+20191636,13000,,,1.5,Riviera
+20191637,4950,,,1.0,Rosettenville
+20191638,14500,,,2.0,Killarney
+20191641,14000,,,2.0,Riviera
+20191642,9000,,,1.0,Rosebank
+20191643,6500,,,1.0,Highlands North
+20191647,4600,,,1.0,Berea
+20191648,3700,,,1.0,Rosettenville
+20191651,5500,,,1.0,Meredale
+20191655,6500,,,1.0,Mulbarton
+20191656,6900,,,1.0,Parkwood
+20191659,3300,,,1.0,Marshalltown
+20191662,3800,,,1.0,Doornfontein
+20191672,38000,,,2.0,Rosebank
+20191676,10500,,,2.0,Melrose North
+20191679,13500,,,2.0,Killarney
+20191680,13500,,,2.0,Braamfontein Werf
+20191681,3695,,,1.0,Doornfontein
+20191682,13000,,,1.0,Craighall Park
+20191689,11500,,,2.0,Glenhazel
+20191690,4800,,,1.0,Berea
+20191695,7000,,,1.0,Auckland Park
+20191698,6500,,,1.0,Kibler Park
+20191701,4500,,,1.0,City & Suburban
+20191704,16500,,,2.0,Birdhaven
+20191707,8600,,,1.0,Riviera
+20191709,4500,,,1.0,Maboneng
+20191711,7800,,,1.0,Craighall Park
+20191712,17000,,,2.0,Rosebank
+20191713,6500,,,1.0,Haddon
+20191716,23000,,,2.0,Melrose North
+20191717,15000,,,1.0,Killarney
+20191718,22000,,,2.0,Rosebank
+20191724,2950,,,1.0,Johannesburg Central
+20191725,15500,,,2.0,Killarney
+20191729,6500,,,1.0,Jeppestown
+20191731,15000,,,1.0,Killarney
+20191739,10000,,,1.5,Killarney
+20191744,14999,,,2.0,Melrose North
+20191747,5000,,,1.0,Mayfield Park
+20191748,12000,,,2.5,Killarney
+20191753,18000,,,2.0,Killarney
+20191755,6500,,,1.5,Winchester Hills
+20191756,12900,,,2.0,Killarney
+20191759,5400,,,1.0,Yeoville
+20191760,12000,,,1.0,Parkview
+20191761,8750,,,1.0,Westdene
+20191763,3450,,,1.0,Johannesburg Central
+20191764,16500,,,2.0,Oaklands
+20191767,13000,,,1.5,Killarney
+20191768,15000,,,1.0,Killarney
+20191769,14000,,,1.0,Houghton Estate
+20191771,12000,,,1.0,Marshalltown
+20191778,18000,,,2.0,Rosebank
+20191784,8000,,,2.0,Corlett Gardens
+20191785,13500,,,2.0,Birdhaven
+20191787,19000,,,1.0,Melrose North
+20191789,6000,,,1.0,Ridgeway
+20191791,12000,,,1.0,Houghton Estate
+20191793,14500,,,2.0,Houghton Estate
+20191794,16000,,,2.0,Craighall
+20191796,28000,,,2.0,Dunkeld
+20191799,4580,,,1.0,Bellevue East
+20191801,9000,,,1.0,Parktown North
+20191803,7000,,,1.0,Bellevue East
+20191804,7500,,,2.0,Mondeor
+20191805,8000,,,1.0,Johannesburg Central
+20191808,35000,,,2.0,Houghton Estate
+20191809,11900,,,2.0,Killarney
+20191813,9500,,,2.0,Oakdene
+20191816,11500,,,1.0,Rosebank
+20191818,5450,,,1.0,Townsview
+20191820,16000,,,2.0,Melrose
+20191822,8800,,,1.0,Houghton Estate
+20191827,15000,,,1.0,Waverley
+20191832,7700,,,1.0,Parkwood
+20191833,5484,,,1.0,Hillbrow
+20191834,12000,,,1.0,Houghton Estate
+20191839,12500,,,1.0,Killarney
+20191845,4307,,,1.0,Yeoville
+20191849,6000,,,1.0,Albertville
+20191850,12000,,,1.0,Houghton Estate
+20191851,5600,,,1.0,Kensington
+20191859,24000,,,3.0,Glenvista
+20191861,11000,,,1.5,Parkwood
+20191862,14000,,,1.0,Parktown
+20191863,6500,,,1.0,Bellevue
+20191868,5800,,,1.0,Orange Grove
+20191872,5000,,,1.0,Auckland Park
+20191876,5500,,,1.0,Sydenham
+20191882,6500,,,1.0,Melville
+20191895,8000,,,1.0,Houghton Estate
+20191896,5000,,,1.0,Bellevue
+20191897,15000,,,2.0,Glenhazel
+20191898,5000,,,1.0,Maboneng
+20191900,7000,,,1.0,Braamfontein
+20191904,7000,,,1.0,Winchester Hills
+20191907,5550,,,2.0,Jeppestown
+20191910,7500,,,1.0,Liefde En Vrede
+20191911,15000,,,2.0,Killarney
+20191912,7000,,,1.0,Marshalltown
+20191913,7300,,,2.0,Glenvista
+20191916,4840,,,1.0,Rosettenville
+20191917,4500,,,1.0,Liefde En Vrede
+20191918,3900,,,1.0,Johannesburg Central
+20191920,5200,,,1.0,Auckland Park
+20191921,2500,,,1.0,Johannesburg Central
+20191922,8500,,,1.0,Marshalltown
+20191923,16500,,,2.0,Westcliff
+20191925,6950,,,2.0,Bassonia
+20191926,15000,,,2.0,Killarney
+20191927,25000,,,2.0,Rosebank
+20191930,11000,,,2.0,Observatory
+20191931,5000,,,1.0,Berea
+20191933,6000,,,1.0,Jeppestown
+20191935,8500,,,1.0,Waverley
+20191938,13000,,,2.0,Saxonwold
+20191945,9500,,,2.0,Oakdene
+20191949,4800,,,1.0,Observatory
+20191950,10500,,,1.0,Dunkeld West
+20191951,8000,,,2.0,Kibler Park
+20191952,5800,,,1.0,Malvern
+20191953,15000,,,2.0,Riviera
+20191954,14000,,,1.0,Parktown North
+20191955,10000,,,2.0,Orchards
+20191956,5500,,,1.0,Maboneng
+20191957,18000,,,2.0,Waverley
+20191959,12500,,,1.0,Melrose
+20191960,12000,,,1.0,Parktown
+20191963,5895,,,1.0,Jeppestown
+20191964,16000,,,2.0,Melrose Estate
+20191965,4995,,,1.0,South Hills
+20191966,3750,,,1.0,Braamfontein
+20191967,4500,,,1.0,Orange Grove
+20191972,4276,,,1.0,Johannesburg Central
+20191978,20000,,,2.0,Craighall Park
+20191979,12500,,,1.5,Craighall Park
+20191982,25000,,,2.5,Waverley
+20191986,9800,,,2.0,Mondeor
+20191987,12000,,,2.0,Craighall
+20191990,14500,,,2.0,Killarney
+20191991,15000,,,1.0,Houghton Estate
+20191994,11000,,,2.0,Waverley
+20192000,12000,,,2.0,Emmarentia
+20192002,6600,,,1.0,Winchester Hills
+20192003,10000,,,2.0,Gresswold
+20192006,38000,,,3.5,Rosebank
+20192011,17000,,,2.0,Norwood
+20192012,3750,,,1.0,Braamfontein
+20192013,5000,,,1.0,Berea
+20192014,3050,,,1.0,Rosettenville
+20192015,20000,,,2.5,Oaklands
+20192017,9000,,,2.0,Glenvista
+20192020,6000,,,1.0,Winchester Hills
+20192022,5800,,,1.0,Johannesburg Central
+20192024,6700,,,1.0,Mayfield Park
+20192025,9000,,,1.0,Rosebank
+20192027,6750,,,1.0,Oakdene
+20192028,3400,,,1.0,Hillbrow
+20192032,15000,,,2.0,Waverley
+20192035,2500,,,1.0,Johannesburg Central
+20192037,5235,,,1.0,Yeoville
+20192040,19000,,,2.0,Rosebank
+20192041,5500,,,1.0,Suideroord
+20192043,6500,,,1.0,Glenvista
+20192045,1750,,,1.0,Doornfontein
+20192046,8000,,,1.0,Craighall Park
+20192049,5000,,,1.0,Maboneng
+20192050,12000,,,1.0,Melrose Arch
+20192056,4050,,,1.0,Johannesburg Central
+20192057,22000,,,3.0,Oaklands
+20192058,8500,,,1.0,Braamfontein
+20192059,7200,,,1.0,Auckland Park
+20192062,3699,,,1.0,Maboneng
+20192063,4400,,,1.0,Wolhuter
+20192064,11000,,,2.0,Braamfontein
+20192067,16000,,,2.0,Parktown
+20192069,6300,,,1.0,Ridgeway
+20192072,14000,,,2.0,Craighall
+20192074,4700,,,1.0,Sandringham
+20192075,6150,,,1.0,Ormonde
+20192076,25000,,,2.0,Oaklands
+20192077,9500,,,2.0,Westdene
+20192078,14000,,,1.0,Killarney
+20192079,4300,,,1.0,Lombardy East
+20192080,12200,,,2.0,Bassonia
+20192082,7260,,,1.0,Mondeor
+20192086,26000,,,1.5,Melrose North
+20192090,30000,,,3.0,Oaklands
+20192093,6750,,,1.0,Bramley
+20192095,6000,,,2.0,Houghton Estate
+20192098,25000,,,1.0,Melrose Arch
+20192099,8030,,,1.0,Craighall Park
+20192102,3500,,,1.0,Johannesburg Central
+20192103,6800,,,1.0,Ridgeway
+20192105,7500,,,2.0,Bassonia
+20192107,16000,,,2.0,Riviera
+20192112,19000,,,1.0,Melrose North
+20192113,3700,,,1.0,Lombardy East
+20192114,7500,,,1.0,Lombardy East
+20192116,35000,,,2.0,Rosebank
+20192124,18000,,,2.0,Melrose
+20192126,6500,,,1.0,Winchester Hills
+20192128,19500,,,1.0,Birnam
+20192129,14000,,,2.0,Sandringham
+20192131,13000,,,2.0,Mulbarton
+20192134,24000,,,2.0,Rosebank
+20192136,1650,,,1.0,Highlands North
+20192141,3300,,,1.0,Johannesburg Central
+20192142,3200,,,1.0,Johannesburg Central
+20192144,4900,,,1.0,Johannesburg Central
+20192145,5500,,,1.0,Talboton
+20192146,11000,,,2.0,Riviera
+20192147,6000,,,1.0,Highlands North
+20192149,5500,,,1.0,Melville
+20192152,8000,,,2.0,Oakdene
+20192153,3400,,,1.0,Marshalltown
+20192155,18000,,,2.0,Waverley
+20192156,8000,,,1.0,Melrose North
+20192162,11500,,,1.0,Waverley
+20192163,8500,,,1.0,Maboneng
+20192165,8000,,,1.0,Auckland Park
+20192167,5500,,,1.0,Kensington
+20192169,11250,,,2.0,Highlands North
+20192170,9500,,,1.0,Auckland Park
+20192172,7455,,,1.0,Ormonde
+20192174,7000,,,1.0,Braamfontein
+20192181,5363,,,1.0,Bellevue
+20192182,16000,,,2.0,Birdhaven
+20192184,8500,,,1.0,Mulbarton
+20192185,15000,,,2.0,Melrose North
+20192186,6495,,,1.0,Braamfontein
+20192191,15500,,,2.0,Rosebank
+20192192,6980,,,1.0,Mayfield Park
+20192194,6350,,,1.0,Naturena
+20192195,4500,,,1.0,Ormonde
+20192197,5300,,,1.0,Linmeyer
+20192199,7876,,,2.0,Ormonde
+20192202,11500,,,1.0,Rosebank
+20192204,8500,,,1.0,Norwood
+20192209,7800,,,1.0,Rosebank
+20192210,17000,,,1.5,Houghton Estate
+20192211,18000,,,1.5,Houghton Estate
+20192218,5550,,,1.0,Johannesburg Central
+20191773,10500,,,1.0,Parkhurst
+20193305,9000,,30,,Auckland Park
+20190502,15000,,78,,Melrose North
+20190561,13000,,115,,Craighall Park
+20190582,6350,,56,,Ormonde
+20190694,3100,,500,,Turffontein
+20190722,11900,,106,,Norwood
+20190728,20000,,77,,Melrose Arch
+20190789,23000,,146,,Houghton Estate
+20190791,5500,,35,,Auckland Park
+20190810,10800,,151,,Bassonia
+20190828,7500,,695,,Glenvista
+20190837,11500,,99,,Bassonia
+20190880,4600,,495,,Forest Hill
+20190903,6350,,56,,Mulbarton
+20190928,15000,,143,,Eltonhill
+20190966,12000,,563,,Melrose
+20190980,8250,,96,,Killarney
+20191012,9000,,74,,Glenvista
+20191154,4200,,43,,Kensington
+20191169,20000,,146,,Rosebank
+20191252,14750,,122,,Oaklands
+20191334,7000,,588,,Winchester Hills
+20191358,25000,,130,,Dunkeld
+20191376,12500,,82,,Parkwood
+20191428,11500,,97,,Parkwood
+20191506,7500,,33,,Braamfontein
+20191587,10000,,80,,Auckland Park
+20191653,14000,,98,,Craighall
+20191706,16000,,106,,Riviera
+20191738,6500,,76,,Tulisa Park
+20191757,15900,,116,,Melrose
+20191782,6700,,58,,Winchester Hills
+20191825,8000,,99,,Bassonia
+20192031,7900,,372,,Melville
+20192073,23000,,211,,Houghton Estate
+20192104,5800,,150,,Malvern
+20192115,12000,,86,,Craighall Park
+20193123,6000,,,,Turffontein
+20193126,3400,,,,Rosettenville
+20193133,2950,,,,Marshalltown
+20193144,38000,,,,Houghton Estate
+20193145,5200,,,,Maboneng
+20193147,3500,,,,Hillbrow
+20193150,6500,,,,Liefde En Vrede
+20193151,4122,,,,Johannesburg Central
+20193152,7500,,,,Bruma
+20193159,10500,,,,Braamfontein
+20193165,6500,,,,Ridgeway
+20193177,30000,,,,Melrose Arch
+20193179,36500,,,,Melrose North
+20193182,22000,,,,Houghton Estate
+20193183,3900,,,,Rosettenville
+20193187,3900,,,,Rosettenville
+20193189,8000,,,,Maboneng
+20193192,7400,,,,Glenvista
+20193195,12000,,,,Killarney
+20193204,30000,,,,Melrose Arch
+20193219,7000,,,,Maboneng
+20193221,4050,,,,Marshalltown
+20193226,6600,,,,Winchester Hills
+20193229,6500,,,,Ridgeway
+20193237,5340,,,,Fordsburg
+20193249,6000,,,,Aeroton
+20193251,6000,,,,Brixton
+20193255,9700,,,,Parkhurst
+20193261,6500,,,,Maboneng
+20193269,6500,,,,Winchester Hills
+20193278,5000,,,,Emmarentia
+20193286,5570,,,,Newtown
+20193290,3530,,,,Johannesburg Central
+20193294,2750,,,,Hillbrow
+20193302,3450,,,,Marshalltown
+20193303,16500,,,,Parkwood
+20193308,12500,,,,Houghton Estate
+20193311,5500,,,,Alan Manor
+20193314,7000,,,,Oakdene
+20193315,16500,,,,Parkwood
+20193319,16500,,,,Parkwood
+20193320,16500,,,,Parkwood
+20193323,30000,,,,Dunkeld West
+20193325,13500,,,,Rosebank
+20193326,4050,,,,Joubert Park
+20193327,10000,,,,Auckland Park
+20193329,13000,,,,Parkwood
+20193333,6200,,,,Ferreirasdorp
+20193341,11500,,,,Lyndhurst
+20193344,3950,,,,Turffontein
+20193356,5500,,,,South Hills
+20193374,8500,,,,Winchester Hills
+20193375,6200,,,,Winchester Hills
+20193397,6400,,,,Winchester Hills
+20193400,4800,,,,Regents Park
+20193401,6000,,,,Turffontein
+20193405,6000,,,,Ridgeway
+20193408,12500,,,,Bassonia
+20190431,7500,,,,Westdene
+20190436,3900,,,,Berea
+20190473,8000,,,,Houghton Estate
+20190481,7000,,,,Parktown
+20190482,10500,,,,Oakdene
+20190488,9000,,,,Parktown
+20190492,13500,,,,Oakdene
+20190493,13000,,,,Bassonia
+20190504,5500,,,,Johannesburg Central
+20190542,3000,,,,Turffontein
+20190551,4000,,,,City & Suburban
+20190554,3600,,,,Rosettenville
+20190557,7000,,,,Townsview
+20190574,7000,,,,Glensan
+20190585,21500,,,,Craighall
+20190607,4883,,,,Johannesburg Central
+20190620,9500,,,,Gresswold
+20190646,6550,,,,Bassonia
+20190651,5500,,,,Alan Manor
+20190652,5500,,,,Meredale
+20190654,7800,,,,Mulbarton
+20190673,9500,,,,Melrose Estate
+20190681,5500,,,,Auckland Park
+20190695,5850,,,,Johannesburg Central
+20190701,5850,,,,Alan Manor
+20190702,25000,,,,Melrose Arch
+20190721,6100,,,,Winchester Hills
+20190724,28000,,,,Melrose Arch
+20190726,7800,,,,Mulbarton
+20190733,5500,,,,Kibler Park
+20190735,6350,,,,Mondeor
+20190738,12500,,,,Oakdene
+20190740,37000,,,,Melrose Arch
+20190743,8500,,,,Saxonwold
+20190745,12500,,,,Craighall Park
+20190746,4898,,,,Johannesburg Central
+20190755,6250,,,,Mayfield Park
+20190756,5850,,,,Ormonde
+20190757,6350,,,,Mondeor
+20190758,4500,,,,Rosettenville
+20190762,6100,,,,Meredale
+20190765,5500,,,,Robertsham
+20190769,6350,,,,Alan Manor
+20190776,12000,,,,Bassonia
+20190778,4800,,,,Robertsham
+20190792,12300,,,,Sandringham
+20190809,10900,,,,Houghton Estate
+20190813,6550,,,,Liefde En Vrede
+20190819,22000,,,,Melrose Estate
+20190822,8800,,,,Houghton Estate
+20190831,6350,,,,Naturena
+20190832,9500,,,,Ridgeway
+20190849,9000,,,,Bosmont
+20190851,3800,,,,Robertsham
+20190856,5500,,,,Mondeor
+20190860,11000,,,,Houghton Estate
+20190861,18500,,,,Glenhazel
+20190863,5850,,,,South Hills
+20190865,25000,,,,Melrose Arch
+20190876,20000,,,,Kensington
+20190891,12800,,,,Killarney
+20190894,6100,,,,Alveda
+20190920,20000,,,,Melrose Arch
+20190936,9000,,,,Oakdene
+20190937,8500,,,,Maboneng
+20190940,9500,,,,Oakdene
+20190942,6100,,,,Mondeor
+20190949,19500,,,,Parkview
+20190955,3500,,,,Turffontein
+20190960,6100,,,,Naturena
+20190983,10500,,,,Oakdene
+20190992,12000,,,,Observatory
+20190999,35000,,,,Saxonwold
+20191001,15500,,,,Killarney
+20191003,11000,,,,Oakdene
+20191004,11000,,,,Glenvista
+20191009,10000,,,,Saxonwold
+20191025,10000,,,,Saxonwold
+20191027,25000,,,,Craighall
+20191028,19000,,,,Dunkeld West
+20191029,13500,,,,Bassonia
+20191035,35000,,,,Melrose Arch
+20191039,49000,,,,Melrose Arch
+20191058,6350,,,,Mondeor
+20191075,5850,,,,Alveda
+20191079,34000,,,,Melrose Arch
+20191084,7100,,,,Montgomery Park
+20191091,3780,,,,New Doornfontein
+20191095,23000,,,,Houghton Estate
+20191097,25000,,,,Melrose Arch
+20191107,38000,,,,Melrose Arch
+20191111,14500,,,,Killarney
+20191117,4883,,,,Johannesburg Central
+20191123,6200,,,,Kibler Park
+20191126,13500,,,,Linksfield
+20191137,13500,,,,Killarney
+20191139,14580,,,,Norwood
+20191150,4600,,,,Forest Hill
+20191153,16000,,,,Saxonwold
+20191155,15000,,,,Birdhaven
+20191158,6100,,,,Liefde En Vrede
+20191162,6200,,,,Mulbarton
+20191176,12500,,,,Sandringham
+20191195,16900,,,,Forest Town
+20191197,5200,,,,Johannesburg Central
+20191198,4790,,,,Johannesburg Central
+20191204,6100,,,,Kibler Park
+20191213,6100,,,,Alan Manor
+20191215,12000,,,,Melrose
+20191218,4500,,,,Marshalltown
+20191219,6100,,,,Naturena
+20191257,7000,,,,Ormonde
+20191260,5850,,,,Kibler Park
+20191265,3300,,,,Rosettenville
+20191268,6500,,,,Whitney Gardens
+20191287,11760,,,,Norwood
+20191291,8500,,,,Bramley
+20191297,17000,,,,Killarney
+20191302,6100,,,,Ormonde
+20191306,3900,,,,Haddon
+20191307,8826,,,,Johannesburg Central
+20191308,5460,,,,Johannesburg Central
+20191324,11500,,,,Vrededorp
+20191325,8500,,,,Waverley
+20191327,6100,,,,South Hills
+20191331,11000,,,,Mulbarton
+20191333,15000,,,,Killarney
+20191354,8000,,,,Maboneng
+20191366,14000,,,,Oaklands
+20191367,25000,,,,Melrose Arch
+20191368,6600,,,,Savoy Estate
+20191375,17500,,,,Victoria
+20191377,6500,,,,Oakdene
+20191378,18000,,,,Craighall
+20191387,19500,,,,Dunkeld West
+20191398,6000,,,,Doornfontein
+20191413,7070,,,,Rispark
+20191415,6000,,,,Corlett Gardens
+20191416,9000,,,,Craighall Park
+20191420,10500,,,,Houghton Estate
+20191431,6300,,,,Oakdene
+20191449,12500,,,,Killarney
+20191455,6100,,,,Naturena
+20191456,7200,,,,Linmeyer
+20191481,5850,,,,Alan Manor
+20191486,6300,,,,Maboneng
+20191492,38000,,,,Melrose Arch
+20191496,65000,,,,Houghton Estate
+20191497,15000,,,,Houghton Estate
+20191499,26000,,,,Melrose Arch
+20191504,18000,,,,Killarney
+20191524,12000,,,,Melrose
+20191528,13700,,,,Killarney
+20191531,5500,,,,Mondeor
+20191546,6250,,,,Joubert Park
+20191551,6350,,,,Alveda
+20191553,12000,,,,Jeppestown
+20191570,17500,,,,Dunkeld West
+20191579,5500,,,,Linmeyer
+20191591,12500,,,,Melrose North
+20191594,16000,,,,Craighall
+20191597,6800,,,,Winchester Hills
+20191603,10000,,,,Oakdene
+20191605,3600,,,,Turffontein
+20191620,5500,,,,Kibler Park
+20191640,15300,,,,Rosebank
+20191649,6800,,,,Braamfontein
+20191650,17500,,,,Dunkeld West
+20191661,15000,,,,Killarney
+20191666,6500,,,,Rispark
+20191668,20000,,,,Greenside
+20191669,7500,,,,Linmeyer
+20191670,18000,,,,Melrose
+20191671,16000,,,,Craighall Park
+20191683,6500,,,,Winchester Hills
+20191686,5500,,,,Alveda
+20191692,3400,,,,Braamfontein
+20191693,30000,,,,Dunkeld
+20191696,7500,,,,Jeppestown
+20191697,15000,,,,Craighall
+20191699,20000,,,,Craighall Park
+20191700,18000,,,,Killarney
+20191705,6200,,,,Linmeyer
+20191714,35000,,,,Houghton Estate
+20191719,5850,,,,Ridgeway
+20191723,8500,,,,Bramley
+20191730,14000,,,,Oaklands
+20191733,5850,,,,Lenasia Ext 1
+20191734,5950,,,,Kibler Park
+20191735,15000,,,,Bruma
+20191737,4000,,,,Kenilworth
+20191741,5500,,,,The Hill
+20191742,55000,,,,Dunkeld West
+20191743,38000,,,,Melrose Arch
+20191746,16000,,,,Braamfontein Werf
+20191750,5500,,,,Robertsham
+20191762,15000,,,,Melrose North
+20191779,5500,,,,Winchester Hills
+20191780,20500,,,,Killarney
+20191786,6350,,,,Meredale
+20191788,4000,,,,The Hill
+20191797,35000,,,,Houghton Estate
+20191806,2160,,,,Bertrams
+20191819,5850,,,,The Hill
+20191824,6000,,,,Sandringham
+20191831,11000,,,,Waverley
+20191835,3950,,,,Braamfontein
+20191843,4000,,,,Joubert Park
+20191844,6000,,,,Upper Houghton
+20191846,13000,,,,Killarney
+20191847,8450,,,,Newtown
+20191848,7500,,,,Parkhurst
+20191852,8500,,,,Winchester Hills
+20191854,6100,,,,Alan Manor
+20191855,11000,,,,Oakdene
+20191856,20000,,,,Parkview
+20191857,5500,,,,Meredale
+20191867,4000,,,,Kenilworth
+20191869,6500,,,,Glenvista
+20191871,14950,,,,Birdhaven
+20191873,5850,,,,South Hills
+20191881,6000,,,,Greenside East
+20191884,13000,,,,Riviera
+20191888,25000,,,,Riviera
+20191889,3150,,,,Johannesburg Central
+20191890,5200,,,,Booysens
+20191892,6100,,,,Ridgeway
+20191893,6100,,,,Winchester Hills
+20191894,6100,,,,Robertsham
+20191899,3255,,,,Johannesburg Central
+20191903,5850,,,,Kibler Park
+20191906,5800,,,,Braamfontein
+20191932,9500,,,,Oakdene
+20191939,8500,,,,Parktown
+20191942,5850,,,,Forest Hill
+20191943,30000,,,,Houghton Estate
+20191944,65000,,,,Houghton Estate
+20191961,7500,,,,Lombardy East
+20191977,12000,,,,Lyndhurst
+20191984,6350,,,,Naturena
+20191985,16690,,,,Melrose North
+20191995,11500,,,,Fairmount
+20191996,9950,,,,Eltonhill
+20191999,8000,,,,Maboneng
+20192004,17000,,,,Norwood
+20192007,13500,,,,Houghton Estate
+20192016,4500,,,,Johannesburg Central
+20192018,6350,,,,Alveda
+20192030,7600,,,,Braamfontein
+20192034,7500,,,,Lombardy East
+20192044,23000,,,,Killarney
+20192047,3900,,,,Turffontein
+20192055,11500,,,,Riviera
+20192061,15000,,,,Riviera
+20192068,11000,,,,Killarney
+20192071,6000,,,,Braamfontein Werf
+20192084,4100,,,,Berea
+20192087,7500,,,,Newtown
+20192092,3000,,,,Rosettenville
+20192101,14000,,,,Riviera
+20192110,13000,,,,Oakdene
+20192117,6500,,,,Ridgeway
+20192119,12680,,,,Melrose North
+20192121,12750,,,,Killarney
+20192127,1790,,,,Killarney
+20192137,15000,,,,Glenhazel
+20192140,6300,,,,Oakdene
+20192151,10000,,,,Riviera
+20192160,9500,,,,Franklin Roosevelt Park
+20192166,6000,,,,Kensington
+20192176,3400,,,,Rosettenville
+20192180,5500,,,,Bramley
+20192200,6200,,,,Milpark
+20192205,10500,,,,Oakdene
+20192208,10000,,,,Craighall
+20192217,16500,,,,Dunkeld West
