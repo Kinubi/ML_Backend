@@ -1,1917 +1,828 @@
 ,Extracted Area_JHB,Extracted Area_JHBCode,Extracted listing agency,Extracted listing agencyCode,Extracted Type,Extracted TypeCode,Extracted Available Month,Extracted Available MonthCode
-0,None,88, None,97,None,1,None,9
-1,None,88, None,97,None,1,None,9
-2,None,88, None,97,None,1,None,9
-3,None,88, None,97,None,1,None,9
-4,None,88, None,97,None,1,None,9
-5,None,88, None,97,None,1,None,9
-6,None,88, None,97,None,1,None,9
-7,None,88, None,97,None,1,None,9
-8,None,88, None,97,None,1,None,9
-9,None,88, None,97,None,1,None,9
-10,None,88, None,97,None,1,None,9
-11,None,88, None,97,None,1,None,9
-12,None,88, None,97,None,1,None,9
-13,None,88, None,97,None,1,None,9
-14,None,88, None,97,None,1,None,9
-15,None,88, None,97,None,1,None,9
-16,None,88, None,97,None,1,None,9
-17,None,88, None,97,None,1,None,9
-18,None,88, None,97,None,1,None,9
-19,None,88, None,97,None,1,None,9
-20,None,88, None,97,None,1,None,9
-21,None,88, None,97,None,1,None,9
-22,None,88, None,97,None,1,None,9
-23,None,88, None,97,None,1,None,9
-24,None,88, None,97,None,1,None,9
-25,None,88, None,97,None,1,None,9
-26,None,88, None,97,None,1,None,9
-27,None,88, None,97,None,1,None,9
-28,None,88, None,97,None,1,None,9
-29,None,88, None,97,None,1,None,9
-30,None,88, None,97,None,1,None,9
-31,None,88, None,97,None,1,None,9
-32,None,88, None,97,None,1,None,9
-33,None,88, None,97,None,1,None,9
-34,None,88, None,97,None,1,None,9
-35,None,88, None,97,None,1,None,9
-36,None,88, None,97,None,1,None,9
-37,None,88, None,97,None,1,None,9
-38,None,88, None,97,None,1,None,9
-39,None,88, None,97,None,1,None,9
-40,None,88, None,97,None,1,None,9
-41,None,88, None,97,None,1,None,9
-42,None,88, None,97,None,1,None,9
-43,None,88, None,97,None,1,None,9
-44,None,88, None,97,None,1,None,9
-45,None,88, None,97,None,1,None,9
-46,None,88, None,97,None,1,None,9
-47,None,88, None,97,None,1,None,9
-48,None,88, None,97,None,1,None,9
-49,None,88, None,97,None,1,None,9
-50,None,88, None,97,None,1,None,9
-51,None,88, None,97,None,1,None,9
-52,None,88, None,97,None,1,None,9
-53,None,88, None,97,None,1,None,9
-54,None,88, None,97,None,1,None,9
-55,None,88, None,97,None,1,None,9
-56,None,88, None,97,None,1,None,9
-57,None,88, None,97,None,1,None,9
-58,None,88, None,97,None,1,None,9
-59,None,88, None,97,None,1,None,9
-60,None,88, None,97,None,1,None,9
-61,None,88, None,97,None,1,None,9
-62,None,88, None,97,None,1,None,9
-63,None,88, None,97,None,1,None,9
-64,None,88, None,97,None,1,None,9
-65,None,88, None,97,None,1,None,9
-66,None,88, None,97,None,1,None,9
-67,None,88, None,97,None,1,None,9
-68,None,88, None,97,None,1,None,9
-69,None,88, None,97,None,1,None,9
-70,None,88, None,97,None,1,None,9
-71,None,88, None,97,None,1,None,9
-72,None,88, None,97,None,1,None,9
-73,None,88, None,97,None,1,None,9
-74,Emmarentia,32, Property.CoZa - Randburg,114,Apartment,0,October,11
-75,Johannesburg Central,53, Chorus Letting,25,Apartment,0,September,12
-76,Marshalltown,72, Trafalgar Property Management,160,Apartment,0,March,7
-77,Maboneng,70, Chorus Letting,25,Apartment,0,June,6
-78,Melville,79, Sotheby's International Realty - Craighall,156,Apartment,0,October,11
-79,Dunkeld West,28, ANGOR Property Specialist,4,Apartment,0,March,7
-80,Westdene,135, Pryca Properties (Pty) Ltd,119,Apartment,0,April,0
-81,Marshalltown,72, Framework Property Services,46,Apartment,0,April,0
-82,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,August,1
-83,Melrose,74, Jawitz Johannesburg North,68,Apartment,0,March,7
-84,None,88, None,97,None,1,None,9
-85,None,88,  ,1,None,1,None,9
-86,None,88,  ,1,None,1,None,9
-87,Auckland Park,5, Skye Letting,154,Townhouse,2,November,10
-88,Rosebank,113, Frankie Bell's Real Estate,47,Apartment,0,March,7
-89,None,88, None,97,None,1,None,9
-90,None,88, None,97,None,1,None,9
-91,None,88, None,97,None,1,None,9
-92,None,88,  ,1,None,1,None,9
-93,Oaklands,92, Jawitz Johannesburg North,68,Townhouse,2,March,7
-94,Sydenham,121, You Realty,165,Apartment,0,January,4
-95,Forest Town,37, Engel & Volkers Hyde Park,36,Townhouse,2,May,8
-96,Rosebank,113, Frankie Bell's Real Estate,47,Apartment,0,April,0
-97,Auckland Park,5, National Letting - Johannesburg,91,Apartment,0,November,10
-98,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,March,7
-99,None,88, None,97,None,1,None,9
-100,Parkwood,102, RE/MAX Advantage,121,Apartment,0,January,4
-101,Johannesburg Central,53, iThemba Property,168,Apartment,0,April,0
-102,Dunkeld,27, Dogon Group Sandton,33,Apartment,0,January,4
-103,Auckland Park,5, Skye Letting,154,Apartment,0,February,3
-104,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,September,12
-105,Lorentzville,68, Framework Property Services,46,Apartment,0,April,0
-106,Auckland Park,5, Skye Letting,154,Apartment,0,February,3
-107,Dunkeld West,28, Jawitz Johannesburg North,68,Townhouse,2,March,7
-108,Auckland Park,5, Skye Letting,154,Townhouse,2,November,10
-109,Rosebank,113, Chas Everitt Hyde Park,23,Apartment,0,October,11
-110,None,88, None,97,None,1,None,9
-111,None,88, None,97,None,1,None,9
-112,Auckland Park,5, Skye Letting,154,Apartment,0,February,3
-113,Johannesburg Central,53, Framework Property Services,46,Apartment,0,April,0
-114,Dunkeld West,28, Jawitz Johannesburg North,68,Apartment,0,March,7
-115,None,88, None,97,None,1,None,9
-116,None,88, None,97,None,1,None,9
-117,Ormonde,96, Natrent Rentals,92,Townhouse,2,April,0
-118,Montgomery Park,83, Be Prop,15,Apartment,0,August,1
-119,None,88, None,97,None,1,None,9
-120,Haddon,48, Trafalgar Property Management,160,Apartment,0,February,3
-121,None,88, None,97,None,1,None,9
-122,None,88, None,97,None,1,None,9
-123,None,88,  ,1,None,1,None,9
-124,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,January,4
-125,Rosebank,113, RE/MAX Advantage,121,Apartment,0,January,4
-126,None,88, None,97,None,1,None,9
-127,Bellevue East,9, Framework Property Services,46,Apartment,0,March,7
-128,Albertville,3, ,0,Apartment,0,None,9
-129,None,88,  ,1,None,1,None,9
-130,None,88,  ,1,None,1,None,9
-131,Dunkeld,27, Dogon Group Sandton,33,Apartment,0,January,4
-132,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,January,4
-133,Houghton Estate,51, Firzt Realty Company Firzt Realty Company,45,Apartment,0,December,2
-134,None,88, None,97,None,1,None,9
-135,None,88, None,97,None,1,None,9
-136,Bellevue East,9, Trafalgar Property Management,160,Apartment,0,January,4
-137,None,88,  ,1,None,1,None,9
-138,Houghton Estate,51, Frankie Bell's Real Estate,47,Apartment,0,January,4
-139,None,88, None,97,None,1,None,9
-140,Yeoville,140, Mafadi Property Management Office,84,Apartment,0,March,7
-141,None,88, None,97,None,1,None,9
-142,None,88,  ,1,None,1,None,9
-143,Doornfontein,26, Mafadi Property Management Office,84,Apartment,0,April,0
-144,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,March,7
-145,Rosebank,113, Engel & Volkers Hyde Park,36,Apartment,0,September,12
-146,Berea,10, Mafadi Property Management Office,84,Apartment,0,January,4
-147,None,88, None,97,None,1,None,9
-148,None,88, None,97,None,1,None,9
-149,None,88, None,97,None,1,None,9
-150,None,88, None,97,None,1,None,9
-151,Auckland Park,5, Skye Letting,154,Apartment,0,December,2
-152,Vrededorp,131, Urban Link JHB Zone 1,162,Apartment,0,October,11
-153,None,88,  ,1,None,1,None,9
-154,South Hills,119, ,0,Townhouse,2,None,9
-155,None,88,  ,1,None,1,None,9
-156,Jeppestown,52, Chorus Letting,25,Apartment,0,March,7
-157,None,88,  ,1,None,1,None,9
-158,None,88, None,97,None,1,None,9
-159,Meredale,80, Harcourts Falcons,55,Apartment,0,February,3
-160,South Hills,119, ,0,Townhouse,2,None,9
-161,Turf Club,127, Framework Property Services,46,Apartment,0,April,0
-162,Dunkeld,27, Jawitz Johannesburg North,68,Apartment,0,March,7
-163,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,April,0
-164,None,88,  ,1,None,1,None,9
-165,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,April,0
-166,None,88, None,97,None,1,None,9
-167,Melrose,74, CP Inc Realtors,19,Apartment,0,February,3
-168,None,88, None,97,None,1,None,9
-169,Hillbrow,50, Framework Property Services,46,Apartment,0,March,7
-170,None,88,2 Bedroom Apartment / flat to rent in Dunkeld - Johannesburg,172,None,1,None,9
-171,Craighall,23, CP Inc Realtors,19,Apartment,0,July,5
-172,None,88,  ,1,None,1,None,9
-173,Oakdene,91, Lucy Ferreira Properties,82,Apartment,0,February,3
-174,Johannesburg Central,53, B-Sure Properties - Bedfordview,14,Apartment,0,February,3
-175,None,88,  ,1,None,1,None,9
-176,Bramley,18, Mafadi Property Management Office,84,Apartment,0,March,7
-177,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,February,3
-178,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,March,7
-179,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,March,7
-180,None,88, None,97,None,1,None,9
-181,Rosebank,113, RE/MAX Advantage,121,Apartment,0,January,4
-182,None,88,  ,1,None,1,None,9
-183,Auckland Park,5, Skye Letting,154,Apartment,0,November,10
-184,Auckland Park,5, Skye Letting,154,Apartment,0,January,4
-185,None,88, None,97,None,1,None,9
-186,None,88, None,97,None,1,None,9
-187,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,February,3
-188,None,88, None,97,None,1,None,9
-189,None,88, None,97,None,1,None,9
-190,Parkwood,102, Engel & Volkers Hyde Park,36,Apartment,0,March,7
-191,Dunkeld,27, NRG - Sandton,88,Apartment,0,October,11
-192,None,88, None,97,None,1,None,9
-193,Dunkeld,27, Dogon Group Sandton,33,Apartment,0,October,11
-194,Yeoville,140, Trafalgar Property Management,160,Apartment,0,March,7
-195,Melrose,74, Jawitz Johannesburg North,68,Apartment,0,March,7
-196,Rosebank,113, Engel & Volkers Hyde Park,36,Apartment,0,January,4
-197,None,88, None,97,None,1,None,9
-198,None,88, None,97,None,1,None,9
-199,None,88,  ,1,None,1,None,9
-200,Craighall Park,24, Infinite Property Network Dynamyx,61,Apartment,0,April,0
-201,None,88, None,97,None,1,None,9
-202,None,88, None,97,None,1,None,9
-203,None,88, None,97,None,1,None,9
-204,None,88, None,97,None,1,None,9
-205,Rosebank,113, RE/MAX Advantage,121,Apartment,0,January,4
-206,Westdene,135, Skye Letting,154,Apartment,0,November,10
-207,Sandringham,116, Leapfrog JHB North East,77,Apartment,0,September,12
-208,Melrose,74, Dogon Group Sandton,33,Apartment,0,January,4
-209,Montgomery Park,83, Be Prop,15,Apartment,0,March,7
-210,Montgomery Park,83, Be Prop,15,Apartment,0,April,0
-211,Montgomery Park,83, Be Prop,15,Apartment,0,May,8
-212,Montgomery Park,83, Be Prop,15,Apartment,0,March,7
-213,Parkwood,102, RE/MAX Advantage,121,Apartment,0,January,4
-214,Auckland Park,5, National Letting - Johannesburg,91,Apartment,0,September,12
-215,None,88, None,97,None,1,None,9
-216,None,88, None,97,None,1,None,9
-217,None,88, None,97,None,1,None,9
-218,None,88, None,97,None,1,None,9
-219,Johannesburg Central,53, Be Prop,15,Apartment,0,April,0
-220,Savoy Estate,117, Leapfrog JHB North East,77,Apartment,0,April,0
-221,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-222,None,88, None,97,None,1,None,9
-223,None,88, None,97,None,1,None,9
-224,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-225,Towerby,124, Landstar Property Solutions,76,Apartment,0,April,0
-226,Craighall,23, David Hubble Estates,29,Apartment,0,May,8
-227,None,88, None,97,None,1,None,9
-228,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-229,Joubert Park,54, Trafalgar Property Management,160,Apartment,0,June,6
-230,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,May,8
-231,None,88, None,97,None,1,None,9
-232,None,88,  ,1,None,1,None,9
-233,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,May,8
-234,Yeoville,140, Trafalgar Property Management,160,Apartment,0,April,0
-235,Observatory,93, Sotheby's International Realty - Craighall,156,Apartment,0,April,0
-236,Bellevue,8, Trafalgar Property Management,160,Apartment,0,April,0
-237,None,88, None,97,None,1,None,9
-238,None,88, None,97,None,1,None,9
-239,None,88, None,97,None,1,None,9
-240,None,88,Apartment / flat to rent in Joubert Park - Johannesburg,189,None,1,None,9
-241,None,88, None,97,None,1,None,9
-242,Hillbrow,50, Framework Property Services,46,Apartment,0,February,3
-243,Yeoville,140, Mafadi Property Management Office,84,Apartment,0,March,7
-244,Lorentzville,68, Framework Property Services,46,Apartment,0,March,7
-245,None,88, None,97,None,1,None,9
-246,Maboneng,70, Mafadi Property Management Office,84,Apartment,0,March,7
-247,Jeppestown,52, Framework Property Services,46,Apartment,0,March,7
-248,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-249,Bellevue,8, Framework Property Services,46,Apartment,0,February,3
-250,None,88, None,97,None,1,None,9
-251,None,88, None,97,None,1,None,9
-252,Yeoville,140, Framework Property Services,46,Apartment,0,April,0
-253,Rossmore,115, Trafalgar Property Management,160,Apartment,0,February,3
-254,None,88, None,97,None,1,None,9
-255,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-256,None,88, None,97,None,1,None,9
-257,Hillbrow,50, Framework Property Services,46,Apartment,0,March,7
-258,Bellevue East,9, Framework Property Services,46,Apartment,0,January,4
-259,None,88, None,97,None,1,None,9
-260,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,February,3
-261,None,88, None,97,None,1,None,9
-262,Berea,10, Trafalgar Property Management,160,Apartment,0,February,3
-263,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-264,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,January,4
-265,Yeoville,140, Trafalgar Property Management,160,Apartment,0,January,4
-266,Auckland Park,5, Trafalgar Property Management,160,Apartment,0,January,4
-267,None,88, None,97,None,1,None,9
-268,Yeoville,140, Trafalgar Property Management,160,Apartment,0,January,4
-269,Joubert Park,54, Trafalgar Property Management,160,Apartment,0,January,4
-270,Berea,10, Framework Property Services,46,Apartment,0,April,0
-271,None,88, None,97,None,1,None,9
-272,None,88,Apartment / flat to rent in Joubert Park - Johannesburg,189,None,1,None,9
-273,None,88, None,97,None,1,None,9
-274,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-275,Ridgeway,106, Harcourts Falcons,55,Townhouse,2,May,8
-276,Riviera,109, Firzt Realty Company Firzt Realty Company,45,Apartment,0,April,0
-277,Dunkeld,27, Silver Property Group,153,Apartment,0,April,0
-278,Melrose,74, You Realty,165,Apartment,0,May,8
-279,Ormonde,96, Jade Properties,65,Apartment,0,April,0
-280,Oakdene,91, Natrent Rentals,92,Townhouse,2,April,0
-281,None,88,  ,1,None,1,None,9
-282,None,88, None,97,None,1,None,9
-283,None,88, None,97,None,1,None,9
-284,Killarney,60, Adrienne Hersch Properties,6,Apartment,0,April,0
-285,Meredale,80, IHS Property Management,60,Apartment,0,May,8
-286,Waverley,132, Vered Estates,163,Apartment,0,May,8
-287,None,88, None,97,None,1,None,9
-288,Sandringham,116, Jawitz Bedfordview,67,Townhouse,2,April,0
-289,None,88,Apartment / flat to rent in Berea - Johannesburg,183,None,1,None,9
-290,Linksfield Ridge,65, Rawson Properties Dowerglen,127,Townhouse,2,May,8
-291,None,88, None,97,None,1,None,9
-292,City & Suburban,21, Mafadi Property Management Office,84,Apartment,0,June,6
-293,Mulbarton,84, Allegiance Properties - JHB South,8,Townhouse,2,June,6
-294,None,88, None,97,None,1,None,9
-295,None,88, None,97,None,1,None,9
-296,Melrose North,78, Seeff Sandton,150,Townhouse,2,May,8
-297,None,88, None,97,None,1,None,9
-298,None,88, None,97,None,1,None,9
-299,None,88, None,97,None,1,None,9
-300,Glenvista,43, Dormehl Phalane Property Group Meyersdal,34,Townhouse,2,April,0
-301,Mondeor,82, Rowcor Properties Eleanor Jacobs,141,Apartment,0,May,8
-302,Lombardy East,67, Rental,137,Townhouse,2,May,8
-303,Oakdene,91, Lencar Exclusive Properties,78,Townhouse,2,April,0
-304,Melrose Arch,75, Seeff Sandton,150,Apartment,0,May,8
-305,Craighall Park,24, Property.CoZa - Randburg,114,Townhouse,2,April,0
-306,Parkwood,102, Rental,137,Apartment,0,June,6
-307,Parktown,99, Property.CoZa - Randburg,114,Apartment,0,April,0
-308,Melrose Arch,75, Firzt Realty Company Firzt Realty Company,45,Apartment,0,May,8
-309,Johannesburg Central,53, 2LetNow - JHB,2,Apartment,0,April,0
-310,Mulbarton,84, Allegiance Properties - JHB South,8,Townhouse,2,May,8
-311,Melrose,74, Rental,137,Apartment,0,June,6
-312,None,88, None,97,None,1,None,9
-313,Parkview,101, Seeff Sandton,150,Apartment,0,May,8
-314,Linksfield,64, Rental,137,Apartment,0,April,0
-315,Saxonwold,118, Seeff Sandton,150,Apartment,0,May,8
-316,None,88, None,97,None,1,None,9
-317,Melrose Estate,77, Rental,137,Apartment,0,July,5
-318,None,88, None,97,None,1,None,9
-319,Craighall Park,24, Property.CoZa - Randburg,114,Apartment,0,March,7
-320,Parktown North,100, Rental,137,Apartment,0,June,6
-321,Lyndhurst,69, Property.CoZa - Midrand,113,Apartment,0,April,0
-322,Rosebank,113, Knightbridge Properties,75,Apartment,0,April,0
-323,Marshalltown,72, Seeff - Johannesburg Central,146,Apartment,0,April,0
-324,Dunkeld West,28, Seeff Sandton,150,Apartment,0,May,8
-325,Dunkeld West,28, Rental,137,Apartment,0,May,8
-326,Dunkeld,27, Knightbridge Properties,75,Apartment,0,April,0
-327,Killarney,60, Firzt Realty Company Firzt Realty Company,45,Apartment,0,April,0
-328,None,88,  ,1,None,1,None,9
-329,Suideroord,120, PropertyCloud,117,Townhouse,2,May,8
-330,Riviera,109, You Realty,165,Apartment,0,May,8
-331,Maboneng,70, Rental,137,Apartment,0,May,8
-332,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-333,Glenvista,43, PropertyCloud,117,Apartment,0,May,8
-334,Observatory,93, Rental,137,Townhouse,2,April,0
-335,Dunkeld,27, Knightbridge Properties,75,Apartment,0,April,0
-336,Albertville,3, EA Properties,35,Townhouse,2,April,0
-337,Oakdene,91, PropertyCloud,117,Townhouse,2,June,6
-338,Melrose North,78, You Realty,165,Townhouse,2,April,0
-339,Mulbarton,84, Lencar Exclusive Properties,78,Townhouse,2,May,8
-340,Melrose,74, Knightbridge Properties,75,Apartment,0,March,7
-341,Parkview,101, Rental,137,Apartment,0,May,8
-342,Meredale,80, 2LetNow - JHB,2,Apartment,0,April,0
-343,Dunkeld,27, Kent Gush Properties,72,Apartment,0,April,0
-344,Melrose,74, You Realty,165,Apartment,0,April,0
-345,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-346,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,April,0
-347,Suideroord,120, Seeff Kibler Park,147,Apartment,0,April,0
-348,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-349,Lorentzville,68, Framework Property Services,46,Apartment,0,May,8
-350,None,88, None,97,None,1,None,9
-351,Mayfield Park,73, 2LetNow - JHB,2,Apartment,0,April,0
-352,Rosebank,113, Knightbridge Properties,75,Apartment,0,March,7
-353,City & Suburban,21, Acutts Midrand,5,Apartment,0,April,0
-354,None,88,2 Bedroom Apartment / flat to rent in Meredale - Johannesburg,177,None,1,None,9
-355,Alan Manor,1, Seeff Kibler Park,147,Apartment,0,April,0
-356,Houghton Estate,51, Fengari Properties,42,Apartment,0,May,8
-357,None,88, None,97,None,1,None,9
-358,Houghton Estate,51, Etchells & Young Property Brokers,38,Apartment,0,April,0
-359,Glenvista,43, ,0,Townhouse,2,None,9
-360,None,88, None,97,None,1,None,9
-361,Melrose,74, Knightbridge Properties,75,Apartment,0,April,0
-362,Ridgeway,106, 2LetNow - JHB,2,Apartment,0,April,0
-363,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-364,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-365,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-366,Mulbarton,84, Harcourts 1 Vision,54,Townhouse,2,April,0
-367,Parktown North,100, Etchells & Young Property Brokers,38,Apartment,0,April,0
-368,Johannesburg Central,53, 2LetNow - JHB,2,Apartment,0,May,8
-369,Oaklands,92, You Realty,165,Apartment,0,April,0
-370,None,88, None,97,None,1,None,9
-371,Berea,10, Trafalgar Property Management,160,Apartment,0,May,8
-372,Towerby,124, Allegiance Properties - JHB South,8,Townhouse,2,May,8
-373,Bassonia,6, 2LetNow - JHB,2,Apartment,0,May,8
-374,None,88, None,97,None,1,None,9
-375,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,April,0
-376,Johannesburg Central,53, IHS Property Management,60,Apartment,0,May,8
-377,None,88, None,97,None,1,None,9
-378,None,88, None,97,None,1,None,9
-379,Saxonwold,118, You Realty,165,Apartment,0,April,0
-380,Killarney,60, Rental,137,Apartment,0,April,0
-381,Houghton Estate,51, Seeff Sandton,150,Apartment,0,April,0
-382,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-383,Killarney,60, Silver Property Group,153,Apartment,0,April,0
-384,Melrose,74, You Realty,165,Townhouse,2,April,0
-385,None,88, None,97,None,1,None,9
-386,Winchester Hills,137, Lencar Exclusive Properties,78,Townhouse,2,June,6
-387,None,88, None,97,None,1,None,9
-388,None,88,  ,1,None,1,None,9
-389,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,May,8
-390,None,88,2 Bedroom Apartment / flat to rent in Glenvista - Johannesburg,173,None,1,None,9
-391,Parktown,99, Rental,137,Apartment,0,April,0
-392,South Hills,119, 2LetNow - JHB,2,Apartment,0,April,0
-393,Winchester Hills,137, Allegiance Properties - JHB South,8,Townhouse,2,April,0
-394,Suideroord,120, Lencar Exclusive Properties,78,Townhouse,2,April,0
-395,Joubert Park,54, Trafalgar Property Management,160,Apartment,0,May,8
-396,None,88, None,97,None,1,None,9
-397,Berea,10, Trafalgar Property Management,160,Apartment,0,May,8
-398,None,88, None,97,None,1,None,9
-399,Craighall Park,24, Property.CoZa - Randburg,114,Apartment,0,March,7
-400,Melrose,74, Rental,137,Apartment,0,March,7
-401,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-402,Auckland Park,5, Rental,137,Apartment,0,May,8
-403,Oakdene,91, Rental,137,Townhouse,2,May,8
-404,Johannesburg Central,53, Rental,137,Apartment,0,April,0
-405,Mondeor,82, Rental,137,Apartment,0,May,8
-406,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,April,0
-407,Oakdene,91, PropertyCloud,117,Townhouse,2,May,8
-408,Glenvista,43, PropertyCloud,117,Townhouse,2,April,0
-409,Craighall Park,24, Kings Estates,74,Townhouse,2,May,8
-410,Rosebank,113, Knightbridge Properties,75,Apartment,0,March,7
-411,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-412,Melrose,74, Limestone Residential Properties,80,Apartment,0,March,7
-413,None,88,  ,1,None,1,None,9
-414,None,88, None,97,None,1,None,9
-415,Parktown North,100, Rental,137,Apartment,0,May,8
-416,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-417,None,88, None,97,None,1,None,9
-418,None,88,  ,1,None,1,None,9
-419,None,88, None,97,None,1,None,9
-420,Rosebank,113, Knightbridge Properties,75,Apartment,0,April,0
-421,None,88, None,97,None,1,None,9
-422,Melrose North,78, Rental,137,Apartment,0,April,0
-423,None,88, None,97,None,1,None,9
-424,Winchester Hills,137, PropertyCloud,117,Townhouse,2,May,8
-425,Milpark,81, Etchells & Young Property Brokers,38,Apartment,0,April,0
-426,Meredale,80, 2LetNow - JHB,2,Apartment,0,May,8
-427,Meredale,80, 2LetNow - JHB,2,Apartment,0,May,8
-428,None,88, None,97,None,1,None,9
-429,Craighall,23, Rent - A - Property,136,Apartment,0,May,8
-430,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-431,None,88, None,97,None,1,None,9
-432,None,88, None,97,None,1,None,9
-433,Westdene,135, EA Properties,35,Apartment,0,May,8
-434,Ormonde View,97, 2LetNow - JHB,2,Apartment,0,May,8
-435,Mulbarton,84, Rental,137,Townhouse,2,March,7
-436,Craighall Park,24, Infinite Property Network Dynamyx,61,Apartment,0,July,5
-437,None,88, None,97,None,1,None,9
-438,Forest Hill,36, Trafalgar Property Management,160,Apartment,0,April,0
-439,Fordsburg,35, Rental,137,Apartment,0,April,0
-440,None,88, None,97,None,1,None,9
-441,None,88, None,97,None,1,None,9
-442,None,88, None,97,None,1,None,9
-443,None,88, None,97,None,1,None,9
-444,None,88, None,97,None,1,None,9
-445,Saxonwold,118, Vered Estates,163,Apartment,0,May,8
-446,Parktown,99, Lencar Exclusive Properties,78,Apartment,0,March,7
-447,Riviera,109, Seeff Sandton,150,Apartment,0,March,7
-448,None,88, None,97,None,1,None,9
-449,Kibler Heights,58, 2LetNow - JHB,2,Apartment,0,May,8
-450,Killarney,60, Nomsa Nene Properties,96,Apartment,0,April,0
-451,None,88, None,97,None,1,None,9
-452,None,88, None,97,None,1,None,9
-453,Craighall Park,24, Sotheby's International Realty - Craighall,156,Apartment,0,May,8
-454,Regents Park,103, AFHCO Africa Housing Company,3,Apartment,0,May,8
-455,Meredale,80, 2LetNow - JHB,2,Apartment,0,May,8
-456,Emmarentia,32, Property.CoZa - Randburg,114,Apartment,0,March,7
-457,Melrose,74, Silver Property Group,153,Apartment,0,April,0
-458,None,88, None,97,None,1,None,9
-459,Houghton Estate,51, Rawson Properties Linden,130,Apartment,0,April,0
-460,Melrose Arch,75, Silver Property Group,153,Apartment,0,April,0
-461,Auckland Park,5, Rental,137,Townhouse,2,May,8
-462,Naturena,85, IHS Property Management,60,Apartment,0,April,0
-463,None,88,2 Bedroom Apartment / flat to rent in Naturena - Johannesburg,179,None,1,None,9
-464,Parkwood,102, Rental,137,Townhouse,2,May,8
-465,None,88, None,97,None,1,None,9
-466,None,88,  ,1,None,1,None,9
-467,None,88, None,97,None,1,None,9
-468,Melville,79, EA Properties,35,Apartment,0,December,2
-469,Victoria,130, Adrienne Hersch Properties,6,Townhouse,2,April,0
-470,Maboneng,70, Rental,137,Apartment,0,April,0
-471,Melrose Arch,75, Rental,137,Apartment,0,April,0
-472,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-473,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-474,None,88, None,97,None,1,None,9
-475,Oakdene,91, PropertyCloud,117,Townhouse,2,April,0
-476,None,88, None,97,None,1,None,9
-477,The Hill,123, Lencar Exclusive Properties,78,Townhouse,2,April,0
-478,Craighall,23, Rawson Properties Linden,130,Apartment,0,April,0
-479,None,88, None,97,None,1,None,9
-480,Oaklands,92, Rawson Properties Sandton Apartment Living,132,Apartment,0,March,7
-481,Suideroord,120, Seeff Kibler Park,147,Apartment,0,March,7
-482,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,April,0
-483,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,June,6
-484,Aeroton,0, Choprop (Pty) Ltd Rentals,24,Apartment,0,April,0
-485,Parkview,101, Harcourts Heritage,56,Apartment,0,May,8
-486,Bassonia,6, Seeff Meyersdal,148,Townhouse,2,April,0
-487,Meredale,80, Propertyzz.Com,118,Apartment,0,March,7
-488,Greenside East,46, Rental,137,Apartment,0,June,6
-489,Meredale,80, Rental,137,Townhouse,2,May,8
-490,Alan Manor,1, Jawitz Alberton & Germiston,66,Townhouse,2,May,8
-491,Parkview,101, Etchells & Young Property Brokers,38,Apartment,0,March,7
-492,Killarney,60, Zareena Kara Properties,166,Apartment,0,April,0
-493,Meredale,80, 2LetNow - JHB,2,Apartment,0,May,8
-494,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-495,Bassonia,6, 2LetNow - JHB,2,Apartment,0,May,8
-496,Birdhaven,12, Renprop Residential,135,Apartment,0,May,8
-497,None,88, None,97,None,1,None,9
-498,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,March,7
-499,None,88, None,97,None,1,None,9
-500,Killarney,60, You Realty,165,Apartment,0,April,0
-501,None,88, None,97,None,1,None,9
-502,Glenvista,43, Lencar Exclusive Properties,78,Apartment,0,June,6
-503,None,88, None,97,None,1,None,9
-504,Sandringham,116, Huizemark Johannesburg North East,58,Apartment,0,May,8
-505,None,88, None,97,None,1,None,9
-506,Melrose North,78, Seeff Sandton,150,Townhouse,2,April,0
-507,None,88, None,97,None,1,None,9
-508,None,88, None,97,None,1,None,9
-509,Liefde En Vrede,63, Rawson Properties Glenvista,129,Townhouse,2,April,0
-510,Bassonia,6, PropertyCloud,117,Townhouse,2,April,0
-511,Killarney,60, Rental,137,Apartment,0,March,7
-512,Gleneagles,40, Lencar Exclusive Properties,78,Townhouse,2,May,8
-513,Mondeor,82, Fengari Properties,42,Apartment,0,May,8
-514,None,88, None,97,None,1,None,9
-515,"Winchester Hills - Johannesburg; RE/MAX, Superior",138, ,0,Townhouse,2,None,9
-516,Bassonia,6, 2LetNow - JHB,2,Apartment,0,May,8
-517,Ormonde,96, 2LetNow - JHB,2,Apartment,0,May,8
-518,Ormonde,96, 2LetNow - JHB,2,Apartment,0,May,8
-519,None,88, None,97,None,1,None,9
-520,None,88, None,97,None,1,None,9
-521,None,88,  ,1,None,1,None,9
-522,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,April,0
-523,None,88, None,97,None,1,None,9
-524,Melrose Arch,75, Seeff Sandton,150,Apartment,0,March,7
-525,Craighall,23, You Realty,165,Apartment,0,May,8
-526,None,88,Apartment / flat to rent in Craighall - Johannesburg,186,None,1,None,9
-527,None,88,2 Bedroom Apartment / flat to rent in Mondeor - Johannesburg,178,None,1,None,9
-528,None,88, None,97,None,1,None,9
-529,None,88, None,97,None,1,None,9
-530,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,April,0
-531,Dunkeld West,28, Debro Estates,31,Apartment,0,May,8
-532,Craighall Park,24, Harcourts Heritage,56,Apartment,0,April,0
-533,Killarney,60, Rental,137,Apartment,0,March,7
-534,Rosebank,113, Sotheby's International Realty - Craighall,156,Apartment,0,June,6
-535,Montgomery Park,83, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,May,8
-536,Meredale,80, IHS Property Management,60,Apartment,0,April,0
-537,Craighall Park,24, Property.CoZa - Randburg,114,Apartment,0,March,7
-538,Ridgeway,106, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-539,Kensington,56, Watson Properties,164,Apartment,0,May,8
-540,None,88, None,97,None,1,None,9
-541,None,88, None,97,None,1,None,9
-542,None,88, None,97,None,1,None,9
-543,Norwood,90, Rental,137,Apartment,0,February,3
-544,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-545,Waverley,132, Firzt Realty Company Firzt Realty Company,45,Townhouse,2,May,8
-546,None,88, None,97,None,1,None,9
-547,None,88, None,97,None,1,None,9
-548,None,88,  ,1,None,1,None,9
-549,None,88,  ,1,None,1,None,9
-550,Glenvista,43, 2LetNow - JHB,2,Apartment,0,May,8
-551,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-552,Bellevue,8, Trafalgar Property Management,160,Apartment,0,March,7
-553,Oaklands,92, Silver Property Group,153,Apartment,0,April,0
-554,Melrose,74, Rawson Properties Sandton Apartment Living,132,Apartment,0,April,0
-555,Sandringham,116, Farah Properties,41,Apartment,0,April,0
-556,Glensan,42, Rental,137,Apartment,0,April,0
-557,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-558,None,88,  ,1,None,1,None,9
-559,None,88, None,97,None,1,None,9
-560,None,88, None,97,None,1,None,9
-561,None,88, None,97,None,1,None,9
-562,None,88,  ,1,None,1,None,9
-563,None,88, None,97,None,1,None,9
-564,None,88, None,97,None,1,None,9
-565,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,April,0
-566,Suideroord,120, Harcourts 1 Vision,54,Townhouse,2,April,0
-567,Craighall,23, Sotheby's International Realty - Craighall,156,Townhouse,2,March,7
-568,Melrose North,78, Farah Properties,41,Apartment,0,April,0
-569,None,88, None,97,None,1,None,9
-570,Parkview,101, O-Yes Properties,98,Apartment,0,April,0
-571,Melrose,74, Silver Property Group,153,Apartment,0,March,7
-572,Bruma,20, Pompa Realty Group Bedfordview,107,Townhouse,2,April,0
-573,Killarney,60, Rental,137,Apartment,0,April,0
-574,Linmeyer,66, Lencar Exclusive Properties,78,Townhouse,2,May,8
-575,None,88, None,97,None,1,None,9
-576,Winchester Hills,137, Rental,137,Townhouse,2,April,0
-577,Killarney,60, Seeff Sandton,150,Apartment,0,February,3
-578,None,88,  ,1,None,1,None,9
-579,Eltonhill,31, RLK Properties,125,Apartment,0,May,8
-580,None,88, None,97,None,1,None,9
-581,None,88,2 Bedroom Apartment / flat to rent in Kibler Heights - Johannesburg,175,None,1,None,9
-582,Winchester Hills,137, ,0,Townhouse,2,None,9
-583,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-584,Winchester Hills,137, Allegiance Properties - JHB South,8,Townhouse,2,March,7
-585,Houghton Estate,51, Adrienne Hersch Properties,6,Apartment,0,April,0
-586,"Melrose Arch - Johannesburg; RE/MAX, Superior",76, ,0,Apartment,0,None,9
-587,Glenvista,43, Lencar Exclusive Properties,78,Townhouse,2,May,8
-588,None,88, None,97,None,1,None,9
-589,None,88,  ,1,None,1,None,9
-590,Glenhazel,41, Jawitz Bedfordview,67,Townhouse,2,March,7
-591,Ridgeway,106, 2LetNow - JHB,2,Apartment,0,May,8
-592,Bruma,20, Rawson Properties Dowerglen,127,Townhouse,2,April,0
-593,None,88, None,97,None,1,None,9
-594,Houghton Estate,51, Adrienne Hersch Properties,6,Townhouse,2,July,5
-595,Oaklands,92, Firzt Realty Company Firzt Realty Company,45,Townhouse,2,April,0
-596,Melrose Estate,77, Vered Estates,163,Apartment,0,April,0
-597,Eikenhof,30, Rental,137,Apartment,0,April,0
-598,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,May,8
-599,None,88,  ,1,None,1,None,9
-600,Melrose Arch,75, Vered Estates,163,Apartment,0,April,0
-601,Killarney,60, Seeff Sandton,150,Apartment,0,March,7
-602,None,88, None,97,None,1,None,9
-603,Parkwood,102, Rental,137,Apartment,0,March,7
-604,None,88, None,97,None,1,None,9
-605,Braamfontein Werf,17, Vered Estates,163,Apartment,0,April,0
-606,Norwood,90, Rental,137,Apartment,0,May,8
-607,Mulbarton,84, Lencar Exclusive Properties,78,Townhouse,2,June,6
-608,Greenside,45, You Realty,165,Townhouse,2,May,8
-609,None,88, None,97,None,1,None,9
-610,None,88, None,97,None,1,None,9
-611,Craighall,23, Frankie Bell's Real Estate,47,Apartment,0,March,7
-612,Melville,79, Rental,137,Apartment,0,March,7
-613,Mondeor,82, Harcourts Falcons,55,Apartment,0,May,8
-614,Kibler Heights,58, 2LetNow - JHB,2,Apartment,0,May,8
-615,Jeppestown,52, Engel & Volkers Hyde Park,36,Apartment,0,May,8
-616,None,88, None,97,None,1,None,9
-617,Craighall,23, Rental,137,Apartment,0,April,0
-618,None,88, None,97,None,1,None,9
-619,None,88, ,0,None,1,None,9
-620,Winchester Hills,137, Rental,137,Townhouse,2,March,7
-621,South Hills,119, ,0,Apartment,0,None,9
-622,Melrose,74, Silver Property Group,153,Apartment,0,April,0
-623,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-624,None,88, None,97,None,1,None,9
-625,Glenvista,43, Lencar Exclusive Properties,78,Townhouse,2,May,8
-626,Glenvista,43, Rawson Properties Glenvista,129,Townhouse,2,April,0
-627,Melrose,74, Rawson Properties Sandton Apartment Living,132,Apartment,0,April,0
-628,Melrose,74, Firzt Realty Company Firzt Realty Company,45,Apartment,0,April,0
-629,Dunkeld,27, Property.CoZa - Sandton,115,Apartment,0,March,7
-630,None,88, None,97,None,1,None,9
-631,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,April,0
-632,None,88, None,97,None,1,None,9
-633,Melrose North,78, Rental,137,Apartment,0,March,7
-634,None,88, None,97,None,1,None,9
-635,Houghton Estate,51, Inorbit Property,64,Apartment,0,April,0
-636,Winchester Hills,137, Lencar Exclusive Properties,78,Townhouse,2,May,8
-637,Houghton Estate,51, Silver Property Group,153,Apartment,0,March,7
-638,None,88, None,97,None,1,None,9
-639,Craighall Park,24, Rental,137,Apartment,0,May,8
-640,Rosebank,113, Infinite Property Network Dynamyx,61,Apartment,0,March,7
-641,Rosebank,113, Rental,137,Apartment,0,April,0
-642,Killarney,60, Rental,137,Apartment,0,September,12
-643,Mulbarton,84, Infinity Homes & Rentals,62,Apartment,0,April,0
-644,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,March,7
-645,Albertville,3, ,0,Apartment,0,None,9
-646,Melville,79, Arthouse Properties,12,Apartment,0,May,8
-647,Melville,79, Arthouse Properties,12,Apartment,0,May,8
-648,Parkwood,102, Vered Estates,163,Apartment,0,May,8
-649,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-650,Wolhuter,139, Trafalgar Property Management,160,Apartment,0,April,0
-651,Craighall,23, RE/MAX Executive Group - Dainfern,122,Apartment,0,April,0
-652,Melrose Arch,75, Seeff Sandton,150,Apartment,0,March,7
-653,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-654,Naturena,85, Rental,137,Apartment,0,May,8
-655,South Hills,119, AFHCO Africa Housing Company,3,Apartment,0,May,8
-656,South Hills,119, ,0,Apartment,0,None,9
-657,Rosebank,113, Rental,137,Apartment,0,April,0
-658,Rosebank,113, Rental,137,Apartment,0,April,0
-659,Rosebank,113, Rental,137,Apartment,0,April,0
-660,Emmarentia,32, Jawitz Randburg,69,Apartment,0,March,7
-661,Oakdene,91, PropertyCloud,117,Townhouse,2,April,0
-662,None,88, None,97,None,1,None,9
-663,Glenvista,43, ,0,Townhouse,2,None,9
-664,None,88, None,97,None,1,None,9
-665,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-666,None,88, None,97,None,1,None,9
-667,None,88, None,97,None,1,None,9
-668,Emmarentia,32, Jawitz Randburg,69,Apartment,0,March,7
-669,None,88, None,97,None,1,None,9
-670,Melrose,74, Silver Property Group,153,Townhouse,2,April,0
-671,Riviera,109, Rowcor Properties Eleanor Jacobs,141,Apartment,0,April,0
-672,None,88, None,97,None,1,None,9
-673,Glenvista,43, Rosjo Properties,140,Townhouse,2,April,0
-674,Rosebank,113, Sotheby's International Realty - Craighall,156,Apartment,0,July,5
-675,None,88, None,97,None,1,None,9
-676,Houghton Estate,51, Silver Property Group,153,Apartment,0,April,0
-677,Parktown,99, Jawitz Johannesburg North,68,Apartment,0,June,6
-678,Parkwood,102, Seeff Sandton,150,Apartment,0,March,7
-679,None,88, None,97,None,1,None,9
-680,Melrose,74, Silver Property Group,153,Apartment,0,March,7
-681,Saxonwold,118, Reliable Realty,134,Apartment,0,May,8
-682,None,88,  ,1,None,1,None,9
-683,None,88, None,97,None,1,None,9
-684,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,March,7
-685,Craighall,23, Risely Properties,138,Apartment,0,May,8
-686,Saxonwold,118, Vered Estates,163,Apartment,0,April,0
-687,Norwood,90, Rental,137,Apartment,0,April,0
-688,Killarney,60, Inorbit Property,64,Apartment,0,April,0
-689,None,88, None,97,None,1,None,9
-690,Rosebank,113, Knightbridge Properties,75,Apartment,0,February,3
-691,None,88,  ,1,None,1,None,9
-692,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-693,Melrose,74, Silver Property Group,153,Apartment,0,March,7
-694,None,88,2 Bedroom Apartment / flat to rent in Mayfield Park - Johannesburg,176,None,1,None,9
-695,None,88, None,97,None,1,None,9
-696,Melrose,74, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-697,None,88, None,97,None,1,None,9
-698,None,88, None,97,None,1,None,9
-699,None,88, None,97,None,1,None,9
-700,None,88,  ,1,None,1,None,9
-701,None,88, None,97,None,1,None,9
-702,None,88, None,97,None,1,None,9
-703,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,May,8
-704,Albertskroon,2, Seeff Rentals Randburg,149,Apartment,0,May,8
-705,Killarney,60, Smile Property Group,155,Apartment,0,May,8
-706,None,88,  ,1,None,1,None,9
-707,Emmarentia,32, Jawitz Randburg,69,Apartment,0,March,7
-708,Gresswold,47, Farah Properties,41,Townhouse,2,April,0
-709,Killarney,60, Jawitz Johannesburg North,68,Apartment,0,April,0
-710,None,88, None,97,None,1,None,9
-711,Houghton Estate,51, Rental,137,Townhouse,2,May,8
-712,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-713,Rosettenville,114, Mafadi Property Management Office,84,Apartment,0,March,7
-714,Killarney,60, CP Inc Realtors,19,Apartment,0,April,0
-715,Killarney,60, CP Inc Realtors,19,Apartment,0,April,0
-716,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-717,None,88, None,97,None,1,None,9
-718,Eltonhill,31, Knightbridge Properties,75,Apartment,0,March,7
-719,Melrose North,78, Seeff Sandton,150,Apartment,0,March,7
-720,None,88, None,97,None,1,None,9
-721,None,88,  ,1,None,1,None,9
-722,Melrose,74, Etchells & Young Property Brokers,38,Townhouse,2,February,3
-723,None,88,Townhouse to rent in Houghton Estate - Johannesburg,196,None,1,None,9
-724,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-725,None,88,Apartment / flat to rent in Braamfontein Werf - Johannesburg,185,None,1,None,9
-726,None,88, None,97,None,1,None,9
-727,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-728,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-729,Parktown,99, Zareena Kara Properties,166,Apartment,0,April,0
-730,Marshalltown,72, Century 21 Sandton,20,Apartment,0,April,0
-731,None,88,2 Bedroom Apartment / flat to rent in Alveda - Johannesburg,171,None,1,None,9
-732,Houghton Estate,51, Adrienne Hersch Properties,6,Apartment,0,July,5
-733,Houghton Estate,51, Rental,137,Apartment,0,March,7
-734,None,88,  ,1,None,1,None,9
-735,Melrose,74, Silver Property Group,153,Apartment,0,March,7
-736,Linmeyer,66, Alpha Rentals,10,Townhouse,2,May,8
-737,Saxonwold,118, EA Properties,35,Apartment,0,May,8
-738,Johannesburg Central,53, IHS Property Management,60,Apartment,0,April,0
-739,Dunkeld West,28, Property.CoZa - Randburg,114,Apartment,0,April,0
-740,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,April,0
-741,Melrose Arch,75, Seeff Sandton,150,Apartment,0,March,7
-742,Melrose,74, Knightbridge Properties,75,Townhouse,2,March,7
-743,Rembrandt Park,104, Trafalgar Property Management,160,Apartment,0,April,0
-744,None,88, None,97,None,1,None,9
-745,None,88, None,97,None,1,None,9
-746,Joubert Park,54, Trafalgar Property Management,160,Apartment,0,April,0
-747,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,April,0
-748,Linmeyer,66, Rental,137,Townhouse,2,June,6
-749,Craighall Park,24, Rental,137,Apartment,0,June,6
-750,None,88,  ,1,None,1,None,9
-751,Rosebank,113, RE/MAX Advantage,121,Apartment,0,April,0
-752,Bruma,20, Sotheby's International Realty - Craighall,156,Townhouse,2,April,0
-753,None,88, None,97,None,1,None,9
-754,Meredale,80, IHS Property Management,60,Apartment,0,April,0
-755,Melrose,74, Silver Property Group,153,Townhouse,2,February,3
-756,Rosebank,113, You Realty,165,Apartment,0,May,8
-757,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,February,3
-758,Houghton Estate,51, Silver Property Group,153,Apartment,0,March,7
-759,None,88, None,97,None,1,None,9
-760,Kenilworth,55, Framework Property Services,46,Apartment,0,April,0
-761,None,88, None,97,None,1,None,9
-762,None,88,Townhouse to rent in Craighall Park - Johannesburg,193,None,1,None,9
-763,Houghton Estate,51, Rowcor Properties Eleanor Jacobs,141,Apartment,0,April,0
-764,Turffontein,128, Trafalgar Property Management,160,Apartment,0,April,0
-765,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,February,3
-766,Linmeyer,66, Property.CoZa - Johannesburg South,112,Townhouse,2,March,7
-767,Aeroton,0, Lencar Exclusive Properties,78,Townhouse,2,January,4
-768,Melrose Estate,77, Hamiltons Property Portfolio,52,Apartment,0,April,0
-769,Saxonwold,118, Tyson Properties Fourways,161,Townhouse,2,April,0
-770,None,88, None,97,None,1,None,9
-771,Ormonde,96, Chas Everitt Glenvista,22,Townhouse,2,June,6
-772,Meredale,80, IHS Property Management,60,Apartment,0,May,8
-773,West Turffontein,133, Rental,137,Apartment,0,March,7
-774,Houghton Estate,51, Silver Property Group,153,Townhouse,2,May,8
-775,Westdene,135, Rental,137,Apartment,0,March,7
-776,Emmarentia,32, Rental,137,Apartment,0,April,0
-777,Suideroord,120, ,0,Townhouse,2,None,9
-778,None,88, None,97,None,1,None,9
-779,None,88, None,97,None,1,None,9
-780,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-781,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-782,Joubert Park,54, Trafalgar Property Management,160,Apartment,0,March,7
-783,Winchester Hills,137, Rental,137,Townhouse,2,May,8
-784,Oakdene,91, ,0,Townhouse,2,None,9
-785,Parkview,101, Property.CoZa - Randburg,114,Townhouse,2,March,7
-786,Newtown,87, Rental,137,Apartment,0,February,3
-787,Parktown North,100, Rental,137,Apartment,0,April,0
-788,None,88, None,97,None,1,None,9
-789,Parkwood,102, Seeff Sandton,150,Apartment,0,February,3
-790,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,March,7
-791,Richmond,105, Rent - A - Property,136,Apartment,0,April,0
-792,Rosettenville,114, Trafalgar Property Management,160,Apartment,0,April,0
-793,Craighall Park,24, You Realty,165,Apartment,0,March,7
-794,None,88, None,97,None,1,None,9
-795,None,88, None,97,None,1,None,9
-796,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-797,None,88, None,97,None,1,None,9
-798,Houghton Estate,51, Rental,137,Apartment,0,March,7
-799,Killarney,60, Rental,137,Apartment,0,April,0
-800,Linmeyer,66, Trafalgar Property Management,160,Apartment,0,March,7
-801,Bassonia,6, ,0,Townhouse,2,None,9
-802,Forest Hill,36, Trafalgar Property Management,160,Apartment,0,March,7
-803,None,88,  ,1,None,1,None,9
-804,Riviera,109, Rental,137,Apartment,0,March,7
-805,Melrose,74, Sotheby's International Realty - Craighall,156,Apartment,0,March,7
-806,None,88, None,97,None,1,None,9
-807,Braamfontein,16, Rental,137,Apartment,0,February,3
-808,Jeppestown,52, Trafalgar Property Management,160,Apartment,0,March,7
-809,None,88, None,97,None,1,None,9
-810,Waverley,132, Sotheby's International Realty - Craighall,156,Townhouse,2,March,7
-811,None,88, None,97,None,1,None,9
-812,None,88, None,97,None,1,None,9
-813,None,88, None,97,None,1,None,9
-814,Birdhaven,12, Frankie Bell's Real Estate,47,Apartment,0,April,0
-815,None,88, None,97,None,1,None,9
-816,Melrose,74, Silver Property Group,153,Apartment,0,April,0
-817,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-818,Melrose Arch,75, Tyson Properties Fourways,161,Apartment,0,April,0
-819,None,88,  ,1,None,1,None,9
-820,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-821,Melrose North,78, Neo Estates - Johannesburg,93,Townhouse,2,May,8
-822,Melrose Arch,75, Mafadi Property Management Office,84,Apartment,0,April,0
-823,None,88, None,97,None,1,None,9
-824,Glenvista,43, Ryx Renting,144,Apartment,0,May,8
-825,Eastcliff,29, Rental,137,Apartment,0,April,0
-826,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,April,0
-827,Dunkeld,27, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-828,None,88, None,97,None,1,None,9
-829,Glenvista,43, DWC Realtors,28,Apartment,0,April,0
-830,Forest Town,37, Rental,137,Apartment,0,April,0
-831,Oakdene,91, Astrodon Real Estate Rentals,13,Apartment,0,April,0
-832,None,88, None,97,None,1,None,9
-833,None,88, None,97,None,1,None,9
-834,Winchester Hills,137, PropertyCloud,117,Townhouse,2,April,0
-835,Yeoville,140, Trafalgar Property Management,160,Apartment,0,April,0
-836,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,March,7
-837,Yeoville,140, Trafalgar Property Management,160,Apartment,0,March,7
-838,Dunkeld,27, You Realty,165,Apartment,0,April,0
-839,Parkhurst,98, Kings Estates,74,Apartment,0,April,0
-840,Bellevue East,9, Trafalgar Property Management,160,Apartment,0,April,0
-841,Marshalltown,72, Rental,137,Apartment,0,February,3
-842,Melrose Arch,75, Guy Gillespie Properties,51,Apartment,0,April,0
-843,Winchester Hills,137, Rental,137,Townhouse,2,March,7
-844,Ridgeway,106, NV Homes,89,Townhouse,2,September,12
-845,Glenhazel,41, Jawitz Bedfordview,67,Apartment,0,March,7
-846,None,88, None,97,None,1,None,9
-847,Melrose,74, Rawson Properties Sandton Apartment Living,132,Apartment,0,March,7
-848,Kew,57, Leapfrog JHB North East,77,Townhouse,2,March,7
-849,Rosebank,113, Tyson Properties Fourways,161,Apartment,0,April,0
-850,None,88, None,97,None,1,None,9
-851,None,88, None,97,None,1,None,9
-852,None,88, None,97,None,1,None,9
-853,City & Suburban,21, Mafadi Property Management Office,84,Apartment,0,February,3
-854,None,88, None,97,None,1,None,9
-855,Westcliff,134, Meridian Realty,86,Apartment,0,March,7
-856,Craighall Park,24, Kings Estates,74,Apartment,0,February,3
-857,None,88,2 Bedroom Townhouse to rent in Ridgeway - Johannesburg,182,None,1,None,9
-858,None,88, None,97,None,1,None,9
-859,Meredale,80, IHS Property Management,60,Apartment,0,April,0
-860,Killarney,60, Russell Fisher Properties,143,Apartment,0,April,0
-861,Braamfontein Werf,17, Property Tower,110,Apartment,0,March,7
-862,Gresswold,47, You Realty,165,Apartment,0,March,7
-863,New Doornfontein,86, Quorum Property Group,120,Apartment,0,March,7
-864,None,88,  ,1,None,1,None,9
-865,Craighall,23, Silver Property Group,153,Apartment,0,March,7
-866,Naturena,85, ,0,Apartment,0,None,9
-867,None,88,Apartment / flat to rent in Melrose - Johannesburg,192,None,1,None,9
-868,None,88, None,97,None,1,None,9
-869,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,April,0
-870,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,April,0
-871,Berea,10, Trafalgar Property Management,160,Apartment,0,February,3
-872,None,88, None,97,None,1,None,9
-873,Jeppestown,52, Rental,137,Apartment,0,April,0
-874,None,88, None,97,None,1,None,9
-875,None,88,2 Bedroom Apartment / flat to rent in Ridgeway - Johannesburg,180,None,1,None,9
-876,Glenanda,39, Seeff Meyersdal,148,Townhouse,2,May,8
-877,Killarney,60, ANGOR Property Specialist,4,Apartment,0,April,0
-878,None,88, None,97,None,1,None,9
-879,None,88, None,97,None,1,None,9
-880,None,88, None,97,None,1,None,9
-881,Joubert Park,54, Mamela Estates,85,Apartment,0,April,0
-882,Malvern,71, Inorbit Property,64,Apartment,0,April,0
-883,Gresswold,47, You Realty,165,Apartment,0,April,0
-884,Parktown North,100, Seeff Sandton,150,Apartment,0,January,4
-885,Berea,10, Trafalgar Property Management,160,Apartment,0,May,8
-886,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,March,7
-887,New Doornfontein,86, Trafalgar Property Management,160,Apartment,0,March,7
-888,Saxonwold,118, Tyson Properties Fourways,161,Apartment,0,March,7
-889,Killarney,60, Urban Link JHB Zone 1,162,Apartment,0,March,7
-890,Bruma,20, Jawitz Bedfordview,67,Apartment,0,April,0
-891,Greenside,45, Linprop,81,Apartment,0,February,3
-892,Glenvista,43, Ryx Renting,144,Apartment,0,May,8
-893,Auckland Park,5, Skye Letting,154,Apartment,0,April,0
-894,None,88, None,97,None,1,None,9
-895,None,88, None,97,None,1,None,9
-896,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,February,3
-897,Glenvista,43, Allegiance Properties - JHB South,8,Townhouse,2,March,7
-898,Melrose,74, Jawitz Johannesburg North,68,Apartment,0,April,0
-899,South Hills,119, 2LetNow - JHB,2,Apartment,0,May,8
-900,Linksfield,64, Property.Coza - Bryanston/Lonehill,116,Apartment,0,May,8
-901,None,88, None,97,None,1,None,9
-902,Parkwood,102, Harcourts Heritage,56,Apartment,0,May,8
-903,Kenilworth,55, Lencar Exclusive Properties,78,Apartment,0,March,7
-904,Killarney,60, Russell Fisher Properties,143,Apartment,0,March,7
-905,Mondeor,82, Astrodon Real Estate Rentals,13,Apartment,0,March,7
-906,Killarney,60, Rental,137,Apartment,0,April,0
-907,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,April,0
-908,None,88,  ,1,None,1,None,9
-909,None,88, None,97,None,1,None,9
-910,None,88, None,97,None,1,None,9
-911,None,88, None,97,None,1,None,9
-912,None,88,  ,1,None,1,None,9
-913,Rosettenville,114, Mafadi Property Management Office,84,Apartment,0,March,7
-914,Sydenham,121, Rental,137,Apartment,0,May,8
-915,Roodepoort,111, Rental,137,Apartment,0,May,8
-916,Crown Gardens,25, ,0,Townhouse,2,None,9
-917,None,88,Townhouse to rent in Parktown - Johannesburg,197,None,1,None,9
-918,Yeoville,140, Trafalgar Property Management,160,Apartment,0,April,0
-919,Rosebank,113, Renprop Residential,135,Apartment,0,May,8
-920,Riviera,109, Adrienne Hersch Properties,6,Apartment,0,March,7
-921,Waverley,132, Ezyprop,40,Apartment,0,April,0
-922,None,88, None,97,None,1,None,9
-923,None,88, None,97,None,1,None,9
-924,None,88, None,97,None,1,None,9
-925,None,88,  ,1,None,1,None,9
-926,None,88,  ,1,None,1,None,9
-927,None,88,2 Bedroom Apartment / flat to rent in Johannesburg Central - Johannesburg,174,None,1,None,9
-928,Yeoville,140, Trafalgar Property Management,160,Apartment,0,March,7
-929,None,88, None,97,None,1,None,9
-930,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,February,3
-931,Kensington,56, B-Sure Properties - Bedfordview,14,Townhouse,2,February,3
-932,Newtown,87, Engel & Volkers Hyde Park,36,Apartment,0,March,7
-933,Eltonhill,31, RE/MAX Advantage,121,Apartment,0,May,8
-934,Highlands North,49, Framework Property Services,46,Apartment,0,April,0
-935,Craighall Park,24, Adrienne Hersch Properties,6,Apartment,0,May,8
-936,Glenhazel,41, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-937,None,88,  ,1,None,1,None,9
-938,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-939,Meredale,80, Allegiance Properties - JHB South,8,Apartment,0,March,7
-940,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,May,8
-941,Johannesburg Central,53, Framework Property Services,46,Apartment,0,April,0
-942,Bassonia,6, Lencar Exclusive Properties,78,Townhouse,2,May,8
-943,Malvern,71, Seeff - Johannesburg Central,146,Apartment,0,March,7
-944,Glenvista,43, Rental,137,Townhouse,2,April,0
-945,Rosebank,113, Silver Property Group,153,Apartment,0,April,0
-946,Melrose North,78, CP Inc Realtors,19,Apartment,0,April,0
-947,None,88, None,97,None,1,None,9
-948,Melville,79, EA Properties,35,Apartment,0,March,7
-949,Maboneng,70, Rental,137,Apartment,0,March,7
-950,Marshalltown,72, Rental,137,Apartment,0,March,7
-951,Meredale,80, 2LetNow - JHB,2,Apartment,0,April,0
-952,Melrose North,78, Farah Properties,41,Townhouse,2,April,0
-953,None,88, None,97,None,1,None,9
-954,Melrose North,78, Seeff Sandton,150,Apartment,0,February,3
-955,Sandringham,116, Nextgen Real Estate,94,Apartment,0,May,8
-956,None,88,  ,1,None,1,None,9
-957,Winchester Hills,137, Harcourts 1 Vision,54,Townhouse,2,April,0
-958,Craighall,23, Rent - A - Property,136,Apartment,0,April,0
-959,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,January,4
-960,Eltonhill,31, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-961,None,88, None,97,None,1,None,9
-962,Berea,10, Trafalgar Property Management,160,Apartment,0,April,0
-963,None,88, None,97,None,1,None,9
-964,None,88,  ,1,None,1,None,9
-965,Mondeor,82, Rental,137,Apartment,0,January,4
-966,Sandringham,116, Firzt Realty Company Firzt Realty Company,45,Townhouse,2,April,0
-967,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,April,0
-968,Melrose,74, Silver Property Group,153,Apartment,0,February,3
-969,Bellevue East,9, Trafalgar Property Management,160,Apartment,0,March,7
-970,None,88, None,97,None,1,None,9
-971,Houghton Estate,51, Debro Estates,31,Apartment,0,May,8
-972,Mondeor,82, Property.CoZa - Johannesburg South,112,Townhouse,2,March,7
-973,None,88, None,97,None,1,None,9
-974,Rosebank,113, Renprop Residential,135,Apartment,0,May,8
-975,None,88,  ,1,None,1,None,9
-976,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-977,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,March,7
-978,Bramley,18, You Realty,165,Apartment,0,May,8
-979,None,88, None,97,None,1,None,9
-980,None,88,  ,1,None,1,None,9
-981,None,88, None,97,None,1,None,9
-982,Rosebank,113, Sotheby's International Realty - Craighall,156,Apartment,0,May,8
-983,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,April,0
-984,Houghton Estate,51, Adrienne Hersch Properties,6,Apartment,0,April,0
-985,None,88,Apartment / flat to rent in Braamfontein - Johannesburg,184,None,1,None,9
-986,Alan Manor,1, Harcourts Falcons,55,Townhouse,2,April,0
-987,Killarney,60, Nomsa Nene Properties,96,Apartment,0,February,3
-988,Newtown,87, Engel & Volkers Hyde Park,36,Apartment,0,March,7
-989,Rosebank,113, Ezyprop,40,Apartment,0,March,7
-990,Melrose,74, Sotheby's International Realty - Craighall,156,Apartment,0,March,7
-991,None,88, None,97,None,1,None,9
-992,Glenhazel,41, Firzt Realty Company Firzt Realty Company,45,Apartment,0,April,0
-993,Ridgeway,106, 2LetNow - JHB,2,Apartment,0,April,0
-994,None,88, None,97,None,1,None,9
-995,None,88, None,97,None,1,None,9
-996,None,88, None,97,None,1,None,9
-997,None,88, None,97,None,1,None,9
-998,Dunkeld West,28, Property.CoZa - Randburg,114,Apartment,0,June,6
-999,None,88, None,97,None,1,None,9
-1000,Robertsham,110, Rental,137,Apartment,0,March,7
-1001,None,88,Apartment / flat to rent in Houghton Estate - Johannesburg,187,None,1,None,9
-1002,Glenvista,43, ,0,Townhouse,2,None,9
-1003,None,88, None,97,None,1,None,9
-1004,Oaklands,92, Zareena Kara Properties,166,Townhouse,2,May,8
-1005,Linmeyer,66, Boss Platinum Real Estate,18,Apartment,0,March,7
-1006,None,88, None,97,None,1,None,9
-1007,Houghton Estate,51, Silver Property Group,153,Apartment,0,March,7
-1008,None,88, None,97,None,1,None,9
-1009,Houghton Estate,51, Adrienne Hersch Properties,6,Apartment,0,April,0
-1010,Eltonhill,31, Century 21 Sandton,20,Apartment,0,March,7
-1011,Winchester Hills,137, Dormehl Phalane Property Group Meyersdal,34,Townhouse,2,May,8
-1012,Sydenham,121, You Realty,165,Apartment,0,April,0
-1013,Linksfield,64, Farah Properties,41,Apartment,0,April,0
-1014,Oakdene,91, PropertyCloud,117,Townhouse,2,April,0
-1015,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1016,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1017,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1018,None,88, None,97,None,1,None,9
-1019,Oaklands,92, Silver Property Group,153,Apartment,0,April,0
-1020,Glenvista,43, Lencar Exclusive Properties,78,Townhouse,2,April,0
-1021,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,April,0
-1022,Rembrandt Park,104, Trafalgar Property Management,160,Apartment,0,March,7
-1023,None,88, None,97,None,1,None,9
-1024,Doornfontein,26, Rental,137,Apartment,0,February,3
-1025,Rosebank,113, Zareena Kara Properties,166,Apartment,0,February,3
-1026,Oakdene,91, Ryx Renting,144,Apartment,0,May,8
-1027,None,88, None,97,None,1,None,9
-1028,None,88, None,97,None,1,None,9
-1029,Houghton Estate,51, Renprop Residential,135,Townhouse,2,May,8
-1030,None,88, None,97,None,1,None,9
-1031,Bellevue,8, Framework Property Services,46,Apartment,0,April,0
-1032,None,88, None,97,None,1,None,9
-1033,Rosebank,113, Sotheby's International Realty - Craighall,156,Apartment,0,April,0
-1034,None,88,2 Bedroom Apartment / flat to rent in Alveda - Johannesburg,171,None,1,None,9
-1035,Norwood,90, Renprop Residential,135,Apartment,0,April,0
-1036,Waverley,132, Rental,137,Apartment,0,April,0
-1037,None,88,  ,1,None,1,None,9
-1038,None,88,Apartment / flat to rent in Maboneng - Johannesburg,191,None,1,None,9
-1039,Albertville,3, Rawson Properties Northcliff,131,Apartment,0,May,8
-1040,Houghton Estate,51, Vered Estates,163,Apartment,0,March,7
-1041,Rosebank,113, Firzt Realty Company Firzt Realty Company,45,Apartment,0,February,3
-1042,Parkwood,102, Trafalgar Property Management,160,Apartment,0,April,0
-1043,None,88, None,97,None,1,None,9
-1044,Rembrandt Park,104, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,April,0
-1045,None,88, None,97,None,1,None,9
-1046,"Bassonia - Johannesburg; RE/MAX, Superior",7, ,0,Townhouse,2,None,9
-1047,Mondeor,82, Ryx Renting,144,Apartment,0,April,0
-1048,Riviera,109, Jawitz Johannesburg North,68,Townhouse,2,March,7
-1049,Melrose,74, Jawitz Johannesburg North,68,Apartment,0,April,0
-1050,Craighall,23, Rent - A - Property,136,Apartment,0,April,0
-1051,None,88, None,97,None,1,None,9
-1052,None,88, None,97,None,1,None,9
-1053,Fordsburg,35, Rental,137,Townhouse,2,January,4
-1054,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-1055,Dunkeld West,28, Frankie Bell's Real Estate,47,Apartment,0,March,7
-1056,Johannesburg Central,53, Rental,137,Apartment,0,April,0
-1057,Waverley,132, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-1058,None,88, None,97,None,1,None,9
-1059,None,88, None,97,None,1,None,9
-1060,Melrose,74, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-1061,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1062,Melrose,74, Ezyprop,40,Apartment,0,February,3
-1063,Houghton Estate,51, Jawitz Johannesburg North,68,Apartment,0,March,7
-1064,None,88, None,97,None,1,None,9
-1065,Winchester Hills,137, Rental,137,Townhouse,2,April,0
-1066,None,88, None,97,None,1,None,9
-1067,Jeppestown,52, Mafadi Property Management Office,84,Apartment,0,April,0
-1068,Maboneng,70, Rental,137,Apartment,0,May,8
-1069,"Glenvista - Johannesburg; RE/MAX, Superior",44, ,0,Townhouse,2,None,9
-1070,Winchester Hills,137, Hamptons Realty Group,53,Apartment,0,April,0
-1071,Parktown North,100, Seeff Sandton,150,Apartment,0,February,3
-1072,Turffontein,128, Framework Property Services,46,Apartment,0,April,0
-1073,Alveda,4, 2LetNow - JHB,2,Apartment,0,April,0
-1074,Saxonwold,118, Tyson Properties Fourways,161,Apartment,0,April,0
-1075,None,88, None,97,None,1,None,9
-1076,None,88,Apartment / flat to rent in Johannesburg Central - Johannesburg,188,None,1,None,9
-1077,Bellevue,8, Trafalgar Property Management,160,Apartment,0,February,3
-1078,South Hills,119, ,0,Townhouse,2,None,9
-1079,Craighall,23, You Realty,165,Townhouse,2,March,7
-1080,Braamfontein,16, Nkosi Property Group Office,95,Apartment,0,February,3
-1081,None,88, None,97,None,1,None,9
-1082,None,88,2 Bedroom Townhouse to rent in Liefde En Vrede - Johannesburg,181,None,1,None,9
-1083,None,88,Townhouse to rent in Houghton Estate - Johannesburg,196,None,1,None,9
-1084,None,88,  ,1,None,1,None,9
-1085,None,88, None,97,None,1,None,9
-1086,None,88, None,97,None,1,None,9
-1087,Maboneng,70, Mafadi Property Management Office,84,Apartment,0,March,7
-1088,Glenvista,43, Allegiance Properties - JHB South,8,Townhouse,2,May,8
-1089,Bramley,18, Russell Fisher Properties,143,Apartment,0,May,8
-1090,None,88,Apartment / flat to rent in Braamfontein - Johannesburg,184,None,1,None,9
-1091,Killarney,60, Property.Coza - Bryanston/Lonehill,116,Apartment,0,February,3
-1092,Craighall,23, Rental,137,Apartment,0,March,7
-1093,Meredale,80, 2LetNow - JHB,2,Apartment,0,April,0
-1094,Houghton Estate,51, Silver Property Group,153,Apartment,0,February,3
-1095,Emmarentia,32, Property.Coza - Bryanston/Lonehill,116,Apartment,0,February,3
-1096,North Doornfontein,89, iThemba Property,168,Apartment,0,April,0
-1097,Newtown,87, Rental,137,Apartment,0,February,3
-1098,None,88, None,97,None,1,None,9
-1099,Sandringham,116, Rental,137,Apartment,0,April,0
-1100,Houghton Estate,51, Trafalgar Property Management,160,Apartment,0,May,8
-1101,None,88,  ,1,None,1,None,9
-1102,Doornfontein,26, Jawitz Johannesburg North,68,Apartment,0,April,0
-1103,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,January,4
-1104,Waverley,132, Vered Estates,163,Townhouse,2,March,7
-1105,None,88,  ,1,None,1,None,9
-1106,Jeppestown,52, Mafadi Property Management Office,84,Apartment,0,April,0
-1107,Melrose Arch,75, Ezyprop,40,Apartment,0,March,7
-1108,None,88, None,97,None,1,None,9
-1109,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,April,0
-1110,Killarney,60, Power of 2 Realty,108,Apartment,0,February,3
-1111,Craighall Park,24, Adrienne Hersch Properties,6,Townhouse,2,April,0
-1112,Parktown North,100, Momentum International Realty - National Branch,87,Apartment,0,January,4
-1113,Gresswold,47, Farah Properties,41,Apartment,0,April,0
-1114,None,88,  ,1,None,1,None,9
-1115,Oakdene,91, IHS Property Management,60,Apartment,0,April,0
-1116,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,March,7
-1117,Winchester Hills,137, ,0,Townhouse,2,None,9
-1118,Sandringham,116, Nextgen Real Estate,94,Apartment,0,May,8
-1119,Rosebank,113, Firzt Realty Company Firzt Realty Company,45,Apartment,0,February,3
-1120,Sandringham,116, Adrienne Hersch Properties,6,Townhouse,2,April,0
-1121,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-1122,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-1123,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,February,3
-1124,None,88, None,97,None,1,None,9
-1125,None,88, None,97,None,1,None,9
-1126,Melrose,74, Jawitz Johannesburg North,68,Apartment,0,April,0
-1127,None,88, None,97,None,1,None,9
-1128,Auckland Park,5, Trafalgar Property Management,160,Apartment,0,March,7
-1129,Montgomery Park,83, Linprop,81,Apartment,0,March,7
-1130,None,88,  ,1,None,1,None,9
-1131,None,88, None,97,None,1,None,9
-1132,Winchester Hills,137, Framework Property Services,46,Apartment,0,April,0
-1133,Parktown North,100, Frankie Bell's Real Estate,47,Apartment,0,March,7
-1134,None,88, None,97,None,1,None,9
-1135,Rosebank,113, RE/MAX Advantage,121,Apartment,0,April,0
-1136,Lenasia South,62, Rowcor Properties Eleanor Jacobs,141,Apartment,0,May,8
-1137,Rosebank,113, Ezyprop,40,Apartment,0,March,7
-1138,Parkwood,102, Only Realty 360,100,Apartment,0,April,0
-1139,Rosebank,113, Sotheby's International Realty - Craighall,156,Apartment,0,May,8
-1140,Norwood,90, Jawitz Johannesburg North,68,Apartment,0,March,7
-1141,Meredale,80, 2LetNow - JHB,2,Apartment,0,April,0
-1142,Braamfontein,16, Property.Coza - Bryanston/Lonehill,116,Apartment,0,March,7
-1143,Meredale,80, IHS Property Management,60,Apartment,0,February,3
-1144,Houghton Estate,51, Silver Property Group,153,Apartment,0,March,7
-1145,None,88, None,97,None,1,None,9
-1146,None,88,Townhouse to rent in Glenanda - Johannesburg,194,None,1,None,9
-1147,Riviera,109, Rental,137,Apartment,0,April,0
-1148,Rosettenville,114, Lencar Exclusive Properties,78,Apartment,0,June,6
-1149,Killarney,60, Frankie Bell's Real Estate,47,Apartment,0,March,7
-1150,Riviera,109, Key Location,73,Apartment,0,February,3
-1151,Rosebank,113, You Realty,165,Apartment,0,April,0
-1152,Highlands North,49, Rental,137,Apartment,0,April,0
-1153,None,88, None,97,None,1,None,9
-1154,Houghton Estate,51, Zareena Kara Properties,166,Townhouse,2,April,0
-1155,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1156,Rosettenville,114, Rental,137,Apartment,0,March,7
-1157,Meredale,80, Property.CoZa - Johannesburg South,112,Townhouse,2,February,3
-1158,None,88,  ,1,None,1,None,9
-1159,Savoy Estate,117, Executive Properties,39,Townhouse,2,March,7
-1160,Mulbarton,84, Allegiance Properties - JHB South,8,Townhouse,2,February,3
-1161,Parkwood,102, Rent - A - Property,136,Apartment,0,April,0
-1162,None,88,  ,1,None,1,None,9
-1163,None,88,Apartment / flat to rent in Killarney - Johannesburg,190,None,1,None,9
-1164,Marshalltown,72, Mafadi Property Management Office,84,Apartment,0,April,0
-1165,Doornfontein,26, Rental,137,Apartment,0,February,3
-1166,None,88, None,97,None,1,None,9
-1167,None,88, None,97,None,1,None,9
-1168,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,March,7
-1169,None,88, None,97,None,1,None,9
-1170,Glenvista,43, Lencar Exclusive Properties,78,Townhouse,2,May,8
-1171,Melrose North,78, Rental,137,Apartment,0,April,0
-1172,None,88, None,97,None,1,None,9
-1173,Killarney,60, Key Location,73,Apartment,0,April,0
-1174,Braamfontein Werf,17, Sotheby's International Realty - Craighall,156,Apartment,0,February,3
-1175,Doornfontein,26, Mafadi Property Management Office,84,Apartment,0,March,7
-1176,Craighall Park,24, RE/MAX Advantage,121,Apartment,0,April,0
-1177,Gleneagles,40, PropertyCloud,117,Townhouse,2,March,7
-1178,None,88, None,97,None,1,None,9
-1179,None,88, None,97,None,1,None,9
-1180,Glenhazel,41, Jawitz Bedfordview,67,Apartment,0,March,7
-1181,Berea,10, Trafalgar Property Management,160,Apartment,0,January,4
-1182,Auckland Park,5, Rental,137,Apartment,0,April,0
-1183,Kibler Park,59, Infinity Homes & Rentals,62,Townhouse,2,March,7
-1184,City & Suburban,21, Mafadi Property Management Office,84,Apartment,0,June,6
-1185,None,88, None,97,None,1,None,9
-1186,None,88, None,97,None,1,None,9
-1187,Birdhaven,12, Chas Everitt Hyde Park,23,Apartment,0,March,7
-1188,Riviera,109, You Realty,165,Apartment,0,March,7
-1189,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-1190,Craighall Park,24, David Paul Real Estate CC,30,Apartment,0,April,0
-1191,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,March,7
-1192,Haddon,48, Infinity Homes & Rentals,62,Townhouse,2,March,7
-1193,None,88, None,97,None,1,None,9
-1194,Melrose North,78, Seeff Sandton,150,Apartment,0,November,10
-1195,Killarney,60, Urban Link JHB Zone 1,162,Apartment,0,March,7
-1196,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,February,3
-1197,None,88, None,97,None,1,None,9
-1198,None,88, None,97,None,1,None,9
-1199,None,88, None,97,None,1,None,9
-1200,Johannesburg Central,53, Rental,137,Apartment,0,March,7
-1201,Killarney,60, Rental,137,Apartment,0,April,0
-1202,None,88, None,97,None,1,None,9
-1203,None,88,  ,1,None,1,None,9
-1204,Jeppestown,52, Engel & Volkers Hyde Park,36,Apartment,0,March,7
-1205,Killarney,60, Firzt Realty Company Firzt Realty Company,45,Apartment,0,February,3
-1206,None,88, None,97,None,1,None,9
-1207,Killarney,60, Rental,137,Apartment,0,March,7
-1208,None,88,Apartment / flat to rent in Braamfontein - Johannesburg,184,None,1,None,9
-1209,Melrose North,78, Sotheby's International Realty - Craighall,156,Apartment,0,April,0
-1210,Suideroord,120, ,0,Townhouse,2,None,9
-1211,Mayfield Park,73, PropertyCloud,117,Apartment,0,March,7
-1212,Killarney,60, Property.CoZa - Randburg,114,Apartment,0,March,7
-1213,None,88,  ,1,None,1,None,9
-1214,Killarney,60, Trafalgar Property Management,160,Apartment,0,March,7
-1215,None,88, None,97,None,1,None,9
-1216,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Apartment,0,March,7
-1217,Killarney,60, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-1218,None,88, None,97,None,1,None,9
-1219,Yeoville,140, Framework Property Services,46,Apartment,0,April,0
-1220,Parkview,101, Rental,137,Apartment,0,February,3
-1221,Westdene,135, Gaylin Estates,49,Apartment,0,May,8
-1222,Johannesburg Central,53, Mafadi Property Management Office,84,Apartment,0,April,0
-1223,Oaklands,92, Silver Property Group,153,Apartment,0,January,4
-1224,None,88,Apartment / flat to rent in Houghton Estate - Johannesburg,187,None,1,None,9
-1225,Killarney,60, Urban Link JHB Zone 1,162,Apartment,0,April,0
-1226,Killarney,60, Property.Coza - Bryanston/Lonehill,116,Apartment,0,March,7
-1227,Houghton Estate,51, John Livanos Estates,71,Apartment,0,March,7
-1228,None,88, None,97,None,1,None,9
-1229,Marshalltown,72, Seeff - Johannesburg Central,146,Apartment,0,January,4
-1230,None,88,  ,1,None,1,None,9
-1231,Birdhaven,12, O-Yes Properties,98,Apartment,0,May,8
-1232,None,88, None,97,None,1,None,9
-1233,None,88,1 Bedroom Apartment / flat to rent in Lyndhurst - Johannesburg,170,None,1,None,9
-1234,Rosebank,113, Renprop Residential,135,Apartment,0,May,8
-1235,Corlett Gardens,22, Framework Property Services,46,Apartment,0,April,0
-1236,Birdhaven,12, Tyson Properties Fourways,161,Apartment,0,March,7
-1237,Melrose North,78, You Realty,165,Apartment,0,February,3
-1238,Ridgeway,106, Momentum International Realty - National Branch,87,Townhouse,2,April,0
-1239,Rosebank,113, Property.Coza - Bryanston/Lonehill,116,Apartment,0,February,3
-1240,Houghton Estate,51, Debro Estates,31,Apartment,0,May,8
-1241,Houghton Estate,51, Frankie Bell's Real Estate,47,Apartment,0,March,7
-1242,Craighall,23, Farah Properties,41,Townhouse,2,April,0
-1243,None,88, None,97,None,1,None,9
-1244,Dunkeld,27, Infinite Property Network Dynamyx,61,Apartment,0,January,4
-1245,Bellevue East,9, Framework Property Services,46,Apartment,0,April,0
-1246,Parktown North,100, Property.CoZa - Randburg,114,Apartment,0,February,3
-1247,None,88,  ,1,None,1,None,9
-1248,Bellevue East,9, Rental,137,Apartment,0,January,4
-1249,Mondeor,82, Alpha Rentals,10,Townhouse,2,May,8
-1250,Johannesburg Central,53, Rental,137,Apartment,0,March,7
-1251,None,88, None,97,None,1,None,9
-1252,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,February,3
-1253,Killarney,60, Rental,137,Apartment,0,October,11
-1254,None,88, None,97,None,1,None,9
-1255,None,88, None,97,None,1,None,9
-1256,Oakdene,91, Nextgen Real Estate,94,Apartment,0,February,3
-1257,None,88,Townhouse to rent in Glenhazel - Johannesburg,195,None,1,None,9
-1258,None,88, None,97,None,1,None,9
-1259,Rosebank,113, Property.Coza - Bryanston/Lonehill,116,Apartment,0,March,7
-1260,Townsview,125, Rental,137,Townhouse,2,April,0
-1261,Melrose,74, Jawitz Johannesburg North,68,Townhouse,2,May,8
-1262,None,88, None,97,None,1,None,9
-1263,Houghton Estate,51, Rowcor Properties Eleanor Jacobs,141,Apartment,0,March,7
-1264,None,88, None,97,None,1,None,9
-1265,None,88, None,97,None,1,None,9
-1266,Waverley,132, Century 21 Sandton,20,Apartment,0,April,0
-1267,None,88, None,97,None,1,None,9
-1268,Rosebank,113, The Property Collection,157,Apartment,0,January,4
-1269,Parkwood,102, Rental,137,Apartment,0,May,8
-1270,Hillbrow,50, Trafalgar Property Management,160,Apartment,0,April,0
-1271,Houghton Estate,51, Zareena Kara Properties,166,Townhouse,2,April,0
-1272,None,88, None,97,None,1,None,9
-1273,None,88, None,97,None,1,None,9
-1274,Killarney,60, Frankie Bell's Real Estate,47,Apartment,0,April,0
-1275,Mondeor,82, ,0,Apartment,0,None,9
-1276,None,88, None,97,None,1,None,9
-1277,Yeoville,140, Trafalgar Property Management,160,Apartment,0,February,3
-1278,Albertville,3, Property.CoZa - Randburg,114,Apartment,0,March,7
-1279,Houghton Estate,51, Rowcor Properties Eleanor Jacobs,141,Apartment,0,March,7
-1280,Kensington,56, Harcourts Kempen,57,Apartment,0,April,0
-1281,None,88,  ,1,None,1,None,9
-1282,None,88, None,97,None,1,None,9
-1283,Glenvista,43, Harcourts Falcons,55,Townhouse,2,April,0
-1284,Parkwood,102, Vered Estates,163,Apartment,0,February,3
-1285,Parktown,99, Rawson Properties Benoni East,126,Apartment,0,February,3
-1286,Bellevue,8, Framework Property Services,46,Apartment,0,April,0
-1287,None,88, None,97,None,1,None,9
-1288,None,88,  ,1,None,1,None,9
-1289,None,88, None,97,None,1,None,9
-1290,Orange Grove,94, Rental,137,Apartment,0,May,8
-1291,None,88, None,97,None,1,None,9
-1292,Auckland Park,5, Rental,137,Apartment,0,March,7
-1293,None,88,Townhouse to rent in Houghton Estate - Johannesburg,196,None,1,None,9
-1294,South Hills,119, ,0,Apartment,0,None,9
-1295,Sydenham,121, Farah Properties,41,Apartment,0,April,0
-1296,None,88,  ,1,None,1,None,9
-1297,None,88, None,97,None,1,None,9
-1298,None,88, None,97,None,1,None,9
-1299,Melville,79, Rental,137,Apartment,0,May,8
-1300,None,88,  ,1,None,1,None,9
-1301,None,88, None,97,None,1,None,9
-1302,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,June,6
-1303,Bellevue,8, Property.CoZa - Sandton,115,Apartment,0,December,2
-1304,Glenhazel,41, Firzt Realty Company Firzt Realty Company,45,Apartment,0,February,3
-1305,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-1306,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,February,3
-1307,"Rispark - Johannesburg; RE/MAX, Superior",108, ,0,Townhouse,2,None,9
-1308,None,88, None,97,None,1,None,9
-1309,Winchester Hills,137, Natrent Rentals,92,Townhouse,2,June,6
-1310,Jeppestown,52, Mafadi Property Management Office,84,Apartment,0,April,0
-1311,Suideroord,120, ,0,Townhouse,2,None,9
-1312,None,88, None,97,None,1,None,9
-1313,Liefde En Vrede,63, Lencar Exclusive Properties,78,Townhouse,2,April,0
-1314,Killarney,60, Key Location,73,Apartment,0,March,7
-1315,Marshalltown,72, Trafalgar Property Management,160,Apartment,0,March,7
-1316,Glenvista,43, Lencar Exclusive Properties,78,Apartment,0,April,0
-1317,None,88,  ,1,None,1,None,9
-1318,None,88, None,97,None,1,None,9
-1319,Rosettenville,114, Lencar Exclusive Properties,78,Apartment,0,April,0
-1320,Liefde En Vrede,63, Property.CoZa - Johannesburg South,112,Apartment,0,April,0
-1321,Johannesburg Central,53, IHS Property Management,60,Apartment,0,May,8
-1322,None,88, None,97,None,1,None,9
-1323,Auckland Park,5, Skye Letting,154,Apartment,0,April,0
-1324,Johannesburg Central,53, Framework Property Services,46,Apartment,0,April,0
-1325,Marshalltown,72, Nkosi Property Group Office,95,Apartment,0,December,2
-1326,Westcliff,134, Rent - A - Property,136,Apartment,0,April,0
-1327,Bassonia,6, Boss Platinum Real Estate,18,Apartment,0,December,2
-1328,Killarney,60, Urban Link JHB Zone 1,162,Apartment,0,April,0
-1329,Rosebank,113, Knightbridge Properties,75,Apartment,0,January,4
-1330,None,88, None,97,None,1,None,9
-1331,Observatory,93, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,May,8
-1332,Berea,10, Jawitz Johannesburg North,68,Apartment,0,March,7
-1333,Jeppestown,52, Engel & Volkers Hyde Park,36,Apartment,0,March,7
-1334,None,88,  ,1,None,1,None,9
-1335,Waverley,132, You Realty,165,Apartment,0,May,8
-1336,None,88, None,97,None,1,None,9
-1337,None,88, None,97,None,1,None,9
-1338,Saxonwold,118, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,April,0
-1339,None,88, None,97,None,1,None,9
-1340,Oakdene,91, Lencar Exclusive Properties,78,Townhouse,2,April,0
-1341,None,88,Apartment / flat to rent in Berea - Johannesburg,183,None,1,None,9
-1342,Observatory,93, Rental,137,Apartment,0,March,7
-1343,Dunkeld West,28, O-Yes Properties,98,Townhouse,2,January,4
-1344,Kibler Park,59, Infinity Homes & Rentals,62,Townhouse,2,February,3
-1345,Malvern,71, B-Sure Properties - Bedfordview,14,Apartment,0,February,3
-1346,Riviera,109, Zareena Kara Properties,166,Apartment,0,March,7
-1347,Parktown North,100, Dogon Group Sandton,33,Apartment,0,March,7
-1348,Orchards,95, Russell Fisher Properties,143,Apartment,0,January,4
-1349,Maboneng,70, Rental,137,Apartment,0,April,0
-1350,Waverley,132, CP Inc Realtors,19,Townhouse,2,April,0
-1351,None,88, None,97,None,1,None,9
-1352,Melrose,74, Firzt Realty Company Firzt Realty Company,45,Apartment,0,March,7
-1353,Parktown,99, Zareena Kara Properties,166,Apartment,0,March,7
-1354,Jeppestown,52, Mafadi Property Management Office,84,Apartment,0,April,0
-1355,Melrose Estate,77, Rental,137,Apartment,0,March,7
-1356,South Hills,119, AFHCO Africa Housing Company,3,Apartment,0,April,0
-1357,Braamfontein,16, Nkosi Property Group Office,95,Apartment,0,February,3
-1358,Orange Grove,94, Mafadi Property Management Office,84,Apartment,0,April,0
-1359,Ridgeway,106, Lencar Exclusive Properties,78,Townhouse,2,April,0
-1360,None,88, None,97,None,1,None,9
-1361,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-1362,None,88, None,97,None,1,None,9
-1363,Waverley,132, Rental,137,Apartment,0,April,0
-1364,None,88,Apartment / flat to rent in Berea - Johannesburg,183,None,1,None,9
-1365,Craighall Park,24, Engel & Volkers Hyde Park,36,Apartment,0,February,3
-1366,Craighall Park,24, Rental,137,Apartment,0,March,7
-1367,None,88,  ,1,None,1,None,9
-1368,Waverley,132, Jawitz Johannesburg North,68,Townhouse,2,March,7
-1369,None,88, None,97,None,1,None,9
-1370,Mondeor,82, Harcourts Falcons,55,Townhouse,2,April,0
-1371,Craighall,23, Tyson Properties Fourways,161,Apartment,0,February,3
-1372,None,88, None,97,None,1,None,9
-1373,Killarney,60, Urban Link JHB Zone 1,162,Apartment,0,April,0
-1374,Houghton Estate,51, Ezyprop,40,Apartment,0,February,3
-1375,None,88, None,97,None,1,None,9
-1376,Waverley,132, Jawitz Johannesburg North,68,Apartment,0,March,7
-1377,None,88, None,97,None,1,None,9
-1378,None,88, None,97,None,1,None,9
-1379,Emmarentia,32, The Realtors,158,Apartment,0,March,7
-1380,Winchester Hills,137, PropertyCloud,117,Townhouse,2,March,7
-1381,Gresswold,47, Jawitz Bedfordview,67,Apartment,0,March,7
-1382,None,88, None,97,None,1,None,9
-1383,Rosebank,113, RE/MAX Advantage,121,Apartment,0,January,4
-1384,None,88, None,97,None,1,None,9
-1385,None,88, None,97,None,1,None,9
-1386,Norwood,90, Zareena Kara Properties,166,Townhouse,2,February,3
-1387,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,January,4
-1388,Berea,10, Trafalgar Property Management,160,Apartment,0,March,7
-1389,Rosettenville,114, Mafadi Property Management Office,84,Apartment,0,March,7
-1390,Oaklands,92, You Realty,165,Apartment,0,March,7
-1391,Glenvista,43, Chas Everitt Glenvista,22,Townhouse,2,May,8
-1392,None,88, None,97,None,1,None,9
-1393,Winchester Hills,137, Property.CoZa - Johannesburg South,112,Townhouse,2,April,0
-1394,None,88, None,97,None,1,None,9
-1395,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,January,4
-1396,Mayfield Park,73, Natrent Rentals,92,Townhouse,2,April,0
-1397,Rosebank,113, RE/MAX Advantage,121,Apartment,0,May,8
-1398,None,88, None,97,None,1,None,9
-1399,Oakdene,91, Jawitz Alberton & Germiston,66,Townhouse,2,May,8
-1400,Hillbrow,50, Mafadi Property Management Office,84,Apartment,0,April,0
-1401,Waverley,132, CP Inc Realtors,19,Apartment,0,March,7
-1402,Johannesburg Central,53, Rental,137,Apartment,0,February,3
-1403,None,88, None,97,None,1,None,9
-1404,Yeoville,140, Trafalgar Property Management,160,Apartment,0,April,0
-1405,None,88,Townhouse to rent in Glenanda - Johannesburg,194,None,1,None,9
-1406,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,February,3
-1407,Suideroord,120, Lencar Exclusive Properties,78,Townhouse,2,March,7
-1408,None,88, None,97,None,1,None,9
-1409,Glenvista,43, Boss Platinum Real Estate,18,Apartment,0,March,7
-1410,Doornfontein,26, Mafadi Property Management Office,84,Apartment,0,March,7
-1411,Craighall Park,24, Rowcor Properties Eleanor Jacobs,141,Apartment,0,March,7
-1412,Maboneng,70, Mafadi Property Management Office,84,Apartment,0,March,7
-1413,Melrose Arch,75, Rental,137,Apartment,0,March,7
-1414,None,88, None,97,None,1,None,9
-1415,None,88, None,97,None,1,None,9
-1416,None,88, None,97,None,1,None,9
-1417,Johannesburg Central,53, Framework Property Services,46,Apartment,0,April,0
-1418,Oaklands,92, ANGOR Property Specialist,4,Apartment,0,March,7
-1419,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,December,2
-1420,Auckland Park,5, Infinite Property Network Dynamyx,61,Apartment,0,February,3
-1421,Maboneng,70, iThemba Property,168,Apartment,0,April,0
-1422,Wolhuter,139, Trafalgar Property Management,160,Apartment,0,January,4
-1423,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,March,7
-1424,None,88, None,97,None,1,None,9
-1425,None,88, None,97,None,1,None,9
-1426,Parktown,99, Frankie Bell's Real Estate,47,Apartment,0,February,3
-1427,Ridgeway,106, Infinity Homes & Rentals,62,Townhouse,2,March,7
-1428,Craighall,23, Firzt Realty Company Firzt Realty Company,45,Apartment,0,January,4
-1429,Sandringham,116, Amour Properties,11,Apartment,0,March,7
-1430,Ormonde,96, Olympic Realtors,99,Townhouse,2,November,10
-1431,Oaklands,92, ANGOR Property Specialist,4,Apartment,0,March,7
-1432,Westdene,135, Sotheby's International Realty - Craighall,156,Apartment,0,April,0
-1433,Killarney,60, Key Location,73,Apartment,0,February,3
-1434,Lombardy East,67, Watson Properties,164,Apartment,0,January,4
-1435,Bassonia,6, NV Homes,89,Townhouse,2,March,7
-1436,None,88, None,97,None,1,None,9
-1437,Mondeor,82, Seeff Southcrest,151,Apartment,0,March,7
-1438,None,88, None,97,None,1,None,9
-1439,None,88, None,97,None,1,None,9
-1440,Melrose North,78, Vered Estates,163,Apartment,0,February,3
-1441,None,88,  ,1,None,1,None,9
-1442,Oaklands,92, Jawitz Johannesburg North,68,Apartment,0,March,7
-1443,Bramley,18, You Realty,165,Apartment,0,April,0
-1444,Houghton Estate,51, Amour Properties,11,Apartment,0,March,7
-1445,None,88, None,97,None,1,None,9
-1446,None,88, None,97,None,1,None,9
-1447,Melrose Arch,75, Century 21 Sandton,20,Apartment,0,May,8
-1448,Craighall Park,24, Trafalgar Property Management,160,Apartment,0,April,0
-1449,None,88, None,97,None,1,None,9
-1450,Johannesburg Central,53, IHS Property Management,60,Apartment,0,May,8
-1451,Ridgeway,106, Harcourts Falcons,55,Apartment,0,April,0
-1452,Bassonia,6, PropertyCloud,117,Townhouse,2,November,10
-1453,Riviera,109, Russell Fisher Properties,143,Apartment,0,February,3
-1454,None,88,  ,1,None,1,None,9
-1455,None,88, None,97,None,1,None,9
-1456,Melrose North,78, CP Inc Realtors,19,Apartment,0,February,3
-1457,Lombardy East,67, Property.CoZa - Edenvale / Bedfordview,111,Apartment,0,March,7
-1458,Lombardy East,67, Rowcor Properties Eleanor Jacobs,141,Apartment,0,April,0
-1459,Rosebank,113, Rawson Properties Florida,128,Apartment,0,March,7
-1460,None,88, None,97,None,1,None,9
-1461,None,88, None,97,None,1,None,9
-1462,Melrose,74, Sotheby's International Realty - Craighall,156,Apartment,0,January,4
-1463,Winchester Hills,137, Allegiance Properties - JHB South,8,Apartment,0,December,2
-1464,Birnam,13, Chas Everitt Hyde Park,23,Apartment,0,March,7
-1465,Sandringham,116, Jawitz Bedfordview,67,Apartment,0,March,7
-1466,Mulbarton,84, Fengari Properties,42,Apartment,0,November,10
-1467,None,88, None,97,None,1,None,9
-1468,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,November,10
-1469,None,88, None,97,None,1,None,9
-1470,Highlands North,49, Framework Property Services,46,Apartment,0,April,0
-1471,None,88,  ,1,None,1,None,9
-1472,None,88, None,97,None,1,None,9
-1473,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,January,4
-1474,Johannesburg Central,53, Trafalgar Property Management,160,Apartment,0,January,4
-1475,None,88,Townhouse to rent in Houghton Estate - Johannesburg,196,None,1,None,9
-1476,Johannesburg Central,53, Framework Property Services,46,Apartment,0,April,0
-1477,Talboton,122, Jawitz Bedfordview,67,Apartment,0,March,7
-1478,Riviera,109, Zareena Kara Properties,166,Apartment,0,April,0
-1479,Highlands North,49, Rental,137,Apartment,0,April,0
-1480,Ridgeway,106, ,0,Townhouse,2,None,9
-1481,Melville,79, Rental,137,Apartment,0,February,3
-1482,None,88, None,97,None,1,None,9
-1483,Oakdene,91, Momentum International Realty - National Branch,87,Townhouse,2,March,7
-1484,Marshalltown,72, Mafadi Property Management Office,84,Apartment,0,March,7
-1485,Waverley,132, Jawitz Johannesburg North,68,Apartment,0,March,7
-1486,Melrose North,78, Seeff Sandton,150,Apartment,0,March,7
-1487,Yeoville,140, Trafalgar Property Management,160,Apartment,0,February,3
-1488,None,88, None,97,None,1,None,9
-1489,Waverley,132, You Realty,165,Apartment,0,March,7
-1490,Maboneng,70, Lukhanyo Property,83,Apartment,0,March,7
-1491,None,88, None,97,None,1,None,9
-1492,Auckland Park,5, Skye Letting,154,Apartment,0,March,7
-1493,Kensington,56, Rental,137,Apartment,0,March,7
-1494,Highlands North,49, You Realty,165,Apartment,0,March,7
-1495,Auckland Park,5, Infinite Property Network Dynamyx,61,Apartment,0,February,3
-1496,Ormonde,96, Natrent Rentals,92,Townhouse,2,April,0
-1497,"Roodepoort - Johannesburg; RE/MAX, Superior",112, ,0,Townhouse,2,None,9
-1498,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,February,3
-1499,None,88, None,97,None,1,None,9
-1500,None,88, None,97,None,1,None,9
-1501,None,88,  ,1,None,1,None,9
-1502,None,88, None,97,None,1,None,9
-1503,Bellevue,8, Trafalgar Property Management,160,Apartment,0,December,2
-1504,Birdhaven,12, Sotheby's International Realty - Craighall,156,Apartment,0,May,8
-1505,None,88, None,97,None,1,None,9
-1506,Mulbarton,84, Lencar Exclusive Properties,78,Townhouse,2,April,0
-1507,Melrose North,78, Rental,137,Apartment,0,April,0
-1508,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,January,4
-1509,None,88, None,97,None,1,None,9
-1510,None,88,  ,1,None,1,None,9
-1511,None,88, None,97,None,1,None,9
-1512,None,88, None,97,None,1,None,9
-1513,Rosebank,113, Fengari Properties,42,Apartment,0,March,7
-1514,Mayfield Park,73, Natrent Rentals,92,Townhouse,2,April,0
-1515,None,88, None,97,None,1,None,9
-1516,Naturena,85, 2LetNow - JHB,2,Apartment,0,March,7
-1517,Ormonde,96, Allegiance Properties - JHB South,8,Apartment,0,April,0
-1518,Linmeyer,66, PropertyCloud,117,Townhouse,2,February,3
-1519,Glenvista,43, Lencar Exclusive Properties,78,Townhouse,2,February,3
-1520,Ormonde,96, Natrent Rentals,92,Townhouse,2,May,8
-1521,Rosebank,113, Rowcor Properties Eleanor Jacobs,141,Apartment,0,March,7
-1522,Norwood,90, Russell Fisher Properties,143,Apartment,0,April,0
-1523,None,88, None,97,None,1,None,9
-1524,None,88, None,97,None,1,None,9
-1525,Rosebank,113, Etchells & Young Property Brokers,38,Apartment,0,March,7
-1526,Houghton Estate,51, Etchells & Young Property Brokers,38,Apartment,0,February,3
-1527,Houghton Estate,51, Frankie Bell's Real Estate,47,Townhouse,2,March,7
-1528,None,88,  ,1,None,1,None,9
-1529,None,88, None,97,None,1,None,9
-1530,None,88, None,97,None,1,None,9
-1531,None,88, None,97,None,1,None,9
-1532,None,88, None,97,None,1,None,9
-1533,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,March,7
-1534,Parkhurst,98, Rental,137,Apartment,0,February,3
-1535,Johannesburg Central,53, Rental,137,Apartment,0,March,7
-1536,Riviera,109, Blue Living Properties,17,Apartment,0,May,8
-1537,Melrose,74, Sotheby's International Realty - Craighall,156,Apartment,0,March,7
-1538,Rosebank,113, Seeff Sandton,150,Apartment,0,February,3
-1539,Waverley,132, Rental,137,Apartment,0,April,0
-1540,Mayfield Park,73, 2LetNow - JHB,2,Apartment,0,May,8
-1541,Melrose,74, Sotheby's International Realty - Craighall,156,Apartment,0,March,7
-1542,Dunkeld West,28, Growth Properties,50,Apartment,0,February,3
-1543,Killarney,60, Nomsa Nene Properties,96,Apartment,0,February,3
-1544,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1545,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1546,Marshalltown,72, Chorus Letting,25,Apartment,0,None,9
-1547,Houghton Estate,51, Sotheby's International Realty - Craighall,156,Apartment,0,None,9
-1548,Maboneng,70, Chorus Letting,25,Apartment,0,None,9
-1549,Hillbrow,50, Johannesburg Housing Company,70,Apartment,0,None,9
-1550,Liefde En Vrede,63, Landstar Property Solutions,76,Apartment,0,None,9
-1551,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1552,Bruma,20, Trading Spaces Property Group,159,Apartment,0,None,9
-1553,Braamfontein,16, RE/MAX Advantage,121,Apartment,0,None,9
-1554,Ridgeway,106, Landstar Property Solutions,76,Apartment,0,None,9
-1555,Melrose Arch,75, Vered Estates,163,Apartment,0,None,9
-1556,Melrose North,78, Vered Estates,163,Apartment,0,None,9
-1557,Houghton Estate,51, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1558,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1559,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1560,Maboneng,70, Chorus Letting,25,Apartment,0,None,9
-1561,Glenvista,43, Boss Platinum Real Estate,18,Townhouse,2,None,9
-1562,Killarney,60, Be Prop,15,Apartment,0,None,9
-1563,Melrose Arch,75, Vered Estates,163,Apartment,0,None,9
-1564,Maboneng,70, Chorus Letting,25,Apartment,0,None,9
-1565,Marshalltown,72, Chorus Letting,25,Apartment,0,None,9
-1566,Winchester Hills,137, Landstar Property Solutions,76,Apartment,0,None,9
-1567,Ridgeway,106, Landstar Property Solutions,76,Apartment,0,None,9
-1568,Fordsburg,35, Johannesburg Housing Company,70,Apartment,0,None,9
-1569,Aeroton,0, Landstar Property Solutions,76,Apartment,0,None,9
-1570,Brixton,19, National Letting - Johannesburg,91,Apartment,0,None,9
-1571,Parkhurst,98, National Letting - Johannesburg,91,Apartment,0,None,9
-1572,Maboneng,70, Chorus Letting,25,Apartment,0,None,9
-1573,Winchester Hills,137, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1574,Emmarentia,32, Royal Realty,142,Apartment,0,None,9
-1575,Newtown,87, Johannesburg Housing Company,70,Apartment,0,None,9
-1576,Johannesburg Central,53, Johannesburg Housing Company,70,Apartment,0,None,9
-1577,Hillbrow,50, Chorus Letting,25,Apartment,0,None,9
-1578,Marshalltown,72, Chorus Letting,25,Apartment,0,None,9
-1579,Parkwood,102, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1580,Auckland Park,5, National Letting - Johannesburg,91,Apartment,0,None,9
-1581,Houghton Estate,51, Blue Living Properties,17,Apartment,0,None,9
-1582,Alan Manor,1, National Letting - Johannesburg,91,Apartment,0,None,9
-1583,Oakdene,91, RE/MAX Advantage,121,Apartment,0,None,9
-1584,Parkwood,102, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1585,Parkwood,102, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1586,Parkwood,102, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1587,Dunkeld West,28, RE/MAX Advantage,121,Apartment,0,None,9
-1588,Rosebank,113, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1589,Joubert Park,54, Johannesburg Housing Company,70,Apartment,0,None,9
-1590,Auckland Park,5, RE/MAX Advantage,121,Apartment,0,None,9
-1591,Parkwood,102, RE/MAX Advantage,121,Apartment,0,None,9
-1592,Ferreirasdorp,34, Clipper Properties,27,Apartment,0,None,9
-1593,Lyndhurst,69, RE/MAX One - Edenvale,124,Townhouse,2,None,9
-1594,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1595,South Hills,119, 2LetNow - JHB,2,Apartment,0,None,9
-1596,Winchester Hills,137, Landstar Property Solutions,76,Apartment,0,None,9
-1597,Winchester Hills,137, Landstar Property Solutions,76,Apartment,0,None,9
-1598,Winchester Hills,137, Landstar Property Solutions,76,Apartment,0,None,9
-1599,Regents Park,103, Landstar Property Solutions,76,Apartment,0,None,9
-1600,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1601,Ridgeway,106, Landstar Property Solutions,76,Apartment,0,None,9
-1602,Bassonia,6, Landstar Property Solutions,76,Apartment,0,None,9
-1603,Westdene,135, Clipper Properties,27,Apartment,0,None,9
-1604,Berea,10, Mamela Estates,85,Apartment,0,None,9
-1605,Houghton Estate,51, Rawson Properties Sandton Apartment Living,132,Apartment,0,None,9
-1606,Parktown,99, National Letting - Johannesburg,91,Apartment,0,None,9
-1607,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1608,Parktown,99, National Letting - Johannesburg,91,Apartment,0,None,9
-1609,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1610,Bassonia,6, Landstar Property Solutions,76,Apartment,0,None,9
-1611,Melrose North,78, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1612,Johannesburg Central,53, National Letting - Johannesburg,91,Apartment,0,None,9
-1613,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1614,City & Suburban,21, Mamela Estates,85,Apartment,0,None,9
-1615,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1616,Townsview,125, Begrand Property,16,Townhouse,2,None,9
-1617,Craighall Park,24, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1618,Glensan,42, Leapfrog JHB North East,77,Townhouse,2,None,9
-1619,Craighall,23, CP Inc Realtors,19,Townhouse,2,None,9
-1620,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1621,Gresswold,47, O-Yes Properties,98,Apartment,0,None,9
-1622,Bassonia,6, 2LetNow - JHB,2,Apartment,0,None,9
-1623,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1624,Meredale,80, 2LetNow - JHB,2,Apartment,0,None,9
-1625,Mulbarton,84, Allegiance Properties b,9,Apartment,0,None,9
-1626,Melrose Estate,77, Blue Living Properties,17,Apartment,0,None,9
-1627,Auckland Park,5, National Letting - Johannesburg,91,Apartment,0,None,9
-1628,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1629,Johannesburg Central,53, 2LetNow - JHB,2,Apartment,0,None,9
-1630,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1631,Melrose Arch,75, The Property Collection,157,Apartment,0,None,9
-1632,Winchester Hills,137, 2LetNow - JHB,2,Apartment,0,None,9
-1633,Melrose Arch,75, Pam Golding Properties - Gauteng Projects,103,Apartment,0,None,9
-1634,Mulbarton,84, Leopard Realtors,79,Townhouse,2,None,9
-1635,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1636,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1637,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1638,Melrose Arch,75, Pam Golding Properties - Gauteng Projects,103,Apartment,0,None,9
-1639,Saxonwold,118, Fine & Country - Fourways,44,Apartment,0,None,9
-1640,Craighall Park,24, Adrienne Hersch Properties,6,Apartment,0,None,9
-1641,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1642,Mayfield Park,73, Boss Platinum Real Estate,18,Apartment,0,None,9
-1643,Ormonde,96, 2LetNow - JHB,2,Apartment,0,None,9
-1644,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1645,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1646,Meredale,80, 2LetNow - JHB,2,Apartment,0,None,9
-1647,Robertsham,110, 2LetNow - JHB,2,Apartment,0,None,9
-1648,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1649,Bassonia,6, Pam Golding Properties - Alberton Rentals,101,Apartment,0,None,9
-1650,Robertsham,110, Landstar Property Solutions,76,Apartment,0,None,9
-1651,Houghton Estate,51, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1652,Auckland Park,5, Pam Golding Properties - Randburg Rentals,106,Apartment,0,None,9
-1653,Sandringham,116, Pam Golding Properties - East Rand Rentals,102,Apartment,0,None,9
-1654,Houghton Estate,51, Inorbit Property,64,Apartment,0,None,9
-1655,Bassonia,6, Allegiance Properties b,9,Townhouse,2,None,9
-1656,Liefde En Vrede,63, 2LetNow - JHB,2,Apartment,0,None,9
-1657,Melrose Estate,77, GD Property,48,Apartment,0,None,9
-1658,Houghton Estate,51, Rawson Properties Sandton Apartment Living,132,Apartment,0,None,9
-1659,Glenvista,43, Allegiance Properties - JHB South,8,Townhouse,2,None,9
-1660,Naturena,85, 2LetNow - JHB,2,Apartment,0,None,9
-1661,Ridgeway,106, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1662,Bassonia,6, Allegiance Properties b,9,Townhouse,2,None,9
-1663,Bosmont,15, RE/MAX Advantage,121,Apartment,0,None,9
-1664,Robertsham,110, Landstar Property Solutions,76,Apartment,0,None,9
-1665,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1666,Houghton Estate,51, Power of 2 Realty,108,Apartment,0,None,9
-1667,Glenhazel,41, Leapfrog JHB North East,77,Townhouse,2,None,9
-1668,South Hills,119, 2LetNow - JHB,2,Apartment,0,None,9
-1669,Melrose Arch,75, Vered Estates,163,Apartment,0,None,9
-1670,Kensington,56, Pompa Realty Group Bedfordview,107,Townhouse,2,None,9
-1671,Forest Hill,36, Lencar Exclusive Properties,78,Apartment,0,None,9
-1672,Killarney,60, RE/MAX Advantage,121,Apartment,0,None,9
-1673,Alveda,4, 2LetNow - JHB,2,Apartment,0,None,9
-1674,Mulbarton,84, 2LetNow - JHB,2,Apartment,0,None,9
-1675,Melrose Arch,75, The Property Collection,157,Apartment,0,None,9
-1676,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1677,Maboneng,70, Inorbit Property,64,Apartment,0,None,9
-1678,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1679,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1680,None,88, washing machine and tumble dry b,169,None,1,None,9
-1681,Parkview,101, Tyson Properties Fourways,161,Apartment,0,None,9
-1682,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1683,Naturena,85, 2LetNow - JHB,2,Apartment,0,None,9
-1684,Melrose,74, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1685,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1686,Observatory,93, Vered Estates,163,Apartment,0,None,9
-1687,Saxonwold,118, Blue Living Properties,17,Apartment,0,None,9
-1688,Killarney,60, Vered Estates,163,Apartment,0,None,9
-1689,Oakdene,91, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1690,Glenvista,43, Rosie Viljoen Real Estate,139,Townhouse,2,None,9
-1691,Saxonwold,118, Fine & Country - Fourways,44,Apartment,0,None,9
-1692,Saxonwold,118, Reliable Realty,134,Apartment,0,None,9
-1693,Craighall,23, Limestone Residential Properties,80,Townhouse,2,None,9
-1694,Dunkeld West,28, Adrienne Hersch Properties,6,Apartment,0,None,9
-1695,Bassonia,6, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1696,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1697,Melrose Arch,75, Chas Everitt Hyde Park,23,Apartment,0,None,9
-1698,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1699,Alveda,4, 2LetNow - JHB,2,Apartment,0,None,9
-1700,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1701,Montgomery Park,83, Property Runners and Rent Runners Pty Ltd,109,Apartment,0,None,9
-1702,New Doornfontein,86, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1703,Houghton Estate,51, Infinity Realty Group,63,Apartment,0,None,9
-1704,Melrose Arch,75, Pam Golding Properties - Gauteng Projects,103,Apartment,0,None,9
-1705,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1706,Killarney,60, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1707,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1708,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1709,Linksfield,64, GD Property,48,Apartment,0,None,9
-1710,Killarney,60, Power of 2 Realty,108,Apartment,0,None,9
-1711,Norwood,90, Blue Living Properties,17,Apartment,0,None,9
-1712,Forest Hill,36, Landstar Property Solutions,76,Apartment,0,None,9
-1713,Saxonwold,118, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1714,Kensington,56, Sherida Properties,152,Apartment,0,None,9
-1715,Birdhaven,12, Blue Living Properties,17,Apartment,0,None,9
-1716,Liefde En Vrede,63, 2LetNow - JHB,2,Apartment,0,None,9
-1717,Mulbarton,84, Rosjo Properties,140,Apartment,0,None,9
-1718,Rosebank,113, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1719,Sandringham,116, Leapfrog JHB North East,77,Townhouse,2,None,9
-1720,Forest Town,37, Ennik Estates Johannesburg,37,Townhouse,2,None,9
-1721,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1722,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1723,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1724,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1725,Melrose,74, Adrienne Hersch Properties,6,Apartment,0,None,9
-1726,Marshalltown,72, Recoin Properties,133,Apartment,0,None,9
-1727,Naturena,85, 2LetNow - JHB,2,Apartment,0,None,9
-1728,Oaklands,92, Pam Golding Properties - Hyde Park Letting,104,Townhouse,2,None,9
-1729,Ormonde,96, Finally Home Property Brokers,43,Townhouse,2,None,9
-1730,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1731,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1732,Whitney Gardens,136, O-Yes Properties,98,Townhouse,2,None,9
-1733,Norwood,90, Farah Properties,41,Townhouse,2,None,9
-1734,Bramley,18, RE/MAX Advantage,121,Apartment,0,None,9
-1735,Killarney,60, Huizemark Sandton / Randburg,59,Apartment,0,None,9
-1736,Ormonde,96, 2LetNow - JHB,2,Apartment,0,None,9
-1737,Haddon,48, Landstar Property Solutions,76,Apartment,0,None,9
-1738,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1739,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1740,Vrededorp,131, Mamela Estates,85,Apartment,0,None,9
-1741,Waverley,132, Blue Living Properties,17,Apartment,0,None,9
-1742,South Hills,119, 2LetNow - JHB,2,Apartment,0,None,9
-1743,Mulbarton,84, Lencar Exclusive Properties,78,Townhouse,2,None,9
-1744,Killarney,60, Blue Living Properties,17,Apartment,0,None,9
-1745,Winchester Hills,137, Pam Golding Properties - Alberton Rentals,101,Townhouse,2,None,9
-1746,Maboneng,70, RE/MAX Advantage,121,Apartment,0,None,9
-1747,Dunkeld,27, O-Yes Properties,98,Apartment,0,None,9
-1748,Oaklands,92, Adrienne Hersch Properties,6,Townhouse,2,None,9
-1749,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1750,Savoy Estate,117, O-Yes Properties,98,Apartment,0,None,9
-1751,Victoria,130, RE/MAX Advantage,121,Townhouse,2,None,9
-1752,Oakdene,91, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1753,Craighall,23, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1754,Dunkeld West,28, Hamiltons Property Portfolio,52,Apartment,0,None,9
-1755,Doornfontein,26, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1756,Rispark,107, Seeff Kibler Park,147,Apartment,0,None,9
-1757,Corlett Gardens,22, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,None,9
-1758,Craighall Park,24, Vered Estates,163,Apartment,0,None,9
-1759,Houghton Estate,51, Vered Estates,163,Apartment,0,None,9
-1760,Parkwood,102, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1761,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1762,Killarney,60, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1763,Naturena,85, 2LetNow - JHB,2,Apartment,0,None,9
-1764,Linmeyer,66, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1765,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1766,Maboneng,70, Clipper Properties,27,Apartment,0,None,9
-1767,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1768,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,None,9
-1769,Houghton Estate,51, Zareena Kara Properties,166,Apartment,0,None,9
-1770,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1771,Killarney,60, Power of 2 Realty,108,Townhouse,2,None,9
-1772,Braamfontein,16, Pam Golding Properties - Randburg Rentals,106,Apartment,0,None,9
-1773,Melrose,74, RE/MAX Advantage,121,Apartment,0,None,9
-1774,Killarney,60, Sherida Properties,152,Apartment,0,None,9
-1775,Mondeor,82, 2LetNow - JHB,2,Apartment,0,None,9
-1776,Joubert Park,54, Mamela Estates,85,Apartment,0,None,9
-1777,Alveda,4, 2LetNow - JHB,2,Apartment,0,None,9
-1778,Jeppestown,52, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1779,Dunkeld West,28, Blue Living Properties,17,Apartment,0,None,9
-1780,Linmeyer,66, Landstar Property Solutions,76,Apartment,0,None,9
-1781,Auckland Park,5, Pam Golding Properties - Randburg Rentals,106,Apartment,0,None,9
-1782,Melrose North,78, Century 21 Sandton,20,Apartment,0,None,9
-1783,Craighall,23, Farah Properties,41,Townhouse,2,None,9
-1784,Winchester Hills,137, Begrand Property,16,Apartment,0,None,9
-1785,Oakdene,91, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1786,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1787,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1788,Rosebank,113, Farah Properties,41,Townhouse,2,None,9
-1789,Braamfontein,16, Recoin Properties,133,Apartment,0,None,9
-1790,Dunkeld West,28, RE/MAX Executive Group - Dainfern,122,Apartment,0,None,9
-1791,Craighall,23, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1792,Killarney,60, Nomsa Nene Properties,96,Apartment,0,None,9
-1793,Rispark,107, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1794,Greenside,45, Ennik Estates Johannesburg,37,Apartment,0,None,9
-1795,Linmeyer,66, City & Suburbs Realty,26,Apartment,0,None,9
-1796,Melrose,74, Blue Living Properties,17,Apartment,0,None,9
-1797,Craighall Park,24, Blue Living Properties,17,Apartment,0,None,9
-1798,Winchester Hills,137, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1799,Alveda,4, 2LetNow - JHB,2,Apartment,0,None,9
-1800,Braamfontein,16, Nkosi Property Group Office,95,Apartment,0,None,9
-1801,Dunkeld,27, O-Yes Properties,98,Apartment,0,None,9
-1802,Jeppestown,52, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1803,Craighall,23, Adrienne Hersch Properties,6,Apartment,0,None,9
-1804,Craighall Park,24, Meridian Realty,86,Apartment,0,None,9
-1805,Killarney,60, Nomsa Nene Properties,96,Apartment,0,None,9
-1806,Linmeyer,66, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1807,Houghton Estate,51, Leapfrog JHB North East,77,Apartment,0,None,9
-1808,Ridgeway,106, 2LetNow - JHB,2,Apartment,0,None,9
-1809,Bramley,18, Engel & Volkers Hyde Park,36,Apartment,0,None,9
-1810,Oaklands,92, Leapfrog JHB North East,77,Townhouse,2,None,9
-1811,Lenasia Ext 1,61, 2LetNow - JHB,2,Apartment,0,None,9
-1812,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1813,Bruma,20, Trading Spaces Property Group,159,Apartment,0,None,9
-1814,Kenilworth,55, Landstar Property Solutions,76,Apartment,0,None,9
-1815,Tulisa Park,126, Pam Golding Properties - Alberton Rentals,101,Townhouse,2,None,9
-1816,The Hill,123, Allegiance Properties b,9,Apartment,0,None,9
-1817,Dunkeld West,28, Chas Everitt Hyde Park,23,Townhouse,2,None,9
-1818,Melrose Arch,75, Pam Golding Properties - Melrose Arch Letting,105,Apartment,0,None,9
-1819,Braamfontein Werf,17, Vered Estates,163,Apartment,0,None,9
-1820,Robertsham,110, 2LetNow - JHB,2,Apartment,0,None,9
-1821,Melrose North,78, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,None,9
-1822,Winchester Hills,137, Leopard Realtors,79,Townhouse,2,None,9
-1823,Killarney,60, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1824,Winchester Hills,137, Pam Golding Properties - Alberton Rentals,101,Townhouse,2,None,9
-1825,Meredale,80, 2LetNow - JHB,2,Apartment,0,None,9
-1826,The Hill,123, Allegiance Properties b,9,Apartment,0,None,9
-1827,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,None,9
-1828,Bertrams,11, Mamela Estates,85,Apartment,0,None,9
-1829,The Hill,123, 2LetNow - JHB,2,Apartment,0,None,9
-1830,Sandringham,116, RE/MAX Advantage,121,Apartment,0,None,9
-1831,Bassonia,6, Leopard Realtors,79,Townhouse,2,None,9
-1832,Waverley,132, Vered Estates,163,Apartment,0,None,9
-1833,Braamfontein,16, Nkosi Property Group Office,95,Apartment,0,None,9
-1834,Joubert Park,54, Mamela Estates,85,Apartment,0,None,9
-1835,Upper Houghton,129, RE/MAX Advantage,121,Apartment,0,None,9
-1836,Killarney,60, Nomsa Nene Properties,96,Apartment,0,None,9
-1837,Newtown,87, Nkosi Property Group Office,95,Apartment,0,None,9
-1838,Parkhurst,98, Nan Roberts Estates,90,Apartment,0,None,9
-1839,Winchester Hills,137, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1840,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
-1841,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1842,Parkview,101, Blue Living Properties,17,Townhouse,2,None,9
-1843,Meredale,80, 2LetNow - JHB,2,Apartment,0,None,9
-1844,Kenilworth,55, Landstar Property Solutions,76,Apartment,0,None,9
-1845,Glenvista,43, Chas Everitt Glenvista,22,Townhouse,2,None,9
-1846,Birdhaven,12, Blue Living Properties,17,Apartment,0,None,9
-1847,South Hills,119, 2LetNow - JHB,2,Apartment,0,None,9
-1848,Greenside East,46, Rowcor Properties Eleanor Jacobs,141,Apartment,0,None,9
-1849,Riviera,109, RE/MAX Advantage,121,Apartment,0,None,9
-1850,Riviera,109, Power of 2 Realty,108,Apartment,0,None,9
-1851,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1852,Booysens,14, Landstar Property Solutions,76,Apartment,0,None,9
-1853,Ridgeway,106, 2LetNow - JHB,2,Apartment,0,None,9
-1854,Winchester Hills,137, 2LetNow - JHB,2,Apartment,0,None,9
-1855,Robertsham,110, 2LetNow - JHB,2,Apartment,0,None,9
-1856,Johannesburg Central,53, AFHCO Africa Housing Company,3,Apartment,0,None,9
-1857,Kibler Park,59, 2LetNow - JHB,2,Apartment,0,None,9
-1858,Braamfontein,16, Nkosi Property Group Office,95,Apartment,0,None,9
-1859,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1860,Parktown,99, Ennik Estates Johannesburg,37,Apartment,0,None,9
-1861,Forest Hill,36, 2LetNow - JHB,2,Apartment,0,None,9
-1862,Houghton Estate,51, Jawitz Johannesburg North,68,Apartment,0,None,9
-1863,Houghton Estate,51, Alan Becker Properties,7,Apartment,0,None,9
-1864,Lombardy East,67, SA Property Group,145,Apartment,0,None,9
-1865,Lyndhurst,69, Zulberg Estates,167,Townhouse,2,None,9
-1866,Naturena,85, 2LetNow - JHB,2,Apartment,0,None,9
-1867,Melrose North,78, Blue Living Properties,17,Apartment,0,None,9
-1868,Fairmount,33, Leapfrog JHB North East,77,Townhouse,2,None,9
-1869,Eltonhill,31, Blue Living Properties,17,Apartment,0,None,9
-1870,Maboneng,70, RE/MAX Advantage,121,Apartment,0,None,9
-1871,Norwood,90, RE/MAX Masters - Bryanston,123,Townhouse,2,None,9
-1872,Houghton Estate,51, Blue Living Properties,17,Apartment,0,None,9
-1873,Johannesburg Central,53, Recoin Properties,133,Apartment,0,None,9
-1874,Alveda,4, 2LetNow - JHB,2,Apartment,0,None,9
-1875,Braamfontein,16, Seeff - Johannesburg Central,146,Apartment,0,None,9
-1876,Melville,79, Gaylin Estates,49,Apartment,0,None,9
-1877,Lombardy East,67, Rowcor Properties Eleanor Jacobs,141,Apartment,0,None,9
-1878,Killarney,60, RE/MAX Advantage,121,Apartment,0,None,9
-1879,Turffontein,128, Landstar Property Solutions,76,Apartment,0,None,9
-1880,Riviera,109, RE/MAX Advantage,121,Apartment,0,None,9
-1881,Riviera,109, Nomsa Nene Properties,96,Townhouse,2,None,9
-1882,Killarney,60, Clipper Properties,27,Apartment,0,None,9
-1883,Braamfontein Werf,17, Inorbit Property,64,Apartment,0,None,9
-1884,Houghton Estate,51, Pam Golding Properties - Hyde Park Letting,104,Townhouse,2,None,9
-1885,Berea,10, Mamela Estates,85,Apartment,0,None,9
-1886,Newtown,87, Nkosi Property Group Office,95,Apartment,0,None,9
-1887,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1888,Riviera,109, RE/MAX Advantage,121,Apartment,0,None,9
-1889,Malvern,71, RE/MAX Advantage,121,Townhouse,2,None,9
-1890,Oakdene,91, Rowcor Properties Eleanor Jacobs,141,Apartment,0,None,9
-1891,Craighall Park,24, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1892,Ridgeway,106, Rowcor Properties Eleanor Jacobs,141,Townhouse,2,None,9
-1893,Melrose North,78, Blue Living Properties,17,Apartment,0,None,9
-1894,Killarney,60, Blue Living Properties,17,Apartment,0,None,9
-1895,Killarney,60, National Letting - Johannesburg,91,Apartment,0,None,9
-1896,Glenhazel,41, Leapfrog JHB North East,77,Apartment,0,None,9
-1897,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1898,Riviera,109, RE/MAX Advantage,121,Apartment,0,None,9
-1899,Franklin Roosevelt Park,38, Des and Warren Properties,32,Apartment,0,None,9
-1900,Kensington,56, Chalmers Estates,21,Apartment,0,None,9
-1901,Rosettenville,114, Landstar Property Solutions,76,Apartment,0,None,9
-1902,Bramley,18, RE/MAX Advantage,121,Apartment,0,None,9
-1903,Milpark,81, Rowcor Properties Eleanor Jacobs,141,Apartment,0,None,9
-1904,Oakdene,91, Landstar Property Solutions,76,Apartment,0,None,9
-1905,Craighall,23, Fine & Country - Fourways,44,Apartment,0,None,9
-1906,Dunkeld West,28, Blue Living Properties,17,Apartment,0,None,9
-1907,Ormonde,96, 2LetNow - JHB,2,Apartment,0,None,9
-1908,Norwood,90, Blue Living Properties,17,Apartment,0,None,9
-1909,Melrose Arch,75, Rawson Properties Sandton Apartment Living,132,Apartment,0,None,9
-1910,Eltonhill,31, Blue Living Properties,17,Apartment,0,None,9
-1911,Killarney,60, Pam Golding Properties - Hyde Park Letting,104,Apartment,0,None,9
-1912,Glenvista,43, Leopard Realtors,79,Townhouse,2,None,9
-1913,Parkwood,102, Blue Living Properties,17,Apartment,0,None,9
-1914,Riviera,109, Nomsa Nene Properties,96,Apartment,0,None,9
-1915,Melrose,74, Blue Living Properties,17,Apartment,0,None,9
+0,None,72, None,58,None,1,None,9
+1,None,72, None,58,None,1,None,9
+2,None,72, None,58,None,1,None,9
+3,None,72, None,58,None,1,None,9
+4,None,72, None,58,None,1,None,9
+5,None,72, None,58,None,1,None,9
+6,None,72, None,58,None,1,None,9
+7,None,72, None,58,None,1,None,9
+8,None,72, None,58,None,1,None,9
+9,None,72, None,58,None,1,None,9
+10,None,72, None,58,None,1,None,9
+11,None,72, None,58,None,1,None,9
+12,None,72, None,58,None,1,None,9
+13,None,72, None,58,None,1,None,9
+14,None,72, None,58,None,1,None,9
+15,None,72, None,58,None,1,None,9
+16,None,72, None,58,None,1,None,9
+17,None,72, None,58,None,1,None,9
+18,None,72, None,58,None,1,None,9
+19,None,72, None,58,None,1,None,9
+20,None,72, None,58,None,1,None,9
+21,None,72, None,58,None,1,None,9
+22,None,72, None,58,None,1,None,9
+23,None,72, None,58,None,1,None,9
+24,None,72, None,58,None,1,None,9
+25,None,72, None,58,None,1,None,9
+26,None,72, None,58,None,1,None,9
+27,None,72, Beds,12,None,1,None,9
+28,None,72, None,58,None,1,None,9
+29,None,72, None,58,None,1,None,9
+30,None,72, None,58,None,1,None,9
+31,None,72, None,58,None,1,None,9
+32,None,72, None,58,None,1,None,9
+33,None,72, None,58,None,1,None,9
+34,None,72, None,58,None,1,None,9
+35,None,72, None,58,None,1,None,9
+36,None,72, None,58,None,1,None,9
+37,None,72, None,58,None,1,None,9
+38,None,72, None,58,None,1,None,9
+39,None,72, None,58,None,1,None,9
+40,None,72, None,58,None,1,None,9
+41,City & Suburban,18, Mafadi Property Management Office,52,Apartment,0,March,7
+42,None,72, None,58,None,1,None,9
+43,Killarney,47, CP Inc Realtors,16,Apartment,0,February,3
+44,Fairmount,30, Russell Fisher Properties,85,Townhouse,2,May,8
+45,Rosebank,94, Frankie Bell's Real Estate,36,Apartment,0,April,0
+46,None,72, None,58,None,1,None,9
+47,None,72, None,58,None,1,None,9
+48,South Hills,100, ,0,Townhouse,2,None,9
+49,Craighall Park,23, Vered Estates,97,Apartment,0,April,0
+50,None,72, None,58,None,1,None,9
+51,None,72, ,0,None,1,None,9
+52,None,72, None,58,None,1,None,9
+53,Jeppestown,40, iThemba Property,103,Apartment,0,April,0
+54,Parkview,85, Zareena Kara Properties,101,Townhouse,2,April,0
+55,Oaklands,75, Sotheby's International Realty - Craighall,90,Apartment,0,March,7
+56,None,72, None,58,None,1,None,9
+57,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+58,Johannesburg Central,41, Framework Property Services,35,Apartment,0,April,0
+59,None,72,  ,1,None,1,None,9
+60,Melrose,56, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+61,Kensington,45, Rental,83,Townhouse,2,February,3
+62,Jeppestown,40, iThemba Property,103,Apartment,0,April,0
+63,Mondeor,63, CSi Property Group,17,Apartment,0,May,8
+64,None,72, None,58,None,1,None,9
+65,Craighall,22, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+66,Bassonia,5, PropertyCloud,72,Townhouse,2,March,7
+67,Newlands,70, Property Shop,67,Townhouse,2,May,8
+68,None,72, None,58,None,1,None,9
+69,None,72,Townhouse to rent in Glenhazel - Johannesburg,116,None,1,None,9
+70,Killarney,47, Key Location,46,Apartment,0,May,8
+71,Sydenham,102, You Realty,100,Apartment,0,February,3
+72,None,72, None,58,None,1,None,9
+73,Bezuidenhout Valley,8, Trafalgar Property Management,93,Apartment,0,March,7
+74,Parkhurst,82, Rental,83,Apartment,0,April,0
+75,Melrose Arch,57, Rental,83,Apartment,0,April,0
+76,Killarney,47, Rental,83,Apartment,0,February,3
+77,None,72, None,58,None,1,None,9
+78,Rosettenville,95, Framework Property Services,35,Apartment,0,May,8
+79,Vrededorp,108, Rental,83,Apartment,0,February,3
+80,Waverley,109, Russell Fisher Properties,85,Apartment,0,March,7
+81,None,72,  ,1,None,1,None,9
+82,Craighall Park,23, RE/MAX Executive Group - Dainfern,76,Apartment,0,February,3
+83,None,72, None,58,None,1,None,9
+84,Rosettenville,95, Framework Property Services,35,Apartment,0,May,8
+85,Johannesburg Central,41, Framework Property Services,35,Apartment,0,March,7
+86,Corlett Gardens,20, You Realty,100,Townhouse,2,March,7
+87,None,72,  ,1,None,1,None,9
+88,Melrose North,59, Vered Estates,97,Apartment,0,January,4
+89,Westcliff,110, Rental,83,Apartment,0,January,4
+90,Rosebank,94, Rental,83,Apartment,0,March,7
+91,None,72, None,58,None,1,None,9
+92,Melrose North,59, Rawson Properties Florida,79,Apartment,0,April,0
+93,Winchester Hills,113, Boss Platinum Real Estate,14,Apartment,0,February,3
+94,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,November,10
+95,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+96,None,72, None,58,None,1,None,9
+97,None,72, None,58,None,1,None,9
+98,Hillbrow,38, Trafalgar Property Management,93,Apartment,0,March,7
+99,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+100,Observatory,76, Sotheby's International Realty - Craighall,90,Apartment,0,April,0
+101,Bassonia,5, PropertyCloud,72,Townhouse,2,February,3
+102,Rosebank,94, RE/MAX Advantage,75,Apartment,0,April,0
+103,None,72, None,58,None,1,None,9
+104,Westcliff,110, Rent - A - Property,82,Apartment,0,April,0
+105,Westcliff,110, Rent - A - Property,82,Townhouse,2,April,0
+106,None,72, None,58,None,1,None,9
+107,Killarney,47, Infinite Property Network Dynamyx,40,Apartment,0,January,4
+108,Parkview,85, Etchells & Young Property Brokers,32,Apartment,0,October,11
+109,Rosebank,94, You Realty,100,Apartment,0,April,0
+110,Melrose,56, Firzt Realty Company Firzt Realty Company,34,Apartment,0,February,3
+111,Melrose,56, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+112,Parktown,83, Rowcor Properties Eleanor Jacobs,84,Apartment,0,April,0
+113,Melrose Arch,57, PropertyTime,73,Apartment,0,March,7
+114,Glenvista,35, Lencar Exclusive Properties,50,Townhouse,2,February,3
+115,Jeppestown,40, iThemba Property,103,Apartment,0,April,0
+116,None,72, None,58,None,1,None,9
+117,Houghton Estate,39, Property.Coza - Bryanston/Lonehill,71,Townhouse,2,March,7
+118,Ridgeway,89, Astrodon Real Estate Rentals,10,Apartment,0,February,3
+119,New Doornfontein,68, Quorum Property Group,74,Apartment,0,November,10
+120,None,72,  ,1,None,1,None,9
+121,Houghton Estate,39, Adrienne Hersch Properties,4,Townhouse,2,April,0
+122,Houghton Estate,39, Adrienne Hersch Properties,4,Townhouse,2,April,0
+123,Linksfield,51, You Realty,100,Apartment,0,February,3
+124,Yeoville,114, Trafalgar Property Management,93,Apartment,0,March,7
+125,None,72, None,58,None,1,None,9
+126,Houghton Estate,39, Rental,83,Apartment,0,April,0
+127,Ormonde,80, Vartrust Real Estate,96,Townhouse,2,February,3
+128,Glenvista,35, Boss Platinum Real Estate,14,Apartment,0,February,3
+129,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,January,4
+130,Rosebank,94, Etchells & Young Property Brokers,32,Apartment,0,December,2
+131,None,72, None,58,None,1,None,9
+132,None,72, None,58,None,1,None,9
+133,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+134,Eltonhill,29, Vered Estates,97,Apartment,0,March,7
+135,Winchester Hills,113, Harcourts Falcons,38,Townhouse,2,March,7
+136,Killarney,47, Sotheby's International Realty - Craighall,90,Apartment,0,October,11
+137,Rosettenville,95, Framework Property Services,35,Apartment,0,January,4
+138,None,72, None,58,None,1,None,9
+139,Lenasia South,48, Rental,83,Apartment,0,April,0
+140,None,72, None,58,None,1,None,9
+141,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,January,4
+142,None,72,  ,1,None,1,None,9
+143,None,72, None,58,None,1,None,9
+144,Meredale,61, IHS Property Management,39,Apartment,0,May,8
+145,None,72, None,58,None,1,None,9
+146,Houghton Estate,39, Silver Property Group,88,Apartment,0,January,4
+147,New Doornfontein,68, Jawitz Johannesburg North,43,Apartment,0,January,4
+148,Johannesburg Central,41, Rental,83,Apartment,0,February,3
+149,None,72, None,58,None,1,None,9
+150,None,72,Apartment / flat to rent in Orchards - Johannesburg,111,None,1,None,9
+151,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,November,10
+152,Glenhazel,34, You Realty,100,Apartment,0,February,3
+153,None,72,  ,1,None,1,None,9
+154,Melrose Arch,57, Rental,83,Apartment,0,March,7
+155,Haddon,36, Trafalgar Property Management,93,Apartment,0,April,0
+156,Alan Manor,1, Rental,83,Apartment,0,March,7
+157,Johannesburg Central,41, Framework Property Services,35,Apartment,0,None,9
+158,None,72, None,58,None,1,None,9
+159,Birnam,10, Property.CoZa - Fourways,68,Apartment,0,March,7
+160,None,72, None,58,None,1,None,9
+161,None,72, None,58,None,1,None,9
+162,None,72,  ,1,None,1,None,9
+163,None,72,Townhouse to rent in Houghton Estate - Johannesburg,117,None,1,None,9
+164,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,November,10
+165,None,72, None,58,None,1,None,9
+166,Hillbrow,38, Mafadi Property Management Office,52,Apartment,0,March,7
+167,None,72,  ,1,None,1,None,9
+168,Rosebank,94, RE/MAX Advantage,75,Apartment,0,April,0
+169,None,72, None,58,None,1,None,9
+170,Bosmont,12, Rental,83,Apartment,0,March,7
+171,Craighall,22, Frankie Bell's Real Estate,36,Apartment,0,April,0
+172,Houghton Estate,39, Alan Becker Properties,5,Apartment,0,August,1
+173,Rosebank,94, Renprop Residential,81,Apartment,0,May,8
+174,Melrose,56, Tyson Properties Fourways,94,Apartment,0,June,6
+175,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+176,None,72, None,58,None,1,None,9
+177,None,72, None,58,None,1,None,9
+178,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+179,Melrose,56, Silver Property Group,88,Apartment,0,February,3
+180,Linmeyer,52, Lencar Exclusive Properties,50,Townhouse,2,February,3
+181,None,72,  ,1,None,1,None,9
+182,Killarney,47, Rental,83,Apartment,0,April,0
+183,Craighall Park,23, Silver Property Group,88,Apartment,0,November,10
+184,None,72, None,58,None,1,None,9
+185,Johannesburg Central,41, Trafalgar Property Management,93,Apartment,0,January,4
+186,Glenvista,35, Lencar Exclusive Properties,50,Apartment,0,January,4
+187,None,72,  ,1,None,1,None,9
+188,None,72,  ,1,None,1,None,9
+189,Mondeor,63, CSi Property Group,17,Apartment,0,April,0
+190,Dunkeld West,28, You Realty,100,Apartment,0,April,0
+191,Melrose,56, Russell Fisher Properties,85,Apartment,0,February,3
+192,Kensington,45, Rental,83,Apartment,0,March,7
+193,None,72,  ,1,None,1,None,9
+194,Berea,7, Trafalgar Property Management,93,Apartment,0,February,3
+195,Liefde En Vrede,49, Lencar Exclusive Properties,50,Townhouse,2,May,8
+196,None,72,Apartment / flat to rent in Kensington - Johannesburg,110,None,1,None,9
+197,Parktown North,84, Russell Fisher Properties,85,Apartment,0,March,7
+198,Crosby,24, Rental,83,Apartment,0,February,3
+199,None,72,Apartment / flat to rent in Bramley - Johannesburg,105,None,1,None,9
+200,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,February,3
+201,Yeoville,114, Trafalgar Property Management,93,Apartment,0,April,0
+202,Bramley,16, Engel & Volkers Hyde Park,30,Apartment,0,January,4
+203,Craighall Park,23, Trafalgar Property Management,93,Apartment,0,January,4
+204,None,72,  ,1,None,1,None,9
+205,Maboneng,53, Jawitz Johannesburg North,43,Apartment,0,April,0
+206,None,72, None,58,None,1,None,9
+207,Melrose North,59, Rental,83,Apartment,0,February,3
+208,Parkwood,86, Vered Estates,97,Apartment,0,February,3
+209,Waverley,109, Adrienne Hersch Properties,4,Apartment,0,January,4
+210,Glenvista,35, Lencar Exclusive Properties,50,Townhouse,2,June,6
+211,Waverley,109, Chas Everitt Hyde Park,20,Townhouse,2,November,10
+212,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,December,2
+213,Hillbrow,38, Mamela Estates,53,Apartment,0,December,2
+214,Yeoville,114, Mafadi Property Management Office,52,Apartment,0,March,7
+215,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,November,10
+216,None,72, None,58,None,1,None,9
+217,None,72,Apartment / flat to rent in Sandringham - Johannesburg,113,None,1,None,9
+218,Houghton Estate,39, Engel & Volkers Hyde Park,30,Apartment,0,February,3
+219,Melrose Arch,57, Frankie Bell's Real Estate,36,Apartment,0,April,0
+220,Meredale,61, CSi Property Group,17,Townhouse,2,April,0
+221,Malvern,54, Trafalgar Property Management,93,Apartment,0,January,4
+222,Johannesburg Central,41, IHS Property Management,39,Apartment,0,May,8
+223,None,72, None,58,None,1,None,9
+224,Rosebank,94, Jawitz Johannesburg North,43,Apartment,0,March,7
+225,Linksfield,51, Jawitz Bedfordview,41,Apartment,0,March,7
+226,None,72, None,58,None,1,None,9
+227,Craighall,22, Engel & Volkers Hyde Park,30,Apartment,0,April,0
+228,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,January,4
+229,None,72,  ,1,None,1,None,9
+230,Oaklands,75, Chas Everitt Hyde Park,20,Apartment,0,January,4
+231,"Liefde En Vrede - Johannesburg; RE/MAX, Superior",50, ,0,Apartment,0,None,9
+232,Johannesburg Central,41, Gaylin Estates,37,Townhouse,2,January,4
+233,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+234,Maboneng,53, Lukhanyo Property,51,Apartment,0,March,7
+235,Houghton Estate,39, Silver Property Group,88,Apartment,0,September,12
+236,Melrose North,59, Rental,83,Townhouse,2,April,0
+237,Houghton Estate,39, Firzt Realty Company Firzt Realty Company,34,Apartment,0,February,3
+238,None,72, Beds,12,None,1,None,9
+239,None,72, None,58,None,1,None,9
+240,None,72, None,58,None,1,None,9
+241,Marshalltown,55, Trafalgar Property Management,93,Apartment,0,February,3
+242,Melrose Arch,57, CLE Properties,15,Apartment,0,February,3
+243,None,72, None,58,None,1,None,9
+244,"Forest Hill - Johannesburg; RE/MAX, Superior",32, ,0,Apartment,0,None,9
+245,South Hills,100, ,0,Apartment,0,None,9
+246,Albertville,2, ,0,Apartment,0,None,9
+247,Oaklands,75, Engel & Volkers Hyde Park,30,Apartment,0,March,7
+248,None,72,  ,1,None,1,None,9
+249,Ormonde,80, PropertyCloud,72,Townhouse,2,April,0
+250,None,72, None,58,None,1,None,9
+251,None,72, None,58,None,1,None,9
+252,None,72, None,58,None,1,None,9
+253,Newtown,71, Seeff - Johannesburg Central,86,Apartment,0,December,2
+254,None,72,  ,1,None,1,None,9
+255,Berea,7, Mamela Estates,53,Apartment,0,November,10
+256,Winchester Hills,113, ,0,Townhouse,2,None,9
+257,Maboneng,53, Century 21 Alberton,18,Apartment,0,July,5
+258,Roodepoort,92, Rental,83,Apartment,0,March,7
+259,Melville,60, ,0,Apartment,0,None,9
+260,"Liefde En Vrede - Johannesburg; RE/MAX, Superior",50, ,0,Apartment,0,None,9
+261,None,72,  ,1,None,1,None,9
+262,None,72, None,58,None,1,None,9
+263,Johannesburg Central,41, Redcon Property Management,80,Apartment,0,May,8
+264,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,February,3
+265,Houghton Estate,39, Zareena Kara Properties,101,Apartment,0,April,0
+266,Sydenham,102, Rowcor Properties Eleanor Jacobs,84,Apartment,0,April,0
+267,Dunkeld West,28, Infinite Property Network Dynamyx,40,Apartment,0,January,4
+268,Hillbrow,38, Framework Property Services,35,Apartment,0,April,0
+269,Houghton Estate,39, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+270,None,72,Apartment / flat to rent in Orchards - Johannesburg,111,None,1,None,9
+271,None,72, None,58,None,1,None,9
+272,Oakdene,74, IHS Property Management,39,Apartment,0,April,0
+273,None,72,  ,1,None,1,None,9
+274,None,72, None,58,None,1,None,9
+275,Mulbarton,66, Allegiance Properties - JHB South,6,Apartment,0,November,10
+276,Oaklands,75, Firzt Realty Company Firzt Realty Company,34,Townhouse,2,December,2
+277,Johannesburg Central,41, Trafalgar Property Management,93,Apartment,0,January,4
+278,Orange Grove,78, Jawitz Bedfordview,41,Apartment,0,November,10
+279,Kensington,45, Trafalgar Property Management,93,Apartment,0,April,0
+280,Mondeor,63, 2LetNow - JHB,2,Apartment,0,March,7
+281,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+282,None,72,Apartment / flat to rent in Robertsham - Johannesburg,112,None,1,None,9
+283,None,72, None,58,None,1,None,9
+284,Saxonwold,99, Firzt Realty Company Firzt Realty Company,34,Apartment,0,December,2
+285,Norwood,73, Rental,83,Apartment,0,March,7
+286,Johannesburg Central,41, You Realty,100,Apartment,0,February,3
+287,"Turffontein - Johannesburg; RE/MAX, Superior",106, ,0,Apartment,0,None,9
+288,Melrose North,59, You Realty,100,Apartment,0,April,0
+289,Marshalltown,55, Redcon Property Management,80,Apartment,0,May,8
+290,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,March,7
+291,Ormonde,80, Allegiance Properties - JHB South,6,Townhouse,2,March,7
+292,None,72, None,58,None,1,None,9
+293,Houghton Estate,39, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+294,None,72,  ,1,None,1,None,9
+295,Richmond,88, National Letting - Johannesburg,55,Apartment,0,November,10
+296,None,72, None,58,None,1,None,9
+297,Mondeor,63, PropertyCloud,72,Townhouse,2,February,3
+298,None,72,  ,1,None,1,None,9
+299,Waverley,109, Adrienne Hersch Properties,4,Apartment,0,January,4
+300,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,February,3
+301,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+302,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,February,3
+303,None,72, None,58,None,1,None,9
+304,Booysens,11, Redcon Property Management,80,Apartment,0,October,11
+305,None,72, None,58,None,1,None,9
+306,Mondeor,63, Rental,83,Townhouse,2,March,7
+307,Killarney,47, Russell Fisher Properties,85,Apartment,0,March,7
+308,Johannesburg Central,41, Redcon Property Management,80,Apartment,0,April,0
+309,Waverley,109, CP Inc Realtors,16,Apartment,0,February,3
+310,None,72, None,58,None,1,None,9
+311,Orange Grove,78, Jawitz Bedfordview,41,Apartment,0,March,7
+312,Dunkeld West,28, Kent Gush Properties,45,Apartment,0,February,3
+313,None,72, None,58,None,1,None,9
+314,None,72,Apartment / flat to rent in Johannesburg Central - Johannesburg,109,None,1,None,9
+315,None,72,Townhouse to rent in Auckland Park - Johannesburg,115,None,1,None,9
+316,Observatory,76, Sotheby's International Realty - Craighall,90,Apartment,0,April,0
+317,Auckland Park,4, Skye Letting,89,Apartment,0,March,7
+318,Ophirton,77, Redcon Property Management,80,Apartment,0,May,8
+319,None,72,  ,1,None,1,None,9
+320,Craighall,22, Firzt Realty Company Firzt Realty Company,34,Apartment,0,January,4
+321,None,72, Beds,12,None,1,None,9
+322,None,72, None,58,None,1,None,9
+323,Rosebank,94, Frankie Bell's Real Estate,36,Apartment,0,April,0
+324,None,72,Apartment / flat to rent in Braamfontein - Johannesburg,104,None,1,None,9
+325,None,72,  ,1,None,1,None,9
+326,None,72, None,58,None,1,None,9
+327,Houghton Estate,39, Infinite Property Network Dynamyx,40,Apartment,0,April,0
+328,Ridgeway,89, Property.CoZa - Sandton,70,Townhouse,2,November,10
+329,Hillbrow,38, Trafalgar Property Management,93,Apartment,0,January,4
+330,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,November,10
+331,Highlands North,37, Trafalgar Property Management,93,Apartment,0,March,7
+332,Berea,7, iThemba Property,103,Apartment,0,April,0
+333,Bellevue,6, Framework Property Services,35,Apartment,0,April,0
+334,None,72, None,58,None,1,None,9
+335,Auckland Park,4, Gaylin Estates,37,Apartment,0,March,7
+336,None,72,  ,1,None,1,None,9
+337,Ormonde,80, Astrodon Real Estate Rentals,10,Apartment,0,May,8
+338,Parkhurst,82, Engel & Volkers Hyde Park,30,Apartment,0,December,2
+339,None,72,  ,1,None,1,None,9
+340,Sandringham,98, Jawitz Bedfordview,41,Townhouse,2,April,0
+341,Rosebank,94, Tyson Properties Fourways,94,Apartment,0,June,6
+342,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+343,None,72,  ,1,None,1,None,9
+344,Norwood,73, Rental,83,Apartment,0,January,4
+345,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+346,Sydenham,102, Rental,83,Apartment,0,March,7
+347,Dunkeld West,28, Jawitz Johannesburg North,43,Apartment,0,April,0
+348,Winchester Hills,113, Xoliswa Tini Properties - Gauteng,99,Apartment,0,September,12
+349,Houghton Estate,39, CP Inc Realtors,16,Apartment,0,March,7
+350,Rosebank,94, Etchells & Young Property Brokers,32,Apartment,0,October,11
+351,South Hills,100, ,0,Apartment,0,None,9
+352,None,72, None,58,None,1,None,9
+353,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+354,None,72, None,58,None,1,None,9
+355,Winchester Hills,113, Allegiance Properties - JHB South,6,Townhouse,2,February,3
+356,Park Central,81, Rowcor Properties Eleanor Jacobs,84,Apartment,0,March,7
+357,None,72, Beds,12,None,1,None,9
+358,None,72,  ,1,None,1,None,9
+359,Turffontein,105, Landstar Property Solutions,47,Apartment,0,October,11
+360,Moffat View,62, Natrent Rentals,56,Townhouse,2,May,8
+361,None,72, None,58,None,1,None,9
+362,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+363,Montgomery Park,65, Property Runners and Rent Runners Pty Ltd,66,Apartment,0,May,8
+364,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+365,None,72, None,58,None,1,None,9
+366,Berea,7, Mamela Estates,53,Apartment,0,January,4
+367,None,72, None,58,None,1,None,9
+368,Killarney,47, You Realty,100,Apartment,0,January,4
+369,None,72, Beds,12,None,1,None,9
+370,None,72, None,58,None,1,None,9
+371,Parkview,85, Zareena Kara Properties,101,Apartment,0,March,7
+372,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,October,11
+373,Craighall Park,23, Infinite Property Network Dynamyx,40,Apartment,0,May,8
+374,Oakdene,74, ,0,Townhouse,2,None,9
+375,Rosebank,94, Silver Property Group,88,Apartment,0,November,10
+376,None,72, None,58,None,1,None,9
+377,Saxonwold,99, Chas Everitt Hyde Park,20,Apartment,0,November,10
+378,None,72, None,58,None,1,None,9
+379,Auckland Park,4, Skye Letting,89,Townhouse,2,February,3
+380,Johannesburg Central,41, Trafalgar Property Management,93,Apartment,0,January,4
+381,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,October,11
+382,None,72, None,58,None,1,None,9
+383,Maboneng,53, Clipper Properties,23,Apartment,0,November,10
+384,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,April,0
+385,None,72,  ,1,None,1,None,9
+386,Newlands,70, Trafalgar Property Management,93,Apartment,0,March,7
+387,Norwood,73, Zareena Kara Properties,101,Apartment,0,January,4
+388,Maboneng,53, Jawitz Bedfordview,41,Apartment,0,November,10
+389,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,April,0
+390,Killarney,47, Vered Estates,97,Apartment,0,March,7
+391,Berea,7, iThemba Property,103,Apartment,0,April,0
+392,Johannesburg Central,41, Sotheby's International Realty - Craighall,90,Apartment,0,September,12
+393,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,March,7
+394,Kensington,45, Rental,83,Apartment,0,February,3
+395,Johannesburg Central,41, Trafalgar Property Management,93,Apartment,0,January,4
+396,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,April,0
+397,Glenvista,35, Dormehl Phalane Property Group Meyersdal,27,Apartment,0,January,4
+398,Craighall,22, Rent - A - Property,82,Apartment,0,April,0
+399,Fairmount,30, Jawitz Bedfordview,41,Apartment,0,March,7
+400,Houghton Estate,39, Trafalgar Property Management,93,Apartment,0,January,4
+401,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+402,Killarney,47, CP Inc Realtors,16,Apartment,0,February,3
+403,None,72,  ,1,None,1,None,9
+404,None,72, None,58,None,1,None,9
+405,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,July,5
+406,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,January,4
+407,Melrose,56, You Realty,100,Townhouse,2,November,10
+408,Roodepoort,92, Posh Estates,65,Apartment,0,February,3
+409,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+410,Bassonia,5, PropertyCloud,72,Townhouse,2,December,2
+411,None,72, None,58,None,1,None,9
+412,Melrose,56, Jawitz Johannesburg North,43,Apartment,0,March,7
+413,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+414,Braamfontein Werf,14, Rental,83,Apartment,0,March,7
+415,None,72, None,58,None,1,None,9
+416,Rosebank,94, You Realty,100,Apartment,0,February,3
+417,Johannesburg Central,41, Framework Property Services,35,Apartment,0,April,0
+418,None,72, None,58,None,1,None,9
+419,Sandringham,98, Infinite Property Network Dynamyx,40,Apartment,0,August,1
+420,Riviera,90, Chas Everitt Hyde Park,20,Apartment,0,January,4
+421,Riviera,90, Chas Everitt Hyde Park,20,Apartment,0,January,4
+422,Waverley,109, You Realty,100,Apartment,0,October,11
+423,Newclare,69, Rental,83,Apartment,0,March,7
+424,Braamfontein,13, Mafadi Property Management Office,52,Apartment,0,February,3
+425,Maboneng,53, Jawitz Johannesburg North,43,Apartment,0,March,7
+426,"Forest Hill - Johannesburg; RE/MAX, Superior",32, ,0,Apartment,0,None,9
+427,Dunkeld,27, Chas Everitt Hyde Park,20,Apartment,0,November,10
+428,Rosettenville,95, Lencar Exclusive Properties,50,Apartment,0,February,3
+429,Doornfontein,26, Mafadi Property Management Office,52,Apartment,0,January,4
+430,Rosebank,94, Etchells & Young Property Brokers,32,Apartment,0,February,3
+431,Dunkeld West,28, Engel & Volkers Hyde Park,30,Apartment,0,January,4
+432,Killarney,47, Rowcor Properties Eleanor Jacobs,84,Apartment,0,March,7
+433,None,72,  ,1,None,1,None,9
+434,None,72,  ,1,None,1,None,9
+435,Rosebank,94, Etchells & Young Property Brokers,32,Apartment,0,July,5
+436,Rosebank,94, Etchells & Young Property Brokers,32,Apartment,0,July,5
+437,Braamfontein,13, Seeff - Johannesburg Central,86,Apartment,0,December,2
+438,Kensington,45, Vartrust Real Estate,96,Apartment,0,January,4
+439,Hillbrow,38, Framework Property Services,35,Apartment,0,May,8
+440,City & Suburban,18, iThemba Property,103,Apartment,0,April,0
+441,None,72, None,58,None,1,None,9
+442,None,72, None,58,None,1,None,9
+443,Bassonia,5, ,0,Townhouse,2,None,9
+444,Hillbrow,38, Trafalgar Property Management,93,Apartment,0,March,7
+445,Marshalltown,55, Trafalgar Property Management,93,Apartment,0,April,0
+446,Dunkeld,27, Dogon Group Sandton,26,Apartment,0,January,4
+447,None,72, None,58,None,1,None,9
+448,None,72, None,58,None,1,None,9
+449,None,72, Beds,12,None,1,None,9
+450,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,April,0
+451,None,72, None,58,None,1,None,9
+452,None,72,Apartment / flat to rent in Glenanda - Johannesburg,107,None,1,None,9
+453,Mondeor,63, ,0,Townhouse,2,None,9
+454,The Hill,104, ,0,Townhouse,2,None,9
+455,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,November,10
+456,Johannesburg Central,41, Sotheby's International Realty - Craighall,90,Apartment,0,October,11
+457,Maboneng,53, Lukhanyo Property,51,Apartment,0,January,4
+458,None,72, None,58,None,1,None,9
+459,None,72,  ,1,None,1,None,9
+460,Ormonde,80, Natrent Rentals,56,Apartment,0,April,0
+461,None,72,  ,1,None,1,None,9
+462,Berea,7, iThemba Property,103,Apartment,0,April,0
+463,Bassonia,5, Lencar Exclusive Properties,50,Townhouse,2,February,3
+464,Riviera,90, Chas Everitt Hyde Park,20,Apartment,0,January,4
+465,Joubert Park,43, Mamela Estates,53,Apartment,0,April,0
+466,Houghton Estate,39, Seeff Sandton,87,Apartment,0,January,4
+467,None,72,  ,1,None,1,None,9
+468,None,72,  ,1,None,1,None,9
+469,None,72, None,58,None,1,None,9
+470,None,72,  ,1,None,1,None,9
+471,Westcliff,110, Zareena Kara Properties,101,Apartment,0,March,7
+472,Berea,7, iThemba Property,103,Apartment,0,April,0
+473,Marshalltown,55, Redcon Property Management,80,Apartment,0,May,8
+474,None,72, None,58,None,1,None,9
+475,Fordsburg,31, Urban Link JHB Zone 1,95,Apartment,0,October,11
+476,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+477,City & Suburban,18, Urban Link JHB Zone 1,95,Apartment,0,December,2
+478,Berea,7, iThemba Property,103,Apartment,0,April,0
+479,None,72, None,58,None,1,None,9
+480,Rosettenville,95, Trafalgar Property Management,93,Apartment,0,January,4
+481,None,72, None,58,None,1,None,9
+482,None,72, None,58,None,1,None,9
+483,Highlands North,37, Amour Properties,8,Apartment,0,February,3
+484,Alan Manor,1, Harcourts Falcons,38,Townhouse,2,March,7
+485,None,72, None,58,None,1,None,9
+486,None,72, None,58,None,1,None,9
+487,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+488,Riviera,90, Chas Everitt Hyde Park,20,Apartment,0,April,0
+489,Berea,7, Trafalgar Property Management,93,Apartment,0,January,4
+490,None,72, None,58,None,1,None,9
+491,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,May,8
+492,Maboneng,53, iThemba Property,103,Apartment,0,April,0
+493,None,72, None,58,None,1,None,9
+494,None,72, None,58,None,1,None,9
+495,Houghton Estate,39, Rental,83,Apartment,0,March,7
+496,Melrose Estate,58, Infinite Property Network Dynamyx,40,Apartment,0,November,10
+497,None,72,  ,1,None,1,None,9
+498,None,72, None,58,None,1,None,9
+499,Marshalltown,55, iThemba Property,103,Apartment,0,April,0
+500,None,72, None,58,None,1,None,9
+501,Marshalltown,55, Redcon Property Management,80,Apartment,0,May,8
+502,Oaklands,75, Frankie Bell's Real Estate,36,Apartment,0,March,7
+503,Claremont,19, Jawitz Constantia,42,Apartment,0,March,7
+504,None,72,  ,1,None,1,None,9
+505,Braampark,15, Trafalgar Property Management,93,Apartment,0,March,7
+506,Marshalltown,55, Framework Property Services,35,Apartment,0,April,0
+507,Berea,7, Trafalgar Property Management,93,Apartment,0,January,4
+508,None,72, None,58,None,1,None,9
+509,None,72,  ,1,None,1,None,9
+510,None,72,  ,1,None,1,None,9
+511,Dunkeld,27, Property.CoZa - Randburg,69,Townhouse,2,January,4
+512,Melrose Arch,57, Ezyprop,33,Apartment,0,November,10
+513,Westdene,111, Skye Letting,89,Townhouse,2,February,3
+514,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+515,Rosebank,94, You Realty,100,Apartment,0,February,3
+516,Melrose North,59, You Realty,100,Townhouse,2,March,7
+517,New Doornfontein,68, iThemba Property,103,Apartment,0,April,0
+518,Orchards,79, Rental,83,Apartment,0,April,0
+519,Marshalltown,55, Chorus Letting,22,Apartment,0,September,12
+520,None,72, None,58,None,1,None,9
+521,Rosebank,94, Tyson Properties Fourways,94,Apartment,0,March,7
+522,None,72, None,58,None,1,None,9
+523,Rosebank,94, Jawitz Johannesburg North,43,Townhouse,2,March,7
+524,Auckland Park,4, Skye Letting,89,Townhouse,2,February,3
+525,Oaklands,75, Infinite Property Network Dynamyx,40,Apartment,0,April,0
+526,Marshalltown,55, Framework Property Services,35,Apartment,0,April,0
+527,Meredale,61, IHS Property Management,39,Apartment,0,May,8
+528,None,72, None,58,None,1,None,9
+529,None,72, None,58,None,1,None,9
+530,Johannesburg Central,41, iThemba Property,103,Apartment,0,April,0
+531,None,72,  ,1,None,1,None,9
+532,Rosebank,94, Frankie Bell's Real Estate,36,Apartment,0,November,10
+533,Johannesburg Central,41, B-Sure Properties - Bedfordview,11,Apartment,0,September,12
+534,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+535,Melrose Arch,57, Dogon Group Sandton,26,Apartment,0,January,4
+536,Hillbrow,38, Framework Property Services,35,Apartment,0,March,7
+537,Kensington,45, Jawitz Bedfordview,41,Townhouse,2,March,7
+538,None,72, None,58,None,1,None,9
+539,Berea,7, Framework Property Services,35,Apartment,0,February,3
+540,Rosebank,94, RE/MAX Advantage,75,Apartment,0,January,4
+541,None,72, None,58,None,1,None,9
+542,Dunkeld,27, Frankie Bell's Real Estate,36,Apartment,0,February,3
+543,Hillbrow,38, Mafadi Property Management Office,52,Apartment,0,March,7
+544,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+545,None,72,  ,1,None,1,None,9
+546,Rosebank,94, You Realty,100,Apartment,0,March,7
+547,Marshalltown,55, Redcon Property Management,80,Apartment,0,May,8
+548,Killarney,47, Key Location,46,Apartment,0,February,3
+549,Dunkeld West,28, CP Inc Realtors,16,Apartment,0,February,3
+550,None,72, None,58,None,1,None,9
+551,Dunkeld,27, Jawitz Johannesburg North,43,Apartment,0,March,7
+552,Parkwood,86, Property.CoZa - Randburg,69,Apartment,0,November,10
+553,City & Suburban,18, iThemba Property,103,Apartment,0,April,0
+554,None,72, None,58,None,1,None,9
+555,Jeppestown,40, Mafadi Property Management Office,52,Apartment,0,April,0
+556,"Johannesburg Central - Johannesburg; RE/MAX, Superior",42, ,0,Apartment,0,None,9
+557,Oakdene,74, PropertyCloud,72,Townhouse,2,December,2
+558,None,72, None,58,None,1,None,9
+559,Auckland Park,4, Skye Letting,89,Apartment,0,February,3
+560,Houghton Estate,39, Debro Estates,25,Apartment,0,May,8
+561,None,72, None,58,None,1,None,9
+562,Maboneng,53, Rental,83,Apartment,0,March,7
+563,Rossmore,97, Trafalgar Property Management,93,Apartment,0,April,0
+564,"Rosettenville - Johannesburg; RE/MAX, Superior",96, ,0,Apartment,0,None,9
+565,Craighall,22, Firzt Realty Company Firzt Realty Company,34,Apartment,0,December,2
+566,Auckland Park,4, Property Runners and Rent Runners Pty Ltd,66,Apartment,0,February,3
+567,None,72, None,58,None,1,None,9
+568,Johannesburg Central,41, Sotheby's International Realty - Craighall,90,Apartment,0,October,11
+569,Steeledale,101, AFHCO Africa Housing Company,3,Apartment,0,May,8
+570,Waverley,109, Jawitz Johannesburg North,43,Apartment,0,April,0
+571,None,72, None,58,None,1,None,9
+572,The Gardens,103, Rental,83,Apartment,0,January,4
+573,South Hills,100, AFHCO Africa Housing Company,3,Apartment,0,May,8
+574,None,72,Apartment / flat to rent in Johannesburg Central - Johannesburg,109,None,1,None,9
+575,South Hills,100, ,0,Apartment,0,None,9
+576,None,72, None,58,None,1,None,9
+577,None,72, None,58,None,1,None,9
+578,City & Suburban,18, iThemba Property,103,Apartment,0,April,0
+579,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,November,10
+580,None,72,  ,1,None,1,None,9
+581,South Hills,100, ,0,Townhouse,2,None,9
+582,None,72, None,58,None,1,None,9
+583,Regents Park,87, Mafadi Property Management Office,52,Apartment,0,February,3
+584,Linmeyer,52, Alpha Rentals,7,Townhouse,2,May,8
+585,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,April,0
+586,None,72, None,58,None,1,None,9
+587,None,72,  ,1,None,1,None,9
+588,Dunkeld West,28, Frankie Bell's Real Estate,36,Apartment,0,January,4
+589,Rosebank,94, RE/MAX Advantage,75,Apartment,0,January,4
+590,Hillbrow,38, iThemba Property,103,Apartment,0,April,0
+591,None,72, None,58,None,1,None,9
+592,Observatory,76, Jawitz Bedfordview,41,Apartment,0,September,12
+593,Houghton Estate,39, Chas Everitt Hyde Park,20,Apartment,0,January,4
+594,Hillbrow,38, Mafadi Property Management Office,52,Apartment,0,March,7
+595,None,72, None,58,None,1,None,9
+596,Birdhaven,9, Chas Everitt Hyde Park,20,Apartment,0,October,11
+597,None,72, None,58,None,1,None,9
+598,None,72,  ,1,None,1,None,9
+599,Rosebank,94, You Realty,100,Apartment,0,February,3
+600,"Roodepoort - Johannesburg; RE/MAX, Superior",93, ,0,Townhouse,2,None,9
+601,Observatory,76, Rental,83,Apartment,0,March,7
+602,None,72, None,58,None,1,None,9
+603,None,72,Apartment / flat to rent in Fairvale - Johannesburg,106,None,1,None,9
+604,Rosebank,94, Chas Everitt Hyde Park,20,Townhouse,2,October,11
+605,Johannesburg Central,41, B-Sure Properties - Bedfordview,11,Apartment,0,April,0
+606,Dunkeld,27, Firzt Realty Company Firzt Realty Company,34,Apartment,0,December,2
+607,Braamfontein,13, Mafadi Property Management Office,52,Apartment,0,January,4
+608,Melrose North,59, Chas Everitt Hyde Park,20,Townhouse,2,December,2
+609,None,72,  ,1,None,1,None,9
+610,Maboneng,53, Lukhanyo Property,51,Apartment,0,January,4
+611,None,72,  ,1,None,1,None,9
+612,Waverley,109, Chas Everitt Hyde Park,20,Apartment,0,January,4
+613,None,72, None,58,None,1,None,9
+614,Killarney,47, RE/MAX Advantage,75,Apartment,0,January,4
+615,Berea,7, Trafalgar Property Management,93,Apartment,0,March,7
+616,None,72,  ,1,None,1,None,9
+617,None,72,  ,1,None,1,None,9
+618,None,72, None,58,None,1,None,9
+619,None,72, None,58,None,1,None,9
+620,"Rosettenville - Johannesburg; RE/MAX, Superior",96, ,0,Apartment,0,None,9
+621,None,72, None,58,None,1,None,9
+622,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,November,10
+623,None,72, None,58,None,1,None,9
+624,"Mondeor - Johannesburg; RE/MAX, Superior",64, ,0,Townhouse,2,None,9
+625,None,72, None,58,None,1,None,9
+626,None,72, Beds,12,None,1,None,9
+627,Auckland Park,4, Sotheby's International Realty - Craighall,90,Apartment,0,October,11
+628,Auckland Park,4, Rental,83,Apartment,0,February,3
+629,Doornfontein,26, Mafadi Property Management Office,52,Apartment,0,April,0
+630,None,72, None,58,None,1,None,9
+631,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,August,1
+632,Rosebank,94, Engel & Volkers Hyde Park,30,Apartment,0,May,8
+633,None,72, None,58,None,1,None,9
+634,None,72,Apartment / flat to rent in Glenhazel - Johannesburg,108,None,1,None,9
+635,Johannesburg Central,41, Mafadi Property Management Office,52,Apartment,0,March,7
+636,"Johannesburg Central - Johannesburg; RE/MAX, Superior",42, ,0,Apartment,0,None,9
+637,None,72,  ,1,None,1,None,9
+638,Yeoville,114, Trafalgar Property Management,93,Apartment,0,February,3
+639,Norwood,73, You Realty,100,Townhouse,2,January,4
+640,Rosebank,94, Frankie Bell's Real Estate,36,Apartment,0,April,0
+641,Berea,7, Mafadi Property Management Office,52,Apartment,0,March,7
+642,None,72, None,58,None,1,None,9
+643,None,72, None,58,None,1,None,9
+644,None,72,  ,1,None,1,None,9
+645,None,72, None,58,None,1,None,9
+646,None,72, None,58,None,1,None,9
+647,Melrose,56, Jawitz Johannesburg North,43,Townhouse,2,March,7
+648,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,November,10
+649,New Doornfontein,68, iThemba Property,103,Apartment,0,April,0
+650,None,72, None,58,None,1,None,9
+651,Johannesburg Central,41, Chorus Letting,22,Apartment,0,September,12
+652,Rosebank,94, Infinite Property Network Dynamyx,40,Apartment,0,September,12
+653,Braamfontein Werf,14, National Letting - Johannesburg,55,Apartment,0,November,10
+654,None,72,  ,1,None,1,None,9
+655,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,October,11
+656,Auckland Park,4, Skye Letting,89,Apartment,0,December,2
+657,None,72,None,114,None,1,None,9
+658,Houghton Estate,39, Amour Properties,8,Apartment,0,None,9
+659,Oaklands,75, RE/MAX Masters - Bryanston,77,Townhouse,2,None,9
+660,Waverley,109, Blue Living Properties,13,Apartment,0,None,9
+661,Killarney,47, Leapfrog JHB North East,48,Apartment,0,None,9
+662,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,None,9
+663,Melrose Arch,57, Chas Everitt Hyde Park,20,Apartment,0,None,9
+664,Naturena,67, 2LetNow - JHB,2,Apartment,0,None,9
+665,Houghton Estate,39, Chas Everitt Hyde Park,20,Apartment,0,None,9
+666,Sandringham,98, Leapfrog JHB North East,48,Townhouse,2,None,9
+667,Melrose Arch,57, Pam Golding Properties - Melrose Arch Letting,64,Apartment,0,None,9
+668,Bassonia,5, Landstar Property Solutions,47,Apartment,0,None,9
+669,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,None,9
+670,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+671,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,None,9
+672,Glenvista,35, Pam Golding Properties - Johannesburg South Rentals,63,Townhouse,2,None,9
+673,Alan Manor,1, 2LetNow - JHB,2,Apartment,0,None,9
+674,Parktown,83, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+675,Houghton Estate,39, CP Inc Realtors,16,Apartment,0,None,9
+676,Oakdene,74, Leapfrog Pretoria East,49,Apartment,0,None,9
+677,Coronationville,21, RE/MAX Town and Country,78,Apartment,0,None,9
+678,Newtown,71, Arthouse Properties,9,Apartment,0,None,9
+679,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+680,Victoria,107, Amour Properties,8,Apartment,0,None,9
+681,Auckland Park,4, EA Properties,28,Apartment,0,None,9
+682,Craighall Park,23, Ennik Estates Johannesburg,31,Apartment,0,None,9
+683,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+684,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+685,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+686,Alveda,3, 2LetNow - JHB,2,Apartment,0,None,9
+687,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+688,Houghton Estate,39, Leapfrog JHB North East,48,Apartment,0,None,9
+689,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+690,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+691,Dunkeld West,28, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+692,Bramley,16, RE/MAX Advantage,75,Apartment,0,None,9
+693,Craighall,22, Rent - A - Property,82,Apartment,0,None,9
+694,Meredale,61, 2LetNow - JHB,2,Apartment,0,None,9
+695,Alveda,3, 2LetNow - JHB,2,Apartment,0,None,9
+696,Melrose,56, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+697,Linksfield,51, Leapfrog JHB North East,48,Apartment,0,None,9
+698,Melrose North,59, Blue Living Properties,13,Apartment,0,None,9
+699,Naturena,67, 2LetNow - JHB,2,Apartment,0,None,9
+700,Eltonhill,29, Tyson Properties Fourways,94,Apartment,0,None,9
+701,Killarney,47, Blue Living Properties,13,Apartment,0,None,9
+702,Houghton Estate,39, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+703,Naturena,67, 2LetNow - JHB,2,Apartment,0,None,9
+704,Winchester Hills,113, Landstar Property Solutions,47,Apartment,0,None,9
+705,Ormonde,80, NV Homes,54,Apartment,0,None,9
+706,Killarney,47, RE/MAX Advantage,75,Apartment,0,None,9
+707,Melrose Arch,57, Chas Everitt Hyde Park,20,Apartment,0,None,9
+708,Alveda,3, 2LetNow - JHB,2,Apartment,0,None,9
+709,Dunkeld West,28, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+710,Parktown,83, National Letting - Johannesburg,55,Apartment,0,None,9
+711,Melrose,56, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+712,Houghton Estate,39, Zareena Kara Properties,101,Apartment,0,None,9
+713,Parktown,83, Clipper Properties,23,Apartment,0,None,9
+714,Craighall Park,23, Blue Living Properties,13,Apartment,0,None,9
+715,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,None,9
+716,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+717,Devland,25, Chas Everitt Soweto,21,Apartment,0,None,9
+718,Kenilworth,44, Landstar Property Solutions,47,Apartment,0,None,9
+719,Joubert Park,43, Mamela Estates,53,Apartment,0,None,9
+720,Park Central,81, Rowcor Properties Eleanor Jacobs,84,Apartment,0,None,9
+721,Rosebank,94, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+722,Houghton Estate,39, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+723,Dunkeld,27, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+724,Alan Manor,1, Landstar Property Solutions,47,Apartment,0,None,9
+725,Norwood,73, Zulberg Estates,102,Apartment,0,None,9
+726,Melrose North,59, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+727,Robertsham,91, Landstar Property Solutions,47,Apartment,0,None,9
+728,Oakdene,74, Landstar Property Solutions,47,Apartment,0,None,9
+729,Kibler Park,46, 2LetNow - JHB,2,Apartment,0,None,9
+730,Killarney,47, Blue Living Properties,13,Apartment,0,None,9
+731,Booysens,11, Landstar Property Solutions,47,Apartment,0,None,9
+732,Kensington,45, Wanda Bollo Estates,98,Apartment,0,None,9
+733,Killarney,47, RE/MAX Advantage,75,Apartment,0,None,9
+734,Killarney,47, Ennik Estates Johannesburg,31,Apartment,0,None,9
+735,Kibler Park,46, 2LetNow - JHB,2,Apartment,0,None,9
+736,Melrose Estate,58, Blue Living Properties,13,Apartment,0,None,9
+737,Dunkeld,27, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+738,Whitney Gardens,112, O-Yes Properties,59,Townhouse,2,None,9
+739,Melrose,56, DBS Realtors,24,Apartment,0,None,9
+740,Johannesburg Central,41, Johannesburg Housing Company,44,Townhouse,2,None,9
+741,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,None,9
+742,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+743,Booysens,11, Landstar Property Solutions,47,Apartment,0,None,9
+744,Turffontein,105, Landstar Property Solutions,47,Apartment,0,None,9
+745,Turffontein,105, Landstar Property Solutions,47,Apartment,0,None,9
+746,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,None,9
+747,Melrose,56, DBS Realtors,24,Apartment,0,None,9
+748,Alveda,3, 2LetNow - JHB,2,Apartment,0,None,9
+749,Melrose Estate,58, Blue Living Properties,13,Apartment,0,None,9
+750,Jeppestown,40, Johannesburg Housing Company,44,Townhouse,2,None,9
+751,Killarney,47, Clipper Properties,23,Apartment,0,None,9
+752,Booysens,11, Landstar Property Solutions,47,Apartment,0,None,9
+753,Johannesburg Central,41, 2LetNow - JHB,2,Apartment,0,None,9
+754,Glenanda,33, RE/MAX Advantage,75,Apartment,0,None,9
+755,Craighall Park,23, Rowcor Properties Eleanor Jacobs,84,Apartment,0,None,9
+756,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+757,Braamfontein,13, AFHCO Africa Housing Company,3,Apartment,0,None,9
+758,Orchards,79, Adrienne Hersch Properties,4,Townhouse,2,None,9
+759,Glenhazel,34, Pam Golding Properties - East Rand Rentals,60,Apartment,0,None,9
+760,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+761,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,None,9
+762,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+763,Killarney,47, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+764,Booysens,11, Landstar Property Solutions,47,Apartment,0,None,9
+765,Booysens,11, Landstar Property Solutions,47,Apartment,0,None,9
+766,Houghton Estate,39, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+767,Houghton Estate,39, Amour Properties,8,Apartment,0,None,9
+768,Houghton Estate,39, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+769,Houghton Estate,39, Alan Becker Properties,5,Apartment,0,None,9
+770,Eltonhill,29, Rowcor Properties Eleanor Jacobs,84,Apartment,0,None,9
+771,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+772,Turffontein,105, Landstar Property Solutions,47,Apartment,0,None,9
+773,Riviera,90, Rowcor Properties Eleanor Jacobs,84,Townhouse,2,None,9
+774,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+775,Rosebank,94, Blue Living Properties,13,Apartment,0,None,9
+776,Braamfontein,13, Nkosi Property Group Office,57,Apartment,0,None,9
+777,Winchester Hills,113, Landstar Property Solutions,47,Apartment,0,None,9
+778,Melrose Arch,57, Vered Estates,97,Apartment,0,None,9
+779,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+780,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+781,Johannesburg Central,41, AFHCO Africa Housing Company,3,Apartment,0,None,9
+782,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+783,Killarney,47, National Letting - Johannesburg,55,Apartment,0,None,9
+784,Fordsburg,31, Johannesburg Housing Company,44,Townhouse,2,None,9
+785,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,None,9
+786,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+787,Oaklands,75, Engel & Volkers Hyde Park,30,Apartment,0,None,9
+788,Dunkeld West,28, Adrienne Hersch Properties,4,Townhouse,2,None,9
+789,Mulbarton,66, Chas Everitt Glenvista,19,Townhouse,2,None,9
+790,Linmeyer,52, Landstar Property Solutions,47,Apartment,0,None,9
+791,Linmeyer,52, Landstar Property Solutions,47,Apartment,0,None,9
+792,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+793,Glenvista,35, Landstar Property Solutions,47,Apartment,0,None,9
+794,Haddon,36, Landstar Property Solutions,47,Apartment,0,None,9
+795,Braamfontein,13, RE/MAX Advantage,75,Apartment,0,None,9
+796,Braamfontein,13, Rental,83,Apartment,0,None,9
+797,Turffontein,105, Landstar Property Solutions,47,Apartment,0,None,9
+798,Melrose Arch,57, Pam Golding Properties - Melrose Arch Letting,64,Apartment,0,None,9
+799,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+800,Craighall Park,23, O-Yes Properties,59,Apartment,0,None,9
+801,Rosebank,94, Chas Everitt Hyde Park,20,Apartment,0,None,9
+802,Bramley,16, Engel & Volkers Hyde Park,30,Apartment,0,None,9
+803,Melrose Arch,57, Engel & Volkers Bryanston & Sandton,29,Townhouse,2,None,9
+804,Orange Grove,78, Amour Properties,8,Apartment,0,None,9
+805,Melrose,56, DBS Realtors,24,Apartment,0,None,9
+806,Jeppestown,40, Engel & Volkers Hyde Park,30,Apartment,0,None,9
+807,Melrose Arch,57, Pam Golding Properties - Gauteng Projects,61,Apartment,0,None,9
+808,Winchester Hills,113, Landstar Property Solutions,47,Apartment,0,None,9
+809,Melrose Arch,57, Vered Estates,97,Apartment,0,None,9
+810,Melrose Arch,57, Vered Estates,97,Apartment,0,None,9
+811,Meredale,61, 2LetNow - JHB,2,Apartment,0,None,9
+812,Maboneng,53, Chorus Letting,22,Apartment,0,None,9
+813,Rosettenville,95, Landstar Property Solutions,47,Apartment,0,None,9
+814,Liefde En Vrede,49, Landstar Property Solutions,47,Apartment,0,None,9
+815,Dunkeld,27, Adrienne Hersch Properties,4,Apartment,0,None,9
+816,Dunkeld,27, Engel & Volkers Hyde Park,30,Apartment,0,None,9
+817,Dunkeld West,28, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+818,Craighall,22, Pam Golding Properties - Hyde Park Letting,62,Apartment,0,None,9
+819,Aeroton,0, Landstar Property Solutions,47,Apartment,0,None,9
+820,Auckland Park,4, National Letting - Johannesburg,55,Apartment,0,None,9
+821,Maboneng,53, Chorus Letting,22,Apartment,0,None,9
+822,Bruma,17, Trading Spaces Property Group,92,Apartment,0,None,9
+823,Craighall Park,23, EA Properties,28,Apartment,0,None,9
+824,Johannesburg Central,41, Johannesburg Housing Company,44,Townhouse,2,None,9
+825,Maboneng,53, Chorus Letting,22,Apartment,0,None,9
+826,Rosebank,94, The Property Collection,91,Apartment,0,None,9

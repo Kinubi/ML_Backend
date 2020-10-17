@@ -393,5 +393,5 @@ class ML_Backend():
                 self.target
                 self.DF = pd.concat([self.DF, self.target, self.droppedColumns], axis=1)
             except:
-                pass
+                self.DF = pd.concat([self.DF, self.droppedColumns], axis=1)
             self.DF.to_csv("data/predict_result.csv")
