@@ -13,7 +13,7 @@ from sklearn.model_selection import cross_val_score, train_test_split, cross_val
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.tree import DecisionTreeClassifier, DecisionTreeRegressor
 from sklearn.utils import shuffle
-from sklearn.feature_selection import GenericUnivariateSelect, f_classif, f_regression, chi2
+from sklearn.feature_selection import GenericUnivariateSelect, f_classif, f_regression, chi2, mutual_info_regression
 
 from xgboost import XGBClassifier, XGBRegressor
 from joblib import dump, load
@@ -164,7 +164,7 @@ class ML_Backend():
                         pass
                     else:
                         self.categories = pd.read_csv(f"models/{self.dataSetName}/categories.csv")
-                        self.DF[i] = self.DF[i].apply(lambda cat: self.categories[self.categories[i] == cat][i + "Code"].values[0] if (self.categories[self.categories[i] == cat][i].count() > 0) else self.categories[i].max() + 1)
+                        self.DF[i] = self.DF[i].apply(lambda cat: self.categories[self.categories[i] == cat][i + "Code"].values[0] if (self.categories[self.categories[i] == cat][i].count() > 0) else int(self.categories[i].max())+ 1)
         
 
 
@@ -213,6 +213,7 @@ class ML_Backend():
             axes.set_title("Correlation Matrix", fontsize=14)
 
             plt.show()
+            f.savefig("data/corrplot.png", dpi=200)
 
     def feature_Selection(self, target=""):
         """Automated feature selection using sklearn GenericUnivariateSelect
@@ -224,7 +225,7 @@ class ML_Backend():
         y = data_set[target]
         X = data_set.drop(columns=[target])
         print(f"We are starting with the following columns:\n{X.columns}\n")
-        transformer = GenericUnivariateSelect(f_classif if self.type == "classification" else f_regression, mode="fwe")
+        transformer = GenericUnivariateSelect(f_classif if self.type == "classification" else f_regression, mode="percentile")
         self.data = transformer.fit_transform(X, y)
         columns_retained = self.DF.iloc[:, 1:].columns[transformer.get_support()].values
         self.DF = self.DF[columns_retained]
